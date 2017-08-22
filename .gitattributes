@@ -1,0 +1,2 @@
+uk_biobank/bims_combined.vep.tsv filter=lfs diff=lfs merge=lfs -text
+uk_biobank/variant_filter_table.tsv filter=lfs diff=lfs merge=lfs -text
