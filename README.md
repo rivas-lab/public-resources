@@ -6,14 +6,24 @@ the community.
 ## Cloning
 
 Some of the resources are large and therefore tracked with git LFS. It's best
-to clone this repository using `git lfs clone
-https://github.com/rivas-lab/public-resources.git`.
+to clone this repository using 
+
+`git lfs clone --recursive https://github.com/rivas-lab/public-resources.git`
+
+If you don't use `--recursive`, after cloning, use
+
+`git submodule update --init --recursive`
+
+to pull in the submodules.
 
 ## Directories
 
-### `uk_biobank`
-
 ### `gene_lists`
 
-Useful lists of genes. See README in that directory for more info. Also see
-https://github.com/macarthur-lab/gene_lists for more gene lists.
+Useful lists of genes. See README in that directory for more info. 
+
+### `uk_biobank`
+
+## `submodules`
+
+Useful repos from other sources.
