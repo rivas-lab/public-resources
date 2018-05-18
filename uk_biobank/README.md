@@ -79,6 +79,3 @@ This directory contains summary statistics for UK Biobank data using only direct
 
 This file contains column descriptions. 
 
-## `variant_filter_table.tsv`
-This file has statistics for variants on the arrays plus information for
-variant filtering.
