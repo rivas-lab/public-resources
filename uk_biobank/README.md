@@ -70,3 +70,15 @@ reasonably.
   browser, the variant was multiallelic, the allele frequencies differ
 drastically between UKB and gnomAD, or other signs that the array genotypes may
 not be accurate relative to the annotation.
+
+## UK Biobank summary statistics
+
+This directory contains summary statistics for UK Biobank data using only directly genotyped variants.
+
+## `column_descripitions`
+
+This file contains column descriptions. 
+
+## `variant_filter_table.tsv`
+This file has statistics for variants on the arrays plus information for
+variant filtering.
