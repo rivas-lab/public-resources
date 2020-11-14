@@ -1,0 +1,294 @@
+#GBE_ID	UKB_coding6	UKB_coding19	GBE_short_name	GBE_NAME	URL
+HC117	1511	K45,K45.0,K45.1,K45.8,K46,K46.0,K46.1,K46.9	Abdominal hernia	abdominal_hernia	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC117
+HC436	1548	L70,L70.0	Acne/acne vulgaris	acne/acne_vulgaris	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC436
+HC238	1429	E22.0	Acromegaly	acromegaly	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC238
+HC250	1256	G61.0	Acute infective polyneuritis/guillain-barre syndrome	acute_infective_polyneuritis/guillain-barre_syndrome	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC250
+HC359	1234	E27.1,E27.3	Adrenocortical insufficiency/addison's disease	adrenocortical_insufficiency/addison's_disease	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC359
+HC171	1604	K70,K70.0,K70.3,K70.9,K71,K71.7	Alcoholic liver disease / alcoholic cirrhosis	alcoholic_liver_disease_/_alcoholic_cirrhosis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC171
+HC234	1385	T78.0	Allergy or anaphylactic reaction to food	allergy_or_anaphylactic_reaction_to_food	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC234
+HC288	1667	L66	Alopecia / hair loss	alopecia_/_hair_loss	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC288
+HC125	1446	D46.0,D46.1,D46.2,D46.3,D46.4,D46.5,D50,D50.0,D50.9,D51,D51.0,D51.1,D51.3,D51.9,D52,D52.0,D52.1,D52.9,D53.0,D53.2,D53.9,D55,D55.0,D55.1,D55.2,D55.3,D55.9,D57.0,D57.1,D58.9,D59,D59.0,D59.2,D59.9,D61.0,D61.1,D61.2,D61.3,D61.9,D62,D63,D63.0,D63.1,D63.8,D64.0,D64.1,D64.2,D64.4,D64.9,O99.0,P61.2,P61.3,Y44.0,Y44.1	Anaemia	anaemia	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC125
+HC133	1504	K60,K60.0,K60.1,K60.2	Anal fissure	anal_fissure	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC133
+HC132	1074	I20,I20.0,I20.1,I20.8,I20.9	Angina	angina	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC132
+HC422	1313	M08.1,M08.10,M08.11,M08.12,M08.13,M08.14,M08.15,M08.16,M08.17,M08.18,M08.19,M45,M45.X0,M45.X1,M45.X2,M45.X3,M45.X4,M45.X5,M45.X6,M45.X7,M45.X8,M45.X9	Ankylosing spondylitis	ankylosing_spondylitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC422
+HC361	1470	R63.0	Anorexia/bulimia/other eating disorder	anorexia/bulimia/other_eating_disorder	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC361
+HC415	1492	I71,I71.1,I71.2,I71.3,I71.4,I71.5,I71.6,I71.8,I71.9	Aortic aneurysm	aortic_aneurysm	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC415
+HC184	1591	I71.1,I71.2,I71.3,I71.4,I71.6,I71.9	Aortic aneurysm rupture	aortic_aneurysm_rupture	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC184
+HC52	1592	I71	Aortic dissection	aortic_dissection	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC52
+HC259	1490	I06.0,I06.2,I35.0,I35.2,Q23.0,Q25.3	Aortic stenosis	aortic_stenosis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC259
+HC70	1586	I06.9	Aortic valve disease	aortic_valve_disease	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC70
+HC48	1332	D61,D61.0,D61.1,D61.2,D61.3,D61.9	Aplastic anaemia	aplastic_anaemia	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC48
+HC79	1502	K35,K35.0,K35.1,K35.2,K35.3,K35.8,K35.9,K36,K37	Appendicitis	appendicitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC79
+HC222	1088	I74	Arterial embolism	arterial_embolism	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC222
+HC78	1538	M00,M00.0,M00.00,M00.01,M00.02,M00.03,M00.04,M00.05,M00.06,M00.07,M00.08,M00.09,M00.1,M00.10,M00.11,M00.12,M00.13,M00.14,M00.15,M00.16,M00.17,M00.18,M00.19,M00.2,M00.20,M00.21,M00.22,M00.23,M00.24,M00.25,M00.26,M00.27,M00.28,M00.29,M00.8,M00.80,M00.81,M00.82,M00.83,M00.84,M00.85,M00.86,M00.87,M00.88,M00.89,M00.9,M00.90,M00.91,M00.92,M00.93,M00.94,M00.95,M00.96,M00.97,M00.98,M00.99,M01.0,M01.00,M01.01,M01.02,M01.03,M01.04,M01.05,M01.06,M01.07,M01.08,M01.09,M01.1,M01.10,M01.11,M01.12,M01.13,M01.14,M01.15,M01.16,M01.17,M01.18,M01.19,M01.2,M01.20,M01.21,M01.22,M01.23,M01.24,M01.25,M01.26,M01.27,M01.28,M01.29,M01.3,M01.30,M01.31,M01.32,M01.33,M01.34,M01.35,M01.36,M01.37,M01.38,M01.39,M01.4,M01.40,M01.41,M01.42,M01.43,M01.44,M01.45,M01.46,M01.47,M01.48,M01.49,M01.5,M01.50,M01.51,M01.52,M01.53,M01.54,M01.55,M01.56,M01.57,M01.58,M01.59,M01.6,M01.60,M01.61,M01.62,M01.63,M01.64,M01.65,M01.66,M01.67,M01.68,M01.69,M01.8,M01.80,M01.81,M01.82,M01.83,M01.84,M01.85,M01.86,M01.87,M01.88,M01.89,M03.0,M03.00,M03.01,M03.02,M03.03,M03.04,M03.05,M03.06,M03.07,M03.08,M03.09,M05,M05.3,M05.30,M05.31,M05.32,M05.33,M05.34,M05.35,M05.36,M05.37,M05.38,M05.39,M05.8,M05.80,M05.81,M05.82,M05.83,M05.84,M05.85,M05.86,M05.87,M05.88,M05.89,M05.9,M05.90,M05.91,M05.92,M05.93,M05.94,M05.95,M05.96,M05.97,M05.98,M05.99,M06,M06.0,M06.00,M06.01,M06.02,M06.03,M06.04,M06.05,M06.06,M06.07,M06.08,M06.09,M06.8,M06.80,M06.81,M06.82,M06.83,M06.84,M06.85,M06.86,M06.87,M06.88,M06.89,M06.9,M06.90,M06.91,M06.92,M06.93,M06.94,M06.95,M06.96,M06.97,M06.98,M06.99,M07.1,M07.10,M07.11,M07.12,M07.13,M07.14,M07.15,M07.16,M07.17,M07.18,M07.19,M08,M08.0,M08.00,M08.01,M08.02,M08.03,M08.04,M08.05,M08.06,M08.07,M08.08,M08.09,M08.2,M08.20,M08.21,M08.22,M08.23,M08.24,M08.25,M08.26,M08.27,M08.28,M08.29,M08.4,M08.40,M08.41,M08.42,M08.43,M08.44,M08.45,M08.46,M08.47,M08.48,M08.49,M08.8,M08.80,M08.81,M08.82,M08.83,M08.84,M08.85,M08.86,M08.87,M08.88,M08.89,M08.9,M08.90,M08.91,M08.92,M08.93,M08.94,M08.95,M08.96,M08.97,M08.98,M08.99,M09,M09.0,M09.00,M09.01,M09.02,M09.03,M09.04,M09.05,M09.06,M09.07,M09.08,M09.09,M09.1,M09.10,M09.11,M09.12,M09.13,M09.14,M09.15,M09.16,M09.17,M09.18,M09.19,M09.2,M09.20,M09.21,M09.22,M09.23,M09.24,M09.25,M09.26,M09.27,M09.28,M09.29,M09.8,M09.80,M09.81,M09.82,M09.83,M09.84,M09.85,M09.86,M09.87,M09.88,M09.89,M13,M13.8,M13.80,M13.81,M13.82,M13.83,M13.84,M13.85,M13.86,M13.87,M13.88,M13.89,M13.9,M13.90,M13.91,M13.92,M13.93,M13.94,M13.95,M13.96,M13.97,M13.98,M13.99,Z82.6	Arthritis (nos)	arthritis_(nos)	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC78
+HC382	1111	J45,J45.0,J45.1,J45.8,J45.9,Z82.5	Asthma	asthma	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC382
+HC281	1471	I48	Atrial fibrillation	atrial_fibrillation	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC281
+HC440	1483	I48	Atrial flutter	atrial_flutter	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC440
+HC7	1534	M54.5,M54.50,M54.51,M54.52,M54.53,M54.54,M54.55,M54.56,M54.57,M54.58,M54.59	Back pain	back_pain	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC7
+HC300	1525	G25.0	Benign / essential tremor	benign_/_essential_tremor	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC300
+HC58	1666	D24,D48.6	Benign breast lump	benign_breast_lump	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC58
+HC44	1160	K83.0,K83.1	Bile duct obstruction/ascending cholangitis	bile_duct_obstruction/ascending_cholangitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC44
+HC351	1613	H01.0	Blepharitis / eyelid infection	blepharitis_/_eyelid_infection	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC351
+HC134	1293	M84.9,M84.90,M84.91,M84.92,M84.93,M84.94,M84.95,M84.96,M84.97,M84.98,M84.99,M85.9,M85.90,M85.91,M85.92,M85.93,M85.94,M85.95,M85.96,M85.97,M85.98,M85.99,M89.9,M89.90,M89.91,M89.92,M89.93,M89.94,M89.95,M89.96,M89.97,M89.98,M89.99	Bone disorder	bone_disorder	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC134
+HC1	1602	K56,K56.5,K56.6,K91.3,P76,P76.2,P76.8,P76.9	Bowel / intestinal obstruction	bowel_/_intestinal_obstruction	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC1
+HC192	1600	P78.0	Bowel / intestinal perforation	bowel_/_intestinal_perforation	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC192
+HC162	1245	G06,G06.0,G07,S06.20,S06.21,S06.30,S06.31	Brain abscess/intracranial abscess	brain_abscess/intracranial_abscess	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC162
+HC309	1491	I61.3	Brain haemorrhage	brain_haemorrhage	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC309
+HC247	1364	D48.6	Breast disease (not cancer)	breast_disease_(not_cancer)	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC247
+HC317	1560	N60.2	Breast fibroadenoma	breast_fibroadenoma	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC317
+HC28	1114	J47,Q33.4	Bronchiectasis	bronchiectasis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC28
+HC371	1412	J20,J20.0,J20.1,J20.2,J20.3,J20.4,J20.5,J20.6,J20.7,J20.8,J20.9,J40,J41,J41.0,J41.1,J41.8,J42,J47,J68.0	Bronchitis	bronchitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC371
+HC304	1407		Burns N/A	burns_N/A	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC304
+HC204	1620	M06.2,M06.20,M06.21,M06.22,M06.23,M06.24,M06.25,M06.26,M06.27,M06.28,M06.29,M70.1,M70.10,M70.11,M70.12,M70.13,M70.14,M70.15,M70.16,M70.17,M70.18,M70.19,M70.2,M70.20,M70.21,M70.22,M70.23,M70.24,M70.25,M70.26,M70.27,M70.28,M70.29,M70.3,M70.30,M70.31,M70.32,M70.33,M70.34,M70.35,M70.36,M70.37,M70.38,M70.39,M70.4,M70.40,M70.41,M70.42,M70.43,M70.44,M70.45,M70.46,M70.47,M70.48,M70.49,M70.5,M70.50,M70.51,M70.52,M70.53,M70.54,M70.55,M70.56,M70.57,M70.58,M70.59,M70.6,M70.60,M70.61,M70.62,M70.63,M70.64,M70.65,M70.66,M70.67,M70.68,M70.69,M70.7,M70.70,M70.71,M70.72,M70.73,M70.74,M70.75,M70.76,M70.77,M70.78,M70.79,M71.1,M71.10,M71.11,M71.12,M71.13,M71.14,M71.15,M71.16,M71.17,M71.18,M71.19,M71.5,M71.50,M71.51,M71.52,M71.53,M71.54,M71.55,M71.56,M71.57,M71.58,M71.59,M73.0,M73.00,M73.01,M73.02,M73.03,M73.04,M73.05,M73.06,M73.07,M73.08,M73.09,M73.1,M73.10,M73.11,M73.12,M73.13,M73.14,M73.15,M73.16,M73.17,M73.18,M73.19,M75.5,M76.4,M76.40,M76.41,M76.42,M76.43,M76.44,M76.45,M76.46,M76.47,M76.48,M76.49	Bursitis	bursitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC204
+HC244	1432	E34.0	Carcinoid syndrome/tumour	carcinoid_syndrome/tumour	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC244
+HC414	1079	I25.5,I42,I42.0,I42.1,I42.2,I42.5,I42.6,I42.7,I42.9,I43,I43.0,I43.1,I43.2,I43.8,O90.3	Cardiomyopathy	cardiomyopathy	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC414
+HC295	1541	G56.0	Carpal tunnel syndrome	carpal_tunnel_syndrome	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC295
+HC25	1278	H25,H25.0,H25.1,H25.2,H25.8,H25.9,H26,H26.0,H26.1,H26.2,H26.3,H26.4,H26.8,H26.9,H28,H28.0,H28.1,H28.2,Q12.0	Cataract	cataract	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC25
+HC185	1625	H60.1,K12.2,L03,L03.0,L03.1,L03.2,L03.3,L03.8,L03.9,L98.3,N73.0,N73.1,N73.2	Cellulitis	cellulitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC185
+HC278	1425	I67.1	Cerebral aneurysm	cerebral_aneurysm	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC278
+HC82	1433	G80,G81,G82,G83,G80,G80.0,G80.3,G80.4,G80.8,G80.9	Cerebral palsy	cerebral_palsy	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC82
+HC418	1478	M43.02,M47.12,M47.22,M47.82,M47.92	Cervical spondylosis	cervical_spondylosis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC418
+HC144	1571	B01	Chickenpox	chickenpox	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC144
+HC50	1678	A70,P23.1	Chlamydia	chlamydia	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC50
+HC225	1163	K80.0,K80.1,K80.2,K80.4,K80.5,K81,K81.0,K81.1,K81.8,K81.9	Cholecystitis	cholecystitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC225
+HC188	1162	K80,K80.8	Gallstones	cholelithiasis/gall_stones	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC188
+HC187	1418	J37,J37.0,J37.1	Chronic laryngitis	chronic_laryngitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC187
+HC442	1112	J44,J44.0,J44.1,J44.8,J44.9	Chronic obstructive airways disease/copd	chronic_obstructive_airways_disease/copd	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC442
+HC298	1416	J32,J32.0,J32.1,J32.2,J32.3,J32.4,J32.8,J32.9	Chronic sinusitis	chronic_sinusitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC298
+HC307	1459	K51.8	Colitis/not crohns or ulcerative colitis	colitis/not_crohns_or_ulcerative_colitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC307
+HC136	1373	M30,M31,M32,M33,M34,M35,M36,L94.9	Connective tissue disorder	connective_tissue_disorder	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC136
+HC118	1599	K59.0	Constipation	constipation	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC118
+HC115	1669	L23,L23.0,L23.1,L23.2,L23.3,L23.4,L23.5,L23.6,L23.7,L23.8,L23.9,L24,L24.0,L24.1,L24.2,L24.3,L24.4,L24.5,L24.6,L24.7,L24.8,L24.9,L25,L25.0,L25.1,L25.2,L25.3,L25.4,L25.5,L25.8,L25.9	Contact dermatitis	contact_dermatitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC115
+HC322	1462	K50,K50.0,K50.1,K50.8,K50.9,M07.4,M07.40,M07.41,M07.42,M07.43,M07.44,M07.45,M07.46,M07.47,M07.48,M07.49,M09.1,M09.10,M09.11,M09.12,M09.13,M09.14,M09.15,M09.16,M09.17,M09.18,M09.19	Crohns disease	crohns_disease	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC322
+HC319	1239	E24,E24.2,E24.4,E24.8,E24.9	Cushings syndrome	cushings_syndrome	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC319
+HC283	1514	N30,N30.0,N30.1,N30.2,N30.4,N30.8,N30.9,N33.0	Cystitis	cystitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC283
+HC297	1576	A90,A91	Dengue fever	dengue_fever	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC297
+HC41	1286	F20.4,F31.3,F31.4,F31.5,P91.4	Depression	depression	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC41
+HC211	1480	M33,M33.0,M33.1	Dermatomyositis	dermatomyositis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC211
+HC73	1383	M33,M33.9,M36.0	Dermatopolymyositis	dermatopolymyositis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC73
+HC221	1220	E10-E14,E10,E11,E12,E13,E14,E23.2,N08.3,N25.1,O24,O24.0,O24.1,O24.2,O24.3,O24.4,O24.9,P70.0,P70.2,Z13.1,Z83.3	Diabetes	diabetes	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC221
+HC368	1521	E23.2,N25.1	Diabetes insipidus	diabetes_insipidus	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC368
+HC147	1574	A36,A36.0,A36.1,A36.2,A36.3,A36.8,A36.9,Y58.5,Z22.2,Z23.6,Z27.1,Z27.2,Z27.3	Diphtheria	diphtheria	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC147
+HC119	1533	M50.3,M51.3	Disc degeneration	disc_degeneration	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC119
+HC68	1232	C74.0,D35.0,D44.1,E21.5,E23.7,E27,E27.9	Disorder of adrenal gland	disorder_of_adrenal_gland	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC68
+HC122	1237	C75.1,D35.2,D44.3,E23.6,E23.7	Disorder or pituitary gland	disorder_or_pituitary_gland	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC122
+HC357	1457	K26	Duodenal ulcer	duodenal_ulcer	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC357
+HC316	1510	K30	Dyspepsia / indigestion	dyspepsia_/_indigestion	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC316
+HC435	1415	H81.9	Ear/vestibular disorder	ear/vestibular_disorder	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC435
+HC3	1558	O00,O00.8,O00.9,O08,O08.0,O08.1,O08.2,O08.3,O08.4,O08.5,O08.6,O08.7,O08.8,O08.9,P01.4	Ectopic pregnancy	ectopic_pregnancy	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC3
+HC261	1452	L20,L21,L22,L23,L24,L25,L26,L27,L28,L29,L30	Eczema/dermatitis	eczema/dermatitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC261
+HC431	1472	J43,J43.1,J43.2,J43.8,J43.9,J98.2,J98.3,P25,P25.0,P25.8,T79.7	Emphysema	emphysema	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC431
+HC106	1113	J41.0,J43	Emphysema/chronic bronchitis	emphysema/chronic_bronchitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC106
+HC270	1246	A83,A83.0,A83.1,A83.2,A83.3,A83.4,A83.5,A83.8,A83.9,A84,A84.0,A84.1,A84.8,A84.9,A85,A85.0,A85.1,A85.2,A85.8,A86,B00.4,B01.1,B02.0,B05.0,B26.2,B94.1,G04,G04.0,G04.8,G04.9,G05,G05.0,G05.1,G05.2,G05.8,Z24.1	Encephalitis	encephalitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC270
+HC205	1402	N80,N80.0,N80.1,N80.2,N80.3,N80.4,N80.5,N80.6,N80.8,N80.9	Endometriosis	endometriosis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC205
+HC271	1622	M77.0,M77.00,M77.01,M77.02,M77.03,M77.04,M77.05,M77.06,M77.07,M77.08,M77.09,M77.1,M77.10,M77.11,M77.12,M77.13,M77.14,M77.15,M77.16,M77.17,M77.18,M77.19	Epicondylitis	epicondylitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC271
+HC437	1264	F80.3,G40,G40.0,G40.1,G40.2,G40.3,G40.4,G40.8,G40.9,Z82.0	Epilepsy	epilepsy	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC437
+HC273	1072	I10,O10.0,P29.2	Essential hypertension	essential_hypertension	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC273
+HC81	1546	D75.2	Essential thrombocytosis	essential_thrombocytosis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC81
+HC101	1279	H40.3	Eye trauma	eye_trauma	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC101
+HC6	1242	D09.2	Eye/eyelid problem	eye/eyelid_problem	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC6
+HC74	1403	N97,N97.0,N97.1,N97.2,N97.3,N97.4,N97.8,N97.9	Female infertility	female_infertility	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC74
+HC257	1605	K41,K41.0,K41.1,K41.2,K41.3,K41.4,K41.9	Femoral hernia	femoral_hernia	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC257
+HC346	1542	M79.7,M79.70,M79.71,M79.72,M79.73,M79.74,M79.75,M79.76,M79.77,M79.78,M79.79	Fibromyalgia	fibromyalgia	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC346
+HC89	1562	E73,E73.8,E73.9,K90.4	Food intolerance	food_intolerance	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC89
+HC363	1631	S42.0,S42.01	Fracture clavicle / collar bone	fracture_clavicle_/_collar_bone	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC363
+HC260	1653	S82.4,S82.40,S82.41	Fracture fibula	fracture_fibula	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC260
+HC240	1639	S62.6,S62.60,S62.61	Fracture finger	fracture_finger	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC240
+HC76	1654	M80.07,M80.17,M80.27,M80.37,M80.47,M80.57,M80.87,M80.97,M84.07,M84.17,M84.27,M84.37,M84.47,M90.77,S92,S92.9,S92.90,S92.91	Fracture foot	fracture_foot	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC76
+HC83	1634	M80.03,M80.13,M80.23,M80.33,M80.43,M80.53,M80.83,M80.93,M84.03,M84.13,M84.23,M84.33,M84.43,M90.73,S52,S52.8,S52.80,S52.81,S52.9,S52.90,S52.91	Fracture forearm / wrist	fracture_forearm_/_wrist	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC83
+HC314	1638	M80.04,M80.14,M80.24,M80.34,M80.44,M80.54,M80.84,M80.94,M84.04,M84.14,M84.24,M84.34,M84.44,M90.74,S62,S62.0,S62.00,S62.01,S62.8,S62.80,S62.81,T92.2	Fracture hand	fracture_hand	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC314
+HC339	1651	M80.06,M80.16,M80.26,M80.36,M80.46,M80.56,M80.86,M80.96,M84.06,M84.16,M84.26,M84.36,M84.46,M90.76,S82,S82.9,S82.90,S82.91	Fracture lower leg / ankle	fracture_lower_leg_/_ankle	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC339
+HC327	1655	S92.3,S92.30,S92.31	Fracture metatarsal	fracture_metatarsal	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC327
+HC315	1630	M48.42,S12,S12.0,S12.00,S12.01,S12.1,S12.10,S12.11,S12.2,S12.20,S12.21	Fracture neck / cervical fracture	fracture_neck_/_cervical_fracture	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC315
+HC406	1648	S12,S22.3,S72,S72.0,S72.00,S72.01,S72.3	Fracture neck of femur / hip	fracture_neck_of_femur_/_hip	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC406
+HC293	1650	S82.0,S82.00,S82.01	Fracture patella / knee	fracture_patella_/_knee	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC293
+HC223	1647	C76.3,S32,S32.8,S32.80,S32.81,T91.2	Fracture pelvis	fracture_pelvis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC223
+HC57	1635	S52.1,S52.10,S52.11,S52.3,S52.30,S52.31,S52.4,S52.40,S52.41,S52.5,S52.50,S52.51,S52.6,S52.60,S52.61	Fracture radius	fracture_radius	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC57
+HC373	1644	S22.3,S22.30,S22.31	Fracture rib	fracture_rib	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC373
+HC173	1649	S72.3,S72.30,S72.31	Fracture shaft of femur	fracture_shaft_of_femur	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC173
+HC396	1632	M80.01,M80.11,M80.21,M80.31,M80.41,M80.51,M80.81,M80.91,M84.01,M84.11,M84.21,M84.31,M84.41,M90.71,S42,S42.1,S42.8,S42.80,S42.81,S42.9,S42.90,S42.91	Fracture shoulder / scapula	fracture_shoulder_/_scapula	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC396
+HC424	1626	P13.0,S02,S02.0,S02.00,S02.01,S02.1,S02.10,S02.11,S02.9,S02.90,S02.91,T90.2	Fracture skull / head	fracture_skull_/_head	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC424
+HC334	1645	S22,S22.2,S22.20,S22.21	Fracture sternum	fracture_sternum	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC334
+HC296	1640	S62.5,S62.50,S62.51	Fracture thumb	fracture_thumb	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC296
+HC200	1652	S82.1,S82.10,S82.11,S82.2,S82.20,S82.21,S82.3,S82.30,S82.31	Fracture tibia	fracture_tibia	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC200
+HC256	1656	S92.4,S92.40,S92.41,S92.5,S92.50,S92.51	Fracture toe	fracture_toe	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC256
+HC380	1636	S52.0,S52.00,S52.01,S52.2,S52.20,S52.21,S52.4,S52.40,S52.41,S52.6,S52.60,S52.61	Fracture ulna	fracture_ulna	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC380
+HC290	1633	S42.2,S42.20,S42.21	Fracture upper arm / humerus / elbow	fracture_upper_arm_/_humerus_/_elbow	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC290
+HC8	1161	D09.0,D30.3,D41.4	Gall bladder disease	gall_bladder_disease	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC8
+HC164	1138	K21	Gastro-oesophageal reflux (gord) / gastric reflux	gastro-oesophageal_reflux_(gord)_/_gastric_reflux	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC164
+HC369	1221	P70.0	Gestational diabetes	gestational_diabetes	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC369
+HC109	1073	O15	Gestational hypertension/pre-eclampsia	gestational_hypertension/pre-eclampsia	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC109
+HC338	1376	M31.5,M31.6	Giant cell/temporal arteritis	giant_cell/temporal_arteritis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC338
+HC276	1277	H40,H41,H40.0,H40.1,H40.2,H40.3,H40.4,H40.5,H40.6,H40.8,H40.9,H42,H42.0,H42.8,Q15.0	Glaucoma	glaucoma	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC276
+HC328	1466	M10,M10.0,M10.00,M10.01,M10.02,M10.03,M10.04,M10.05,M10.06,M10.07,M10.08,M10.09,M10.1,M10.10,M10.11,M10.12,M10.13,M10.14,M10.15,M10.16,M10.17,M10.18,M10.19,M10.2,M10.20,M10.21,M10.22,M10.23,M10.24,M10.25,M10.26,M10.27,M10.28,M10.29,M10.3,M10.30,M10.31,M10.32,M10.33,M10.34,M10.35,M10.36,M10.37,M10.38,M10.39,M10.4,M10.40,M10.41,M10.42,M10.43,M10.44,M10.45,M10.46,M10.47,M10.48,M10.49,M10.9,M10.90,M10.91,M10.92,M10.93,M10.94,M10.95,M10.96,M10.97,M10.98,M10.99	Gout	gout	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC328
+HC61	1505	I84	Haemorrhoids / piles	haemorrhoids_/_piles	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC61
+HC49	1387	J30.3	Hayfever/allergic rhinitis	hayfever/allergic_rhinitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC49
+HC323	1266	S00,S00.8,S00.9,S07,S07.8,S07.9,S09.0,S09.1,S09.9,S46.1,T90.0,T90.9	Head injury	head_injury	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC323
+HC326	1075	I21,I25.2	Heart attack (MI)	heart_attack/myocardial_infarction	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC326
+HC299	1076	I50	Heart failure/pulmonary odema	heart_failure/pulmonary_odema	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC299
+HC88	1066	C38.0,D15.1	Heart/cardiac problem	heart/cardiac_problem	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC88
+HC386	1442	B98.0	Helicobacter pylori	helicobacter_pylori	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC386
+HC438	1155	B15,B15.0,B15.9,B16,B16.0,B16.1,B16.2,B16.9,B17,B17.0,B17.1,B17.2,B17.8,B17.9,B18,B18.0,B18.1,B18.2,B18.8,B18.9,B19,B19.0,B19.9,B25.1,B58.1,B94.2,B15-B19,K70.1,K71.2,K71.3,K71.4,K71.5,K71.6,K73,K73.0,K73.1,K73.2,K73.8,K73.9,K75.2,K75.3,K75.4,O98.4,P35.3,Z22.5	Hepatitis	hepatitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC438
+HC264	1578	B15,B15.0,B15.9	Hepatitis a	hepatitis_a	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC264
+HC67	1579	B16	Hepatitis b	hepatitis_b	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC67
+HC249	1580	B17.1	Hepatitis c	hepatitis_c	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC249
+HC439	1582	B17.2	Hepatitis e	hepatitis_e	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC439
+HC226	1575	A60,B00,P35.2	Herpes simplex	herpes_simplex	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC226
+HC310	1474	K40,K41,K42,K43,K44,K45,K46,Q40.1	Hiatus hernia	hiatus_hernia	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC310
+HC130	1624	M70.4,M70.43,M70.44,M70.48	Housemaid's knee (prepatellar bursitis)	housemaid's_knee_(prepatellar_bursitis)	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC130
+HC127	1681	O01	Hydatiform mole	hydatiform_mole	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC127
+HC189	1235	E26,E26.0,E26.8	Hyperaldosteronism/conn's syndrome	hyperaldosteronism/conn's_syndrome	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC189
+HC198	1611	E21,E21.0,E21.1,E21.2,E21.3	Hyperparathyroidism	hyperparathyroidism	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC198
+HC350	1431	E22.1	Hyperprolactinaemia	hyperprolactinaemia	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC350
+HC215	1065	G93.2,I10,I15,I15.0,I15.1,I15.2,I15.8,I15.9,I27.0,I27.2,K76.6,O10,O10.0,O10.4,O10.9,O13,O14,O16,P29.2,R03.0	Hypertension	hypertension	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC215
+HC55	1225	E05,E05.8	Hyperthyroidism/thyrotoxicosis	hyperthyroidism/thyrotoxicosis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC55
+HC308	1588	I42,I42.1,I42.2	Hypertrophic cardiomyopathy (hcm / hocm)	hypertrophic_cardiomyopathy_(hcm_/_hocm)	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC308
+HC441	1430	E23.0,E23.1,E89.3	Hypopituitarism	hypopituitarism	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC441
+HC219	1226	E03	Hypothyroidism/myxoedema	hypothyroidism/myxoedema	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC219
+HC336	1520	B52.0,N07,N14.0,N14.1,N14.2,N14.3,N14.4,N15.0	Iga nephropathy	iga_nephropathy	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC336
+HC228	1244	A54.4,A81.9,A89	Infection of nervous system	infection_of_nervous_system	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC228
+HC287	1567	B27,B27.8	Infectious mononucleosis / glandular fever / epstein barr virus (ebv)	infectious_mononucleosis_/_glandular_fever_/_epstein_barr_virus_(ebv)	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC287
+HC379	1156	B19,B15-B19	Infective/viral hepatitis	infective/viral_hepatitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC379
+HC95	1461	K50,K51	Inflammatory bowel disease	inflammatory_bowel_disease	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC95
+HC243	1513	K40,K40.0,K40.1,K40.2,K40.3,K40.4,K40.9	Inguinal hernia	inguinal_hernia	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC243
+HC306	1616	F51.0	Insomnia	insomnia	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC306
+HC220	1115	B22.1,J70.2,J70.3,J70.4,J84.9,N15.9	Interstitial lung disease	interstitial_lung_disease	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC220
+HC179	1330	D50,D50.0,D50.8,D50.9	Iron deficiency anaemia	iron_deficiency_anaemia	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC179
+HC64	1154	K58,K58.0,K58.9	Irritable bowel syndrome	irritable_bowel_syndrome	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC64
+HC155	1295	M25.9,M25.90,M25.91,M25.92,M25.93,M25.94,M25.95,M25.96,M25.97,M25.98,M25.99	Joint disorder	joint_disorder	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC155
+HC153	1537	M25.5,M25.50,M25.51,M25.52,M25.53,M25.54,M25.55,M25.56,M25.57,M25.58,M25.59	Joint pain	joint_pain	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC153
+HC374	1197		Kidney stone/ureter stone/bladder stone	kidney_stone/ureter_stone/bladder_stone	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC374
+HC196	1499	H83.0	Labyrinthitis	labyrinthitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC196
+HC39	1549	L43,L43.0,L43.1,L43.3,L43.8,L43.9	Lichen planus	lichen_planus	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC39
+HC194	1136	D13.4,D13.6	Liver/biliary/pancreas problem	liver/biliary/pancreas_problem	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC194
+HC333	1411	A06.5,J85,J85.1,J85.2	Lung abscess	lung_abscess	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC333
+HC433	1495	I89.0,I97.2,Q82.0	Lymphoedema	lymphoedema	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC433
+HC303	1456	K90.0	Malabsorption/coeliac disease	malabsorption/coeliac_disease	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC303
+HC47	1441	B50,B50.0,B50.8,B50.9,B51,B51.0,B51.8,B51.9,B52,B52.0,B52.8,B52.9,B53,B53.0,B53.1,B53.8,B54,P37.3,P37.4	Malaria	malaria	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC47
+HC409	1404	N46	Male infertility	male_infertility	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC409
+HC233	1291	F31.3,F31.4,F31.5	Mania/bipolar disorder/manic depression	mania/bipolar_disorder/manic_depression	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC233
+HC311	1568	B05	Measles / morbillivirus	measles_/_morbillivirus	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC311
+HC253	1421	H81.0	Meniere's disease	meniere's_disease	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC253
+HC320	1247	A17.0,A20.3,A32.1,A39.0,A87,A87.0,A87.1,A87.8,A87.9,B00.3,B01.0,B02.1,B05.1,B26.1,B37.5,B38.4,G00,G00.0,G00.1,G00.2,G00.3,G00.8,G00.9,G01,G02,G02.0,G02.1,G02.8,G03,G03.0,G03.1,G03.2,G03.8,G03.9	Meningitis	meningitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC320
+HC71	1379	M31.7	Microscopic polyarteritis	microscopic_polyarteritis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC71
+HC86	1265	G43,G43.0,G43.1,G43.3,G43.8,G43.9	Migraine	migraine	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC86
+HC305	1489	I05.0,I05.2,I34.2,Q23.2	Mitral stenosis	mitral_stenosis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC305
+HC21	1584	I05.8,I05.9	Mitral valve disease	mitral_valve_disease	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC21
+HC432	1488	I34.1	Mitral valve prolapse	mitral_valve_prolapse	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC432
+HC56	1450	D47.2	Monoclonal gammopathy/not myeloma	monoclonal_gammopathy/not_myeloma	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC56
+HC218	1259	G12.2	Motor neurone disease	motor_neurone_disease	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC218
+HC24	1566	U80.1	Mrsa / methicillin resistant staphylococcus aureus	mrsa_/_methicillin_resistant_staphylococcus_aureus	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC24
+HC151	1261	G35	Multiple sclerosis	multiple_sclerosis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC151
+HC45	1569	B26	Mumps / epidemic parotitis	mumps_/_epidemic_parotitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC45
+HC330	1260,1437	G70,G70.0,P94.0	Myasthenia gravis	myasthenia_gravis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC330
+HC66	1658	C94.5,D47.4	Myelofibrosis	myelofibrosis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC66
+HC2	1426	I01.2,I09.0,I40,I40.0,I40.1,I40.8,I40.9,I41,I41.0,I41.1,I41.2,I41.8,I51.4	Myocarditis	myocarditis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC2
+HC5	1322	M60	Myositis/myopathy	myositis/myopathy	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC5
+HC156	1417	J33,K62.0	Nasal polyps	nasal_polyps	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC156
+HC4	1608	N10,N11,N11.8,N11.9,N12	Nephritis	nephritis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC4
+HC324	1615	F42,F42.8,F42.9	Obsessive compulsive disorder (ocd)	obsessive_compulsive_disorder_(ocd)	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC324
+HC212	1134	Q39.4	Oesophageal disorder	oesophageal_disorder	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC212
+HC445	1141	I85	Oesophageal varicies	oesophageal_varicies	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC445
+HC60	1139	K20,K22.7	Oesophagitis/barretts oesophagus	oesophagitis/barretts_oesophagus	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC60
+HC358	1435	H46	Optic neuritis	optic_neuritis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC358
+HC104	1308	M46.2,M46.20,M46.21,M46.22,M46.23,M46.24,M46.25,M46.26,M46.27,M46.28,M46.29,M86,M86.0,M86.00,M86.01,M86.02,M86.03,M86.04,M86.05,M86.06,M86.07,M86.08,M86.09,M86.1,M86.10,M86.11,M86.12,M86.13,M86.14,M86.15,M86.16,M86.17,M86.18,M86.19,M86.2,M86.20,M86.21,M86.22,M86.23,M86.24,M86.25,M86.26,M86.27,M86.28,M86.29,M86.3,M86.30,M86.31,M86.32,M86.33,M86.34,M86.35,M86.36,M86.37,M86.38,M86.39,M86.4,M86.40,M86.41,M86.42,M86.43,M86.44,M86.45,M86.46,M86.47,M86.48,M86.49,M86.5,M86.50,M86.51,M86.52,M86.53,M86.54,M86.55,M86.56,M86.57,M86.58,M86.59,M86.6,M86.60,M86.61,M86.62,M86.63,M86.64,M86.65,M86.66,M86.67,M86.68,M86.69,M86.8,M86.80,M86.81,M86.82,M86.83,M86.84,M86.85,M86.86,M86.87,M86.88,M86.89,M86.9,M86.90,M86.91,M86.92,M86.93,M86.94,M86.95,M86.96,M86.97,M86.98,M86.99	Osteomyelitis	osteomyelitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC104
+HC22	1309	M80,M80.0,M80.00,M80.01,M80.02,M80.03,M80.04,M80.05,M80.06,M80.07,M80.08,M80.09,M80.1,M80.10,M80.11,M80.12,M80.13,M80.14,M80.15,M80.16,M80.17,M80.18,M80.19,M80.2,M80.20,M80.21,M80.22,M80.23,M80.24,M80.25,M80.26,M80.27,M80.28,M80.29,M80.3,M80.30,M80.31,M80.32,M80.33,M80.34,M80.35,M80.36,M80.37,M80.38,M80.39,M80.4,M80.40,M80.41,M80.42,M80.43,M80.44,M80.45,M80.46,M80.47,M80.48,M80.49,M80.5,M80.50,M80.51,M80.52,M80.53,M80.54,M80.55,M80.56,M80.57,M80.58,M80.59,M80.8,M80.80,M80.81,M80.82,M80.83,M80.84,M80.85,M80.86,M80.87,M80.88,M80.89,M80.9,M80.90,M80.91,M80.92,M80.93,M80.94,M80.95,M80.96,M80.97,M80.98,M80.99,M81,M81.0,M81.00,M81.01,M81.02,M81.03,M81.04,M81.05,M81.06,M81.07,M81.08,M81.09,M81.1,M81.10,M81.11,M81.12,M81.13,M81.14,M81.15,M81.16,M81.17,M81.18,M81.19,M81.2,M81.20,M81.21,M81.22,M81.23,M81.24,M81.25,M81.26,M81.27,M81.28,M81.29,M81.3,M81.30,M81.31,M81.32,M81.33,M81.34,M81.35,M81.36,M81.37,M81.38,M81.39,M81.4,M81.40,M81.41,M81.42,M81.43,M81.44,M81.45,M81.46,M81.47,M81.48,M81.49,M81.5,M81.50,M81.51,M81.52,M81.53,M81.54,M81.55,M81.56,M81.57,M81.58,M81.59,M81.6,M81.60,M81.61,M81.62,M81.63,M81.64,M81.65,M81.66,M81.67,M81.68,M81.69,M81.8,M81.80,M81.81,M81.82,M81.83,M81.84,M81.85,M81.86,M81.87,M81.88,M81.89,M81.9,M81.90,M81.91,M81.92,M81.93,M81.94,M81.95,M81.96,M81.97,M81.98,M81.99,M82,M82.0,M82.00,M82.01,M82.02,M82.03,M82.04,M82.05,M82.06,M82.07,M82.08,M82.09,M82.1,M82.10,M82.11,M82.12,M82.13,M82.14,M82.15,M82.16,M82.17,M82.18,M82.19,M82.8,M82.80,M82.81,M82.82,M82.83,M82.84,M82.85,M82.86,M82.87,M82.88,M82.89,Q78.2	Osteoporosis	osteoporosis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC22
+HC421	1137	K45	Other abdominal problem	other_abdominal_problem	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC421
+HC285	1467	M20,M21,M22,M23,M24,M25	Other joint disorder	other_joint_disorder	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC285
+HC32	1405	Q60	Other renal/kidney problem	other_renal/kidney_problem	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC32
+HC419	1420	H80,H80.0,H80.1,H80.2,H80.8,H80.9	Otosclerosis	otosclerosis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC419
+HC392	1165	B25.2,B26.3,K85,K85.0,K85.1,K85.2,K85.3,K85.8,K85.9,K86.0,K86.1	Pancreatitis	pancreatitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC392
+HC51	1252	G04.1,G11.4,G82,G82.0,G82.1,G82.2	Paraplegia	paraplegia	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC51
+HC208	1229	D35.1,D44.2	Parathyroid gland problem (not cancer)	parathyroid_gland_problem_(not_cancer)	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC208
+HC206	1262	F02.3,G20	Parkinsons disease	parkinsons_disease	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC206
+HC154	1557	N73.9,N74.1,N74.2,N74.3,N74.4	Pelvic inflammatory disease/ pid	pelvic_inflammatory_disease/_pid	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC154
+HC18	1345	L10,L12	Pemphigoid/pemphigus	pemphigoid/pemphigus	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC18
+HC54	1400	K27	Peptic ulcer	peptic_ulcer	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC54
+HC114	1590	I31.3	Pericardial effusion	pericardial_effusion	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC114
+HC242	1589	I01.0,I09.2,I30,I30.0,I30.1,I30.8,I30.9,I31.0,I31.1,I32,I32.0,I32.1,I32.8	Pericarditis	pericarditis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC242
+HC191	1394	P14,P14.9,S14.4,S24.3,S34.6	Peripheral nerve injury	peripheral_nerve_injury	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC191
+HC280	1255	G90.0	Peripheral neuropathy	peripheral_neuropathy	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC280
+HC385	1067	I73,I73.8,I73.9,Q27,Q27.8,Q27.9	Peripheral vascular disease	peripheral_vascular_disease	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC385
+HC121	1190	K35.0,K35.2,K35.3,K65,K65.0,K65.8,K65.9,K67.0,K67.1,K67.2,K67.3,N73.3,N73.4,N73.5,P78.1	Peritonitis	peritonitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC121
+HC146	1596	J90,J91	Pleural effusion	pleural_effusion	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC146
+HC34	1125	A15.6,A16.5,R09.1	Pleurisy	pleurisy	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC34
+HC36	1398	B01.2,B05.2,B20.6,J09-J18,J10.0,J11.0,J12,J12.0,J12.1,J12.2,J12.3,J12.8,J12.9,J13,J14,J15,J15.0,J15.1,J15.2,J15.3,J15.4,J15.5,J15.6,J15.7,J15.8,J15.9,J16,J16.0,J16.8,J17,J17.0,J17.1,J17.2,J17.3,J17.8,J18,J18.1,J18.2,J18.8,J18.9,J85.1,J85.2,P23,P23.0,P23.1,P23.2,P23.3,P23.4,P23.5,P23.6,P23.8,P23.9	Pneumonia	pneumonia	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC36
+HC216	1497	J93,J93.0,J93.1,J93.8,J93.9,P25.1,S27.0,S27.00,S27.01	Pneumothorax	pneumothorax	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC216
+HC408	1526	A80,A80.0,A80.1,A80.2,A80.3,A80.4,A80.9,B91,M89.6,M89.60,M89.61,M89.62,M89.63,M89.64,M89.65,M89.66,M89.67,M89.68,M89.69,Z24.0,Z27.3	Polio / poliomyelitis	polio_/_poliomyelitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC408
+HC138	1380	M30.0	Polyartertis nodosa	polyartertis_nodosa	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC138
+HC126	1427	Q61.1,Q61.2,Q61.3	Polycystic kidney	polycystic_kidney	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC126
+HC291	1350	E28.2	Polycystic ovaries/polycystic ovarian syndrome	polycystic_ovaries/polycystic_ovarian_syndrome	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC291
+HC69	1438	D45,D75.1,P58.3,P61.1	Polycythaemia vera	polycythaemia_vera	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC69
+HC96	1377	M31.5,M35.3	Polymyalgia rheumatica	polymyalgia_rheumatica	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC96
+HC387	1481	M33.2	Polymyositis	polymyositis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC387
+HC332	1469	F43.1	Post-traumatic stress disorder	post-traumatic_stress_disorder	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC332
+HC313	1506	K74.3,K74.4,K74.5	Primary biliary cirrhosis	primary_biliary_cirrhosis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC313
+HC161	1517	N41.0,N41.1,N41.3	Prostatitis	prostatitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC161
+HC38	1453	L40,L40.0,L40.1,L40.4,L40.5,L40.8,L40.9,L41,M09.0,M09.00,M09.01,M09.02,M09.03,M09.04,M09.05,M09.06,M09.07,M09.08,M09.09	Psoriasis	psoriasis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC38
+HC91	1477	L40.5,M07.0,M07.00,M07.04,M07.07,M07.09	Psoriatic arthropathy	psoriatic_arthropathy	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC91
+HC420	1243	T74.3	Psychological/psychiatric problem	psychological/psychiatric_problem	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC420
+HC203	1093	I26,I26.0,I26.9	PE +/- DVT	pulmonary_embolism_+/-_dvt	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC203
+HC84	1121	E84.0,J84.1	Pulmonary fibrosis	pulmonary_fibrosis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC84
+HC112	1515	N11.0,N11.1	Pyelonephritis	pyelonephritis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC112
+HC391	1501	K31.1,Q40.0	Pyloric stenosis	pyloric_stenosis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC391
+HC355	1603	K62.3	Rectal prolapse	rectal_prolapse	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC355
+HC9	1194	N/A	Renal failure not requiring dialysis	renal_failure_not_requiring_dialysis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC9
+HC46	1193	N/A	Renal failure requiring dialysis	renal_failure_requiring_dialysis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC46
+HC294	1192	N17,N18,N19	Renal/kidney failure	renal/kidney_failure	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC294
+HC423	1124	J96,J96.0,J96.1,J96.9,P28.5,R09.2	Respiratory failure	respiratory_failure	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC423
+HC362	1594	J00-J06,J06.9,J22,J44.0	Respiratory infection	respiratory_infection	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC362
+HC356	1282	H34.0,H34.1,H34.2	Retinal artery/vein occlusion	retinal_artery/vein_occlusion	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC356
+HC302	1281	H33.0,H33.2,H33.3,H33.5	Retinal detachment	retinal_detachment	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC302
+HC149	1479	I00,I02,I01,L54.0	Rheumatic fever	rheumatic_fever	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC149
+HC430	1464	M05,M05.3,M05.30,M05.31,M05.32,M05.33,M05.34,M05.35,M05.36,M05.37,M05.38,M05.39,M05.8,M05.80,M05.81,M05.82,M05.83,M05.84,M05.85,M05.86,M05.87,M05.88,M05.89,M05.9,M05.90,M05.91,M05.92,M05.93,M05.94,M05.95,M05.96,M05.97,M05.98,M05.99,M06,M06.0,M06.00,M06.01,M06.02,M06.03,M06.04,M06.05,M06.06,M06.07,M06.08,M06.09,M06.2,M06.8,M06.80,M06.81,M06.82,M06.83,M06.84,M06.85,M06.86,M06.87,M06.88,M06.89,M06.9,M06.90,M06.91,M06.92,M06.93,M06.94,M06.95,M06.96,M06.97,M06.98,M06.99,M08.0,M08.00,M08.01,M08.02,M08.03,M08.04,M08.05,M08.06,M08.07,M08.08,M08.09	Rheumatoid arthritis	rheumatoid_arthritis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC430
+HC150	1660	L71,L71.8,L71.9	Rosacea	rosacea	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC150
+HC224	1570	B05,B06,Z27.4	Rubella / german measles	rubella_/_german_measles	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC224
+HC170	1371	D86,D86.0,D86.1,D86.2,D86.3,D86.8,D86.9,G53.2,M63.3	Sarcoidosis	sarcoidosis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC170
+HC397	1677	A38	Scarlet fever / scarlatina	scarlet_fever_/_scarlatina	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC397
+HC365	1443	B65	Schistosomiasis/bilharzia	schistosomiasis/bilharzia	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC365
+HC246	1289	F06.2,F20,F20.0,F20.1,F20.2,F20.3,F20.5,F20.6,F20.8,F20.9,F23.0,F23.1,F23.2	Schizophrenia	schizophrenia	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC246
+HC15	1476	M54.3,M54.30,M54.31,M54.32,M54.33,M54.34,M54.35,M54.36,M54.37,M54.38,M54.39,M54.4,M54.40,M54.41,M54.42,M54.43,M54.44,M54.45,M54.46,M54.47,M54.48,M54.49	Sciatica	sciatica	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC15
+HC163	1384	M34	Scleroderma/systemic sclerosis	scleroderma/systemic_sclerosis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC163
+HC417	1475	K83.0	Sclerosing cholangitis	sclerosing_cholangitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC417
+HC0	1535	M41,M41.0,M41.00,M41.01,M41.02,M41.03,M41.04,M41.05,M41.06,M41.07,M41.08,M41.09,M41.1,M41.10,M41.11,M41.12,M41.13,M41.14,M41.15,M41.16,M41.17,M41.18,M41.19,M41.2,M41.20,M41.21,M41.22,M41.23,M41.24,M41.25,M41.26,M41.27,M41.28,M41.29,M41.3,M41.30,M41.31,M41.32,M41.33,M41.34,M41.35,M41.36,M41.37,M41.38,M41.39,M41.4,M41.40,M41.41,M41.42,M41.43,M41.44,M41.45,M41.46,M41.47,M41.48,M41.49,M41.5,M41.50,M41.51,M41.52,M41.53,M41.54,M41.55,M41.56,M41.57,M41.58,M41.59,M41.8,M41.80,M41.81,M41.82,M41.83,M41.84,M41.85,M41.86,M41.87,M41.88,M41.89,M41.9,M41.90,M41.91,M41.92,M41.93,M41.94,M41.95,M41.96,M41.97,M41.98,M41.99,M96.5,Q76.3	Scoliosis	scoliosis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC0
+HC35	1486	I49.5	Sick sinus syndrome	sick_sinus_syndrome	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC35
+HC80	1339	D57	Sickle cell disease	sickle_cell_disease	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC80
+HC321	1382	M35.0	Sjogren's syndrome/sicca syndrome	sjogren's_syndrome/sicca_syndrome	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC321
+HC364	1123	G47.3,P28.3	Sleep apnoea	sleep_apnoea	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC364
+HC87	1524	Q05,Q05.0,Q05.1,Q05.2,Q05.3,Q05.4,Q05.5,Q05.6,Q05.7,Q05.8,Q05.9,Q76.0	Spina bifida	spina_bifida	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC87
+HC33	1251	C72.0,D33.4,D43.4	Spinal cord disorder	spinal_cord_disorder	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC33
+HC53	1267	P11.5,S14,S24,S34,S34.1,T09.3,T09.4,T91.3	Spinal injury	spinal_injury	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC53
+HC402	1536	M48.0,M48.00,M48.01,M48.02,M48.03,M48.04,M48.05,M48.06,M48.07,M48.08,M48.09	Spinal stenosis	spinal_stenosis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC402
+HC42	1126	J93,J93.0,J93.1	Spontaneous pneumothorax/recurrent pneumothorax	spontaneous_pneumothorax/recurrent_pneumothorax	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC42
+HC98	1135	D00.2,D13.1,D37.1	Stomach disorder	stomach_disorder	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC98
+HC178	1614	F43,F43.0,F43.1,F43.8,F43.9,R45.7,Z73.3	Stress	stress	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC178
+HC110	1081	G46.3,G46.4,I64,I69.4,Z82.3	Stroke	stroke	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC110
+HC255	1086	I60,I60.0,I60.1,I60.2,I60.3,I60.4,I60.5,I60.6,I60.7,I60.8,I60.9,I69.0,P10.3,P52.5,S06.6,S06.60,S06.61	Subarachnoid haemorrhage	subarachnoid_haemorrhage	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC255
+HC239	1083	S06.5,T81.0	Subdural haemorrhage/haematoma	subdural_haemorrhage/haematoma	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC239
+HC131	1487	I47.1,I47.2	Svt / supraventricular tachycardia	svt_/_supraventricular_tachycardia	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC131
+HC142	1621	M12.2,M12.20,M12.21,M12.22,M12.23,M12.24,M12.25,M12.26,M12.27,M12.28,M12.29,M65,M65.8,M65.80,M65.81,M65.82,M65.83,M65.84,M65.85,M65.86,M65.87,M65.88,M65.89,M65.9,M65.90,M65.91,M65.92,M65.93,M65.94,M65.95,M65.96,M65.97,M65.98,M65.99,M67.3,M68.0,M70.0,M70.00,M70.01,M70.02,M70.03,M70.04,M70.05,M70.06,M70.07,M70.08,M70.09	Synovitis	synovitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC142
+HC352	1381	M32,M32.9	Systemic lupus erythematosis/sle	systemic_lupus_erythematosis/sle	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC352
+HC267	1623	M77.1,M77.12,M77.13,M77.14,M77.16,M77.18	Tennis elbow / lateral epicondylitis	tennis_elbow_/_lateral_epicondylitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC267
+HC411	1340	D56,D56.0,D56.1,D56.2,D56.3,D56.9	Thalassaemia	thalassaemia	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC411
+HC384	1414	D02.0,D14.1,D38.0	Throat or larynx disorder	throat_or_larynx_disorder	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC384
+HC59	1428	E06,E06.0,E06.1,E06.2,E06.3,E06.4,E06.5,E06.9,O90.5	Thyroiditis	thyroiditis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC59
+HC116	1597	H93.1	Tinnitus / tiniitis	tinnitus_/_tiniitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC116
+HC400	1082	G45.9	Transient ischaemic attack (tia)	transient_ischaemic_attack_(tia)	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC400
+HC390	1523	G50.0	Trigemminal neuralgia	trigemminal_neuralgia	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC390
+HC62	1440	A15,A15.0,A15.1,A15.2,A15.3,A15.4,A15.5,A15.7,A15.8,A15.9,A16,A16.0,A16.1,A16.2,A16.3,A16.4,A16.7,A16.8,A16.9,A17,A17.8,A17.9,A18,A18.0,A18.1,A18.3,A18.4,A18.5,A18.6,A18.7,A18.8,A19,A19.0,A19.1,A19.2,A19.8,A19.9,B90,B90.0,B90.1,B90.2,B90.8,B90.9,A15-A19,J65,M49.0,M49.00,M49.01,M49.02,M49.03,M49.04,M49.05,M49.06,M49.07,M49.08,M49.09,M90.0,M90.00,M90.01,M90.02,M90.03,M90.04,M90.05,M90.06,M90.07,M90.08,M90.09,O98.0,P37.0,Z03.0,Z11.1,Z20.1,Z23.2	Tuberculosis (tb)	tuberculosis_(tb)	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC62
+HC120	1577	A01.0,A01.1,A01.2,A01.3	Typhoid fever	typhoid_fever	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC120
+HC201	1463	K51,K51.8,K51.9,M07.5,M07.50,M07.51,M07.52,M07.53,M07.54,M07.55,M07.56,M07.57,M07.58,M07.59,M09.2,M09.20,M09.21,M09.22,M09.23,M09.24,M09.25,M09.26,M09.27,M09.28,M09.29	Ulcerative colitis	ulcerative_colitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC201
+HC274	1512	K40-K46,K42,K42.0,K42.1,K42.9	Umbilical hernia	umbilical_hernia	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC274
+HC124	1679	C62.0,Q53,Q53.1,Q53.2,Q53.9	Undescended testicle	undescended_testicle	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC124
+HC195	1200	N13.0,N13.2	Ureteric obstruction/hydronephrosis	ureteric_obstruction/hydronephrosis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC195
+HC404	1196	A54.0,A54.1,A56.0,A56.2,N39.0,O23.4,O23.9,O86.2,P39.3	Urinary tract infection/kidney infection	urinary_tract_infection/kidney_infection	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC404
+HC389	1563	L50,L51,L52,L53,L54,L50.0,L50.1,L50.2,L50.3,L50.4,L50.5,L50.6,L50.8,L50.9,L56.3	Urticaria	urticaria	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC389
+HC268	1593	I83.0,I83.2	Varicose ulcer	varicose_ulcer	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC268
+HC401	1494	I83,I83.0,I83.1,I83.2,I83.9,I86,I86.8,O22.0	Varicose veins	varicose_veins	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC401
+HC292	1372	L95,L95.0,L95.8,L95.9,M05.2,M05.20,M05.21,M05.22,M05.23,M05.24,M05.25,M05.26,M05.27,M05.28,M05.29	Vasculitis	vasculitis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC292
+HC102	1500	A88.1,H81.1,H81.3,H81.4	Vertigo	vertigo	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC102
+HC289	1661	L80	Vitiligo	vitiligo	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC289
+HC318	1419	J38.1	Vocal cord polyp	vocal_cord_polyp	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC318
+HC312	1378	M31.3	Wegners granulmatosis	wegners_granulmatosis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC312
+HC282	1572	A37,A37.0,R05	Whooping cough / pertussis	whooping_cough_/_pertussis	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC282
+HC29	1676	A95,A95.0,A95.1,A95.9	Yellow fever	yellow_fever	https://gbe.stanford.edu/RIVAS_HG19/coding_breakdown/HC29
