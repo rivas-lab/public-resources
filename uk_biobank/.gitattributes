@@ -1,5 +1,6 @@
 variant_filter_table.new.tsv.gz filter=lfs diff=lfs merge=lfs -text
 annot.tsv filter=lfs diff=lfs merge=lfs -text
+annot.tsv.gz filter=lfs diff=lfs merge=lfs -text
 annot.rda filter=lfs diff=lfs merge=lfs -text
 snpnetcoxdfs.rds filter=lfs diff=lfs merge=lfs -text
 snpnetcoxfits.rds filter=lfs diff=lfs merge=lfs -text
