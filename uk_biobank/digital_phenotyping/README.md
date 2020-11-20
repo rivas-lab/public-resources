@@ -5,15 +5,15 @@ In UK Biobank, multiple data fields are available for case definition of disease
 Here, we provide the mapping file: [`UKB_coding_mapping_table.tsv`](UKB_coding_mapping_table.tsv). The table file has the following 6 columns:
 
 - `GBE_ID`: our phenotype code used in [Globel Biobank Engine](http://gbe.stanford.edu/)
-- `UKB_coding6`: disease codes in [UK Biobank Data Coding 6](http://biobank.ctsu.ox.ac.uk/crystal/coding.cgi?id=6)
-- `UKB_coding19`: disease codes in [UK Biobank Data Coding 19](http://biobank.ctsu.ox.ac.uk/crystal/coding.cgi?id=19)
+- `UKB_coding6`: disease codes (self-reported disease status) in [UK Biobank Data Coding 6](http://biobank.ctsu.ox.ac.uk/crystal/coding.cgi?id=6)
+- `UKB_coding19`: disease codes (ICD10 codes) in [UK Biobank Data Coding 19](http://biobank.ctsu.ox.ac.uk/crystal/coding.cgi?id=19)
 - `GBE_short_name`: the phenotype name
 - `GBE_NAME`: the full phenotype name without abbreviation
 - `URL`: the link to phenotype source breakdown page
 
-Note, `UKB_coding6` and `UKB_coding19` may have multiple values, deliminated with `,` symbol.
+Note, `UKB_coding6` and `UKB_coding19` may have multiple values, deliminated with `,` symbol. For example, myasthenia gravis has duplicated codes (1260 and 1437) in [UK Biobank Data Coding 6](http://biobank.ctsu.ox.ac.uk/crystal/coding.cgi?id=6).
 
-When you find it useful, please consider citing our digital phenotyping manuscript[1].
+When you find it useful to use this resource, please consider citing our digital phenotyping paper[1].
 
 ## Reference
 
