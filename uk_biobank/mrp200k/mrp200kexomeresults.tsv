@@ -1,4 +1,4 @@
-#GBE_ID	GBE_short_name	pops	num_pops	gene	num_variants_pav	num_variants_ptv	log_10_BF_study_similar_var_independent_sigma_m_mpc_pli_pav	log_10_BF_study_similar_var_similar_sigma_m_mpc_pli_pav	log_10_BF_study_similar_var_similar_sigma_m_mpc_pli_ptv
+GBE_ID	GBE_short_name	pops	num_pops	gene	n_pav	n_ptv	l10BF_IEM_pav	l10BF_SEM_pav	l10BF_SEM_ptv
 BIN10030500	Microalbumin > 40 mg/L	related_white_british	2.0	COL4A4	12.0	2.0	25.7	20.7	25.6
 BIN10030500	Microalbumin > 40 mg/L	related_white_british	2.0	CUBN	20.0		11.4	5.9	nan
 BIN_FC1001747	Hair colour (natural, before greying) blonde	non_british_white_related_white_british	3.0	OCA2	9.0		84.4	85.2	nan
