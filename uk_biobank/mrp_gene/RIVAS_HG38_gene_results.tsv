@@ -1,0 +1,1140 @@
+GBE_ID	GBE_short_name	pops	num_pops	gene	n_pav	n_ptv	l10BF_IEM_pav	l10BF_SEM_pav	l10BF_SEM_ptv
+BIN10030500	Microalbumin > 40 mg/L	related_white_british	2.0	COL4A4	12.0	2.0	25.7	20.7	25.6
+BIN10030500	Microalbumin > 40 mg/L	related_white_british	2.0	CUBN	20.0		11.4	5.9	nan
+BIN_FC1001747	Hair colour (natural, before greying) blonde	non_british_white_related_white_british	3.0	OCA2	9.0		84.4	85.2	nan
+BIN_FC1001747	Hair colour (natural, before greying) blonde	non_british_white_related_white_british	3.0	SLC12A9	9.0		10.7	8.15	nan
+BIN_FC1001747	Hair colour (natural, before greying) blonde	non_british_white_related_white_british	3.0	TPCN2	18.0	3.0	7.97	7.87	3.71
+BIN_FC1001747	Hair colour (natural, before greying) blonde	non_british_white_related_white_british	3.0	HERC2	24.0		6.42	11.2	nan
+BIN_FC1002247	Hearing difficulty	non_british_white_others_white_british	3.0	PDCD6	6.0		10.9	11.1	nan
+BIN_FC1002247	Hearing difficulty	non_british_white_others_white_british	3.0	GJB2	33.0	6.0	4.28	5.05	4.07
+BIN_FC1002306	Weight change compared with 1 year ago	african_non_british_white_others_related_s_asian_white_british	6.0	SLC25A5	18.0		4.33	5.58	nan
+BIN_FC3001747	Hair colour (natural, before greying) light brown	non_british_white_others_white_british	3.0	HERC2	63.0		5.5	-0.381	nan
+BIN_FC3002247	Hearing difficulty and Deafness	non_british_white_others_related_white_british	4.0	PDCD6	8.0		12	12.4	nan
+BIN_FC3002247	Hearing difficulty and Deafness	non_british_white_others_related_white_british	4.0	GJB2	44.0	8.0	5.01	6	4.57
+BIN_FC40002267	Use of sun/uv protection (Always)	non_british_white_others_related_white_british	4.0	MC1R	12.0	4.0	4.18	5.16	2.25
+BIN_FC4001747	Hair colour (natural, before greying) dark brown	non_british_white_others_white_british	3.0	OCA2	18.0		35.3	19.6	nan
+BIN_FC4001747	Hair colour (natural, before greying) dark brown	non_british_white_others_white_british	3.0	MC1R	12.0	3.0	21.3	25.4	11
+BIN_FC4001747	Hair colour (natural, before greying) dark brown	non_british_white_others_white_british	3.0	HERC2	63.0		13.2	-0.297	nan
+BIN_FC4001747	Hair colour (natural, before greying) dark brown	non_british_white_others_white_british	3.0	FANCA	54.0		8.13	11	nan
+BIN_FC4001747	Hair colour (natural, before greying) dark brown	non_british_white_others_white_british	3.0	SLC12A9	18.0		8.12	4.75	nan
+BIN_FC4001747	Hair colour (natural, before greying) dark brown	non_british_white_others_white_british	3.0	GOLGA8M	60.0	3.0	6.83	1.55	1.88
+BIN_FC4001747	Hair colour (natural, before greying) dark brown	non_british_white_others_white_british	3.0	CPNE7	15.0		7.62	0.875	nan
+BIN_FC4001747	Hair colour (natural, before greying) dark brown	non_british_white_others_white_british	3.0	ZNF778	39.0		6.19	11.9	nan
+BIN_FC4001747	Hair colour (natural, before greying) dark brown	non_british_white_others_white_british	3.0	ACSF3	24.0		5.43	0.532	nan
+BIN_FC4001747	Hair colour (natural, before greying) dark brown	non_british_white_others_white_british	3.0	TCF25	21.0		2.99	6.34	nan
+BIN_FC5001747	Hair colour (natural, before greying) black	african_others_related_s_asian_white_british	5.0	SLC24A5	5.0		5.11	5.11	nan
+BIN_FC7001747	Hair colour (natural, before greying) brown	non_british_white_others_related_white_british	4.0	MC1R	16.0	4.0	62.5	75.5	37.8
+BIN_FC7001747	Hair colour (natural, before greying) brown	non_british_white_others_related_white_british	4.0	OCA2	24.0		42.8	33.7	nan
+BIN_FC7001747	Hair colour (natural, before greying) brown	non_british_white_others_related_white_british	4.0	CPNE7	16.0		18.5	6.73	nan
+BIN_FC7001747	Hair colour (natural, before greying) brown	non_british_white_others_related_white_british	4.0	GAS8	16.0	4.0	11.3	0.384	-0.332
+BIN_FC7001747	Hair colour (natural, before greying) brown	non_british_white_others_related_white_british	4.0	ACSF3	28.0		10.3	3.01	nan
+BIN_FC7001747	Hair colour (natural, before greying) brown	non_british_white_others_related_white_british	4.0	FANCA	48.0		8.28	9.24	nan
+BIN_FC7001747	Hair colour (natural, before greying) brown	non_british_white_others_related_white_british	4.0	SLC12A9	20.0		5.62	3.21	nan
+BIN_FC7001747	Hair colour (natural, before greying) brown	non_british_white_others_related_white_british	4.0	SPATA33	8.0	4.0	5.08	5.29	5.09
+BIN_FC7001747	Hair colour (natural, before greying) brown	non_british_white_others_related_white_british	4.0	TCF25	24.0		5	11.6	nan
+BIN_FC7001747	Hair colour (natural, before greying) brown	non_british_white_others_related_white_british	4.0	CDK10	24.0		4.12	5.22	nan
+BIN_FC7001747	Hair colour (natural, before greying) brown	non_british_white_others_related_white_british	4.0	ZNF778	44.0		3.31	8.8	nan
+FH1002	Breast cancer (FH)	non_british_white_others_related_white_british	4.0	CHEK2	16.0	8.0	9.48	9.45	10.4
+FH1220	Diabetes (FH)	african_non_british_white_others_related_s_asian_white_british	6.0	PAM	32.0		5.49	5.63	nan
+FH1263	Alzheimer's/dementia (FH)	non_british_white_others_related_white_british	4.0	TTK	12.0		5.44	5.17	nan
+FH1263	Alzheimer's/dementia (FH)	non_british_white_others_related_white_british	4.0	OMA1	20.0		2.49	5.14	nan
+FH1263	Alzheimer's/dementia (FH)	non_british_white_others_related_white_british	4.0	TREM2	12.0		3.87	6.08	nan
+HC1158	TTE other dermatitis	others_related_white_british	3.0	FLG	72.0	6.0	5.35	4.63	6.32
+INI10030500	Microalbumin in urine	african_non_british_white_others_related_s_asian_white_british	6.0	COL4A4	684.0	36.0	11.1	6.09	14.2
+INI10030500	Microalbumin in urine	african_non_british_white_others_related_s_asian_white_british	6.0	CUBN	1792.0	139.0	10.7	10.1	6.65
+INI10030600	Albumin	african_non_british_white_others_related_s_asian_white_british	6.0	FCGRT	232.0	14.0	58.8	78.3	4.82
+INI10030600	Albumin	african_non_british_white_others_related_s_asian_white_british	6.0	ALB	427.0	35.0	29.1	51.7	46.8
+INI10030600	Albumin	african_non_british_white_others_related_s_asian_white_british	6.0	SNX8	473.0	26.0	8.74	3	0.083
+INI10030600	Albumin	african_non_british_white_others_related_s_asian_white_british	6.0	SERPINA1	396.0	16.0	8.52	4.77	0.192
+INI10030600	Albumin	african_non_british_white_others_related_s_asian_white_british	6.0	IQGAP2	1151.0	128.0	5.39	8.26	7.26
+INI10030600	Albumin	african_non_british_white_others_related_s_asian_white_british	6.0	TNFRSF13B	355.0	45.0	5.73	5.95	0.0892
+INI10030600	Albumin	african_non_british_white_others_related_s_asian_white_british	6.0	ABCA6	1245.0	146.0	0.908	6.66	3.16
+INI10030610	Alkaline phosphatase	african_non_british_white_others_related_s_asian_white_british	6.0	GPLD1	832.0	86.0	331	393	271
+INI10030610	Alkaline phosphatase	african_non_british_white_others_related_s_asian_white_british	6.0	ALPL	428.0	47.0	242	533	37.6
+INI10030610	Alkaline phosphatase	african_non_british_white_others_related_s_asian_white_british	6.0	HSPG2	4492.0	177.0	85.5	5.94	-0.617
+INI10030610	Alkaline phosphatase	african_non_british_white_others_related_s_asian_white_british	6.0	GBGT1	468.0	44.0	29	4.88	-0.625
+INI10030610	Alkaline phosphatase	african_non_british_white_others_related_s_asian_white_british	6.0	ALDH5A1	486.0	50.0	35.4	1.38	-0.323
+INI10030610	Alkaline phosphatase	african_non_british_white_others_related_s_asian_white_british	6.0	NBPF3	573.0	73.0	18.9	2.1	0.474
+INI10030610	Alkaline phosphatase	african_non_british_white_others_related_s_asian_white_british	6.0	ASGR1	235.0	33.0	17.1	50	14.9
+INI10030610	Alkaline phosphatase	african_non_british_white_others_related_s_asian_white_british	6.0	ECE1	518.0	31.0	16.3	6.8	0.165
+INI10030610	Alkaline phosphatase	african_non_british_white_others_related_s_asian_white_british	6.0	TDP2	292.0	39.0	9.98	5.02	-0.278
+INI10030610	Alkaline phosphatase	african_non_british_white_others_related_s_asian_white_british	6.0	ZNF800	302.0	3.0	8.14	5.16	-0.057
+INI10030610	Alkaline phosphatase	african_non_british_white_others_related_s_asian_white_british	6.0	FBXW4	417.0	23.0	6.32	2.81	-0.2
+INI10030610	Alkaline phosphatase	african_non_british_white_others_related_s_asian_white_british	6.0	OSGIN1	596.0	32.0	6.85	1.6	-0.139
+INI10030610	Alkaline phosphatase	african_non_british_white_others_related_s_asian_white_british	6.0	ABCB11	1015.0	46.0	5.44	11.7	5.19
+INI10030610	Alkaline phosphatase	african_non_british_white_others_related_s_asian_white_british	6.0	SURF2	295.0	36.0	6.26	0.955	-0.388
+INI10030610	Alkaline phosphatase	african_non_british_white_others_related_s_asian_white_british	6.0	ATG4C	402.0	56.0	4.31	7.15	5.89
+INI10030610	Alkaline phosphatase	african_non_british_white_others_related_s_asian_white_british	6.0	PKD1	5073.0	53.0	6.79	3.14	-0.514
+INI10030620	Alanine aminotransferase	african_non_british_white_others_related_s_asian_white_british	6.0	GPT	534.0	57.0	282	480	116
+INI10030620	Alanine aminotransferase	african_non_british_white_others_related_s_asian_white_british	6.0	SLC30A10	253.0	8.0	7.15	4.61	-0.279
+INI10030620	Alanine aminotransferase	african_non_british_white_others_related_s_asian_white_british	6.0	ARHGAP39	711.0	16.0	7.22	1.65	-0.183
+INI10030620	Alanine aminotransferase	african_non_british_white_others_related_s_asian_white_british	6.0	ANO5	737.0	89.0	6.44	8.41	6.82
+INI10030620	Alanine aminotransferase	african_non_british_white_others_related_s_asian_white_british	6.0	RECQL4	1676.0	117.0	5.85	2.44	-0.398
+INI1003063	FEV FVC ratio	african_non_british_white_others_related_s_asian_white_british	6.0	HMCN1	4016.0	202.0	2.21	10.4	5.21
+INI10030630	Apolipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	ABCA1	1489.0	92.0	60.4	106	31
+INI10030630	Apolipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	LIPC	625.0	44.0	31.4	41.7	15.5
+INI10030630	Apolipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	LIPG	435.0	39.0	29.2	31.4	3.72
+INI10030630	Apolipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	ANGPTL3	316.0	50.0	23.1	24.2	23.9
+INI10030630	Apolipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	APOA1	220.0	14.0	20.1	2.42	1.45
+INI10030630	Apolipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	PLA2G12A	179.0	23.0	18.2	16.4	-0.277
+INI10030630	Apolipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	CETP	446.0	43.0	11.7	19.1	14.1
+INI10030630	Apolipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	APOC3	108.0	19.0	9.29	10.6	11.1
+INI10030630	Apolipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	LPL	385.0	26.0	7.42	13.4	4.51
+INI10030630	Apolipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	APOB	3001.0	131.0	8.1	8.74	1.86
+INI10030630	Apolipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	SCARB1	517.0	26.0	7.93	9	0.671
+INI10030630	Apolipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	SIDT2	721.0	39.0	5.23	2.7	-0.267
+INI10030630	Apolipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	LCAT	300.0	19.0	4.36	28.2	3.81
+INI10030630	Apolipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	CD36	853.0	228.0	4.96	11.9	7.4
+INI1003064	PEF pred. ratio	african_non_british_white_others_related_s_asian_white_british	6.0	HMCN1	4016.0	202.0	2.21	10.4	5.21
+INI10030650	Aspartate aminotransferase	african_non_british_white_others_related_s_asian_white_british	6.0	GOT1	281.0	21.0	86.8	75.4	27.7
+INI10030650	Aspartate aminotransferase	african_non_british_white_others_related_s_asian_white_british	6.0	TMEM236	318.0	33.0	23.9	2.43	-0.0623
+INI10030650	Aspartate aminotransferase	african_non_british_white_others_related_s_asian_white_british	6.0	ANO5	736.0	89.0	14.4	15.8	13.9
+INI10030650	Aspartate aminotransferase	african_non_british_white_others_related_s_asian_white_british	6.0	SLC30A10	253.0	8.0	9.05	5.09	-0.292
+INI10030650	Aspartate aminotransferase	african_non_british_white_others_related_s_asian_white_british	6.0	SH3TC1	1811.0	131.0	7.68	2.04	-0.915
+INI10030660	Direct bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	UGT1A7	228.0	37.0	133	42.7	-0.238
+INI10030660	Direct bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	MROH2A	1497.0	141.0	55.7	12	6.74
+INI10030660	Direct bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	SLCO1B3	682.0	80.0	25.4	38.7	24.7
+INI10030660	Direct bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	UGT1A5	207.0	19.0	21.4	7.54	0.139
+INI10030660	Direct bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	UGT1A4	334.0	22.0	16.9	2.38	-0.329
+INI10030660	Direct bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	UGT1A10	428.0	37.0	15.6	24.4	16.2
+INI10030660	Direct bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	UGT1A3	289.0	35.0	14.6	2.03	2.95
+INI10030660	Direct bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	DGKD	824.0	23.0	11.6	-0.19	-0.176
+INI10030660	Direct bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	SAG	404.0	37.0	12.4	3.61	-0.127
+INI10030660	Direct bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	UGT1A9	226.0	19.0	11.9	0.0724	-0.266
+INI10030660	Direct bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	USP40	985.0	99.0	9.15	0.125	-0.498
+INI10030660	Direct bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	SLCO1B1	545.0	77.0	5.16	11.2	5.16
+INI10030660	Direct bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	HJURP	583.0	37.0	5.73	-0.124	-0.281
+INI10030660	Direct bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	TRPM8	827.0	79.0	5.31	2.29	-0.452
+INI10030660	Direct bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	UGT1A1	166.0	15.0	6.48	17.6	0.171
+INI10030660	Direct bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	APOB	2890.0	134.0	4.17	2.88	10.3
+INI10030660	Direct bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	HBB	126.0	29.0	2.07	6.7	6.71
+INI10030660	Direct bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	PCSK9	702.0	72.0	1.26	5.42	3
+INI10030670	Urea	african_non_british_white_others_related_s_asian_white_british	6.0	RBM47	437.0	10.0	8.61	14.2	1.14
+INI10030670	Urea	african_non_british_white_others_related_s_asian_white_british	6.0	SLC34A3	779.0	60.0	1.76	5.01	4.18
+INI10030680	Calcium	african_non_british_white_others_related_s_asian_white_british	6.0	CASR	409.0	16.0	21	0.00167	4.21
+INI10030680	Calcium	african_non_british_white_others_related_s_asian_white_british	6.0	FCGRT	233.0	14.0	16.9	20.1	0.711
+INI10030680	Calcium	african_non_british_white_others_related_s_asian_white_british	6.0	ALB	427.0	35.0	9.5	13	15.4
+INI10030700	Creatinine	african_non_british_white_others_related_s_asian_white_british	6.0	SLC22A2	484.0	34.0	21.7	28.9	21.8
+INI10030700	Creatinine	african_non_british_white_others_related_s_asian_white_british	6.0	LRP2	3231.0	90.0	11.6	16.6	1.49
+INI10030700	Creatinine	african_non_british_white_others_related_s_asian_white_british	6.0	SLC22A7	424.0	48.0	8.18	6.26	0.413
+INI10030700	Creatinine	african_non_british_white_others_related_s_asian_white_british	6.0	PKHD1	3235.0	230.0	8.71	6.3	1.71
+INI10030700	Creatinine	african_non_british_white_others_related_s_asian_white_british	6.0	CUBN	3199.0	228.0	6.68	2.71	1.16
+INI10030700	Creatinine	african_non_british_white_others_related_s_asian_white_british	6.0	RNF186	223.0	15.0	5.57	2.87	5.25
+INI10030700	Creatinine	african_non_british_white_others_related_s_asian_white_british	6.0	SLC34A3	779.0	60.0	5.84	9.36	8.28
+INI10030700	Creatinine	african_non_british_white_others_related_s_asian_white_british	6.0	SLC6A19	919.0	96.0	5.46	1.46	-0.517
+INI10030700	Creatinine	african_non_british_white_others_related_s_asian_white_british	6.0	SLC7A9	438.0	38.0	3.73	5.62	0.55
+INI10030700	Creatinine	african_non_british_white_others_related_s_asian_white_british	6.0	SLC47A1	561.0	61.0	2.2	5.22	0.217
+INI10030700	Creatinine	african_non_british_white_others_related_s_asian_white_british	6.0	CLDN10	198.0	23.0	1.05	5.66	3.68
+INI10030710	C-reactive protein	african_non_british_white_others_related_s_asian_white_british	6.0	CRP	181.0	29.0	114	119	10.7
+INI10030710	C-reactive protein	african_non_british_white_others_related_s_asian_white_british	6.0	TOMM40	250.0	11.0	9.93	6.8	-0.254
+INI10030710	C-reactive protein	african_non_british_white_others_related_s_asian_white_british	6.0	APCS	172.0	25.0	10.1	1.85	-0.496
+INI10030710	C-reactive protein	african_non_british_white_others_related_s_asian_white_british	6.0	DUSP23	179.0	9.0	5.52	3.79	-0.125
+INI10030710	C-reactive protein	african_non_british_white_others_related_s_asian_white_british	6.0	LEPR	650.0	40.0	5.28	-0.384	-0.371
+INI10030710	C-reactive protein	african_non_british_white_others_related_s_asian_white_british	6.0	CLASRP	762.0	47.0	5.72	0.941	-0.264
+INI10030710	C-reactive protein	african_non_british_white_others_related_s_asian_white_british	6.0	APOE	314.0	9.0	5.21	1.97	-0.107
+INI10030720	Cystatin C	african_non_british_white_others_related_s_asian_white_british	6.0	CST3	162.0	24.0	90.7	213	159
+INI10030720	Cystatin C	african_non_british_white_others_related_s_asian_white_british	6.0	SH2B3	688.0	48.0	8.02	10.4	1.39
+INI10030720	Cystatin C	african_non_british_white_others_related_s_asian_white_british	6.0	CST9L	123.0	19.0	9.77	1.3	2.51
+INI10030720	Cystatin C	african_non_british_white_others_related_s_asian_white_british	6.0	CST9	167.0	21.0	9.9	2.16	0.232
+INI10030720	Cystatin C	african_non_british_white_others_related_s_asian_white_british	6.0	THBD	410.0	13.0	8.4	0.207	-0.0975
+INI10030720	Cystatin C	african_non_british_white_others_related_s_asian_white_british	6.0	CGNL1	1172.0	60.0	5.45	8.82	5.79
+INI10030720	Cystatin C	african_non_british_white_others_related_s_asian_white_british	6.0	SLC34A3	779.0	60.0	6.9	8.38	7.86
+INI10030720	Cystatin C	african_non_british_white_others_related_s_asian_white_british	6.0	LRP2	3228.0	90.0	5.41	8.66	1.58
+INI10030720	Cystatin C	african_non_british_white_others_related_s_asian_white_british	6.0	PKHD1	3237.0	230.0	2.66	5.39	1.12
+INI10030720	Cystatin C	african_non_british_white_others_related_s_asian_white_british	6.0	CLDN10	198.0	23.0	1.83	9.09	4.78
+INI10030720	Cystatin C	african_non_british_white_others_related_s_asian_white_british	6.0	HLA-C	1384.0	156.0	0.356	5.77	0.774
+INI10030730	Gamma glutamyltransferase	african_non_british_white_others_related_s_asian_white_british	6.0	GGT1	545.0	39.0	52.1	42.9	2.93
+INI10030730	Gamma glutamyltransferase	african_non_british_white_others_related_s_asian_white_british	6.0	LRRC75B	386.0	50.0	33.4	21.2	11.1
+INI10030730	Gamma glutamyltransferase	african_non_british_white_others_related_s_asian_white_british	6.0	RORC	324.0	29.0	14.9	15.1	14.6
+INI10030730	Gamma glutamyltransferase	african_non_british_white_others_related_s_asian_white_british	6.0	UPB1	377.0	57.0	14.1	8.38	9.47
+INI10030730	Gamma glutamyltransferase	african_non_british_white_others_related_s_asian_white_british	6.0	SPECC1L	614.0	25.0	8.3	3.37	0.147
+INI10030730	Gamma glutamyltransferase	african_non_british_white_others_related_s_asian_white_british	6.0	SYNJ2	1405.0	111.0	10.6	8.2	2.32
+INI10030730	Gamma glutamyltransferase	african_non_british_white_others_related_s_asian_white_british	6.0	AMN	454.0	39.0	8.65	0.102	-0.366
+INI10030730	Gamma glutamyltransferase	african_non_british_white_others_related_s_asian_white_british	6.0	A1CF	366.0	35.0	7.19	13	3.38
+INI10030730	Gamma glutamyltransferase	african_non_british_white_others_related_s_asian_white_british	6.0	EXOC3L4	818.0	62.0	7.99	9.95	1.41
+INI10030730	Gamma glutamyltransferase	african_non_british_white_others_related_s_asian_white_british	6.0	PIWIL3	832.0	121.0	5.6	3.4	0.823
+INI10030730	Gamma glutamyltransferase	african_non_british_white_others_related_s_asian_white_british	6.0	ABCB11	1014.0	46.0	6.12	0.21	0.291
+INI10030730	Gamma glutamyltransferase	african_non_british_white_others_related_s_asian_white_british	6.0	CABIN1	1503.0	74.0	5.42	-0.451	-0.391
+INI10030730	Gamma glutamyltransferase	african_non_british_white_others_related_s_asian_white_british	6.0	SIGLEC1	1693.0	127.0	3.81	5.24	0.687
+INI10030740	Glucose	african_non_british_white_others_related_s_asian_white_british	6.0	G6PC2	333.0	50.0	59.5	53.3	15.8
+INI10030740	Glucose	african_non_british_white_others_related_s_asian_white_british	6.0	MAP3K15	976.0	104.0	9.73	10.6	3.5
+INI10030740	Glucose	african_non_british_white_others_related_s_asian_white_british	6.0	ANKH	296.0	13.0	5.37	1.25	-0.108
+INI10030740	Glucose	african_non_british_white_others_related_s_asian_white_british	6.0	GCK	222.0	19.0	3.17	7.29	3.02
+INI10030740	Glucose	african_non_british_white_others_related_s_asian_white_british	6.0	GIGYF1	938.0	40.0	1.69	2.17	5.89
+INI10030750	HbA1c	african_non_british_white_others_related_s_asian_white_british	6.0	RENBP	279.0	17.0	11.6	2.94	0.356
+INI10030750	HbA1c	african_non_british_white_others_related_s_asian_white_british	6.0	G6PC2	332.0	53.0	27.9	26.7	8.73
+INI10030750	HbA1c	african_non_british_white_others_related_s_asian_white_british	6.0	TMC8	655.0	47.0	21.4	0.0978	0.345
+INI10030750	HbA1c	african_non_british_white_others_related_s_asian_white_british	6.0	G6PD	243.0	7.0	30.7	10.3	-0.179
+INI10030750	HbA1c	african_non_british_white_others_related_s_asian_white_british	6.0	PIEZO1	3990.0	147.0	26.4	5.45	-0.322
+INI10030750	HbA1c	african_non_british_white_others_related_s_asian_white_british	6.0	CTU2	900.0	77.0	21.1	0.808	-0.414
+INI10030750	HbA1c	african_non_british_white_others_related_s_asian_white_british	6.0	MAP3K15	982.0	105.0	16.6	15.7	6.52
+INI10030750	HbA1c	african_non_british_white_others_related_s_asian_white_british	6.0	AMPD3	712.0	54.0	16.3	4.93	0.182
+INI10030750	HbA1c	african_non_british_white_others_related_s_asian_white_british	6.0	RHAG	309.0	18.0	11.4	11.7	12.5
+INI10030750	HbA1c	african_non_british_white_others_related_s_asian_white_british	6.0	ANKH	303.0	14.0	8.85	1.85	-0.119
+INI10030750	HbA1c	african_non_british_white_others_related_s_asian_white_british	6.0	AXL	645.0	22.0	8.34	2.53	-0.108
+INI10030750	HbA1c	african_non_british_white_others_related_s_asian_white_british	6.0	ANK1	1498.0	31.0	8.02	0.991	-0.493
+INI10030750	HbA1c	african_non_british_white_others_related_s_asian_white_british	6.0	TFR2	600.0	41.0	6.18	5.88	0.441
+INI10030750	HbA1c	african_non_british_white_others_related_s_asian_white_british	6.0	SPTA1	1933.0	79.0	5.33	4.23	12.7
+INI10030750	HbA1c	african_non_british_white_others_related_s_asian_white_british	6.0	MFSD2B	475.0	33.0	5.96	0.168	0.257
+INI10030750	HbA1c	african_non_british_white_others_related_s_asian_white_british	6.0	ATP11C	407.0	24.0	4.68	5.35	1.83
+INI10030750	HbA1c	african_non_british_white_others_related_s_asian_white_british	6.0	PFKM	529.0	61.0	5.24	3.28	1.96
+INI10030750	HbA1c	african_non_british_white_others_related_s_asian_white_british	6.0	PTPRH	990.0	104.0	6.24	6.56	3.19
+INI10030750	HbA1c	african_non_british_white_others_related_s_asian_white_british	6.0	GCK	228.0	20.0	4.27	13	6.02
+INI10030750	HbA1c	african_non_british_white_others_related_s_asian_white_british	6.0	GIGYF1	954.0	41.0	2.66	3.89	7.78
+INI10030750	HbA1c	african_non_british_white_others_related_s_asian_white_british	6.0	SLC30A8	343.0	43.0	0.803	5.9	1.85
+INI10030760	HDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	ABCA1	1491.0	92.0	52.2	88.3	24
+INI10030760	HDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	LIPG	438.0	39.0	26.4	22.7	1.6
+INI10030760	HDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	LIPC	631.0	44.0	23	33.8	14
+INI10030760	HDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	CETP	452.0	45.0	28.6	38.3	28.8
+INI10030760	HDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	APOA1	224.0	14.0	16.8	13.4	-0.281
+INI10030760	HDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	PLA2G12A	179.0	23.0	11.2	9.03	-0.301
+INI10030760	HDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	PDE3B	755.0	52.0	10.4	8.72	9.22
+INI10030760	HDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	APOC3	108.0	19.0	13.8	16.3	16.6
+INI10030760	HDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	SCARB1	519.0	26.0	14.8	16.6	1.04
+INI10030760	HDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	LPL	386.0	26.0	10.8	18.1	6.43
+INI10030760	HDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	ANGPTL3	316.0	50.0	8.9	5.37	8.4
+INI10030760	HDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	APOA5	244.0	30.0	9.46	11.3	10.3
+INI10030760	HDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	ANGPTL8	196.0	36.0	8.2	8.89	9.26
+INI10030760	HDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	SLC12A3	1083.0	102.0	6.49	-0.238	0.00385
+INI10030760	HDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	NR1H3	398.0	38.0	7.01	8.93	3.67
+INI10030760	HDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	LCAT	299.0	19.0	5.44	35.3	4.09
+INI10030760	HDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	APOB	3007.0	131.0	5.44	9.8	4.15
+INI10030770	IGF-1	african_non_british_white_others_related_s_asian_white_british	6.0	GH1	301.0	16.0	55.1	12.4	0.307
+INI10030770	IGF-1	african_non_british_white_others_related_s_asian_white_british	6.0	PARPBP	542.0	56.0	16.5	0.36	-0.464
+INI10030770	IGF-1	african_non_british_white_others_related_s_asian_white_british	6.0	IGFALS	771.0	35.0	14.7	32.8	17.8
+INI10030770	IGF-1	african_non_british_white_others_related_s_asian_white_british	6.0	SPSB3	341.0	8.0	8.5	3.1	-0.139
+INI10030770	IGF-1	african_non_british_white_others_related_s_asian_white_british	6.0	IGFBP3	222.0	8.0	11.3	0.825	-0.142
+INI10030770	IGF-1	african_non_british_white_others_related_s_asian_white_british	6.0	C2CD4A	364.0	22.0	5.17	1.94	-0.17
+INI10030770	IGF-1	african_non_british_white_others_related_s_asian_white_british	6.0	CRAMP1	847.0	17.0	5.12	0.7	-0.0493
+INI10030770	IGF-1	african_non_british_white_others_related_s_asian_white_british	6.0	SSTR5	421.0	12.0	5.44	2.83	-0.0444
+INI10030770	IGF-1	african_non_british_white_others_related_s_asian_white_british	6.0	PAPPA2	1364.0	52.0	6.43	4.01	3.34
+INI10030770	IGF-1	african_non_british_white_others_related_s_asian_white_british	6.0	STAB1	2258.0	212.0	-0.474	6.89	2.66
+INI10030790	Lipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	PLG	583.0	24.0	165	20	0.0213
+INI10030790	Lipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	LPA	1204.0	132.0	184	51.2	30.5
+INI10030790	Lipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	SLC22A2	431.0	31.0	87.4	47.9	72.7
+INI10030790	Lipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	IGF2R	1705.0	37.0	44.5	0.843	-0.511
+INI10030790	Lipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	MAP3K4	846.0	36.0	24.1	1.3	0.365
+INI10030790	Lipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	PNLDC1	507.0	48.0	12	-0.189	-0.448
+INI10030790	Lipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	AGPAT4	259.0	17.0	8.71	-0.068	-0.104
+INI10030790	Lipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	MRPL18	143.0	16.0	9.42	3.42	0.0402
+INI10030790	Lipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	SLC22A3	382.0	33.0	8.24	0.198	-0.273
+INI10030790	Lipoprotein A	african_non_british_white_others_related_s_asian_white_british	6.0	SLC22A1	508.0	56.0	7.56	0.67	2.15
+INI10030810	Phosphate	african_non_british_white_others_related_s_asian_white_british	6.0	ALPL	412.0	44.0	19.8	33.6	1.12
+INI10030810	Phosphate	african_non_british_white_others_related_s_asian_white_british	6.0	RAD51AP1	269.0	16.0	9.88	5.58	-0.145
+INI10030810	Phosphate	african_non_british_white_others_related_s_asian_white_british	6.0	ITPR3	1862.0	103.0	8.37	0.152	0.34
+INI10030810	Phosphate	african_non_british_white_others_related_s_asian_white_british	6.0	GALNT5	694.0	69.0	8.55	7.79	2.39
+INI10030810	Phosphate	african_non_british_white_others_related_s_asian_white_british	6.0	SPP2	208.0	25.0	6.35	4.63	-0.31
+INI10030810	Phosphate	african_non_british_white_others_related_s_asian_white_british	6.0	SLC34A3	750.0	59.0	5.75	12.7	9.65
+INI10030810	Phosphate	african_non_british_white_others_related_s_asian_white_british	6.0	ENPP1	574.0	48.0	3.3	11.1	3.29
+INI10030830	SHBG	african_non_british_white_others_related_s_asian_white_british	6.0	SHBG	284.0	30.0	114	161	128
+INI10030830	SHBG	african_non_british_white_others_related_s_asian_white_british	6.0	TMEM102	290.0	38.0	31.5	29.4	28.5
+INI10030830	SHBG	african_non_british_white_others_related_s_asian_white_british	6.0	NR1H4	313.0	31.0	22.8	9.69	-0.439
+INI10030830	SHBG	african_non_british_white_others_related_s_asian_white_british	6.0	DNAH2	2875.0	183.0	23.2	0.254	-0.767
+INI10030830	SHBG	african_non_british_white_others_related_s_asian_white_british	6.0	NLGN2	366.0	3.0	16.4	8.86	0.00196
+INI10030830	SHBG	african_non_british_white_others_related_s_asian_white_british	6.0	FXR2	330.0	10.0	15.7	8.33	-0.293
+INI10030830	SHBG	african_non_british_white_others_related_s_asian_white_british	6.0	PLA2G12A	178.0	23.0	12.1	15.3	0.423
+INI10030830	SHBG	african_non_british_white_others_related_s_asian_white_british	6.0	MPDU1	234.0	29.0	6.01	-0.129	-0.255
+INI10030830	SHBG	african_non_british_white_others_related_s_asian_white_british	6.0	TMEM256	88.0	14.0	5.33	1.68	-0.0552
+INI10030840	Total bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	UGT1A7	247.0	38.0	213	60.5	0.439
+INI10030840	Total bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	MROH2A	1649.0	166.0	85.8	16.4	7.92
+INI10030840	Total bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	UGT1A5	225.0	19.0	33	9.53	0.467
+INI10030840	Total bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	SLCO1B3	727.0	85.0	29.8	42.1	25.4
+INI10030840	Total bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	UGT1A4	369.0	24.0	31.6	4.39	-0.0678
+INI10030840	Total bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	UGT1A10	460.0	37.0	27.4	35.1	25.1
+INI10030840	Total bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	UGT1A3	313.0	36.0	25.5	4.82	5.33
+INI10030840	Total bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	UGT1A9	246.0	22.0	24	0.782	-0.0666
+INI10030840	Total bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	DGKD	911.0	30.0	20.5	0.49	-0.126
+INI10030840	Total bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	USP40	1064.0	111.0	18.4	0.747	-0.655
+INI10030840	Total bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	SAG	436.0	37.0	14	2.73	-0.316
+INI10030840	Total bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	TRPM8	907.0	91.0	13.8	3.21	0.0823
+INI10030840	Total bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	HJURP	642.0	41.0	11.7	0.276	-0.312
+INI10030840	Total bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	SLCO1B1	589.0	81.0	6.82	15.6	7.98
+INI10030840	Total bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	UGT1A1	176.0	15.0	11.5	32.3	0.872
+INI10030840	Total bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	ATG16L1	347.0	14.0	6.02	-0.281	-0.089
+INI10030840	Total bilirubin	african_non_british_white_others_related_s_asian_white_british	6.0	HBB	140.0	32.0	1.74	4.51	5.92
+INI10030850	Testosterone	african_non_british_white_others_related_s_asian_white_british	6.0	SHBG	281.0	29.0	14.6	18.7	17.5
+INI10030860	Total protein	african_non_british_white_others_related_s_asian_white_british	6.0	FCGRT	232.0	14.0	50.5	63.2	4.01
+INI10030860	Total protein	african_non_british_white_others_related_s_asian_white_british	6.0	TNFRSF13B	355.0	45.0	32.1	33.2	4.6
+INI10030860	Total protein	african_non_british_white_others_related_s_asian_white_british	6.0	SNX8	473.0	26.0	16.3	5.85	-0.164
+INI10030860	Total protein	african_non_british_white_others_related_s_asian_white_british	6.0	ADAMTS4	708.0	36.0	6.12	-0.324	-0.046
+INI10030860	Total protein	african_non_british_white_others_related_s_asian_white_british	6.0	HLA-DQB1	159.0	14.0	4.78	5.17	-0.46
+INI10030860	Total protein	african_non_british_white_others_related_s_asian_white_british	6.0	IQGAP2	1151.0	128.0	4.24	5.23	3.01
+INI10030860	Total protein	african_non_british_white_others_related_s_asian_white_british	6.0	ALB	427.0	35.0	3.69	5.77	10.2
+INI10030860	Total protein	african_non_british_white_others_related_s_asian_white_british	6.0	ANKRD12	1179.0	60.0	2.46	4.35	7.56
+INI10030870	Triglycerides	african_non_british_white_others_related_s_asian_white_british	6.0	ANGPTL3	337.0	53.0	39.9	51.8	33.4
+INI10030870	Triglycerides	african_non_british_white_others_related_s_asian_white_british	6.0	APOB	3158.0	135.0	33.3	24.7	38.2
+INI10030870	Triglycerides	african_non_british_white_others_related_s_asian_white_british	6.0	APOC3	113.0	19.0	34.6	44.5	40.3
+INI10030870	Triglycerides	african_non_british_white_others_related_s_asian_white_british	6.0	APOA5	263.0	32.0	29.6	25.7	26.4
+INI10030870	Triglycerides	african_non_british_white_others_related_s_asian_white_british	6.0	ZPR1	357.0	30.0	18.2	1.03	0.215
+INI10030870	Triglycerides	african_non_british_white_others_related_s_asian_white_british	6.0	SIK3	844.0	13.0	13.6	0.192	-0.265
+INI10030870	Triglycerides	african_non_british_white_others_related_s_asian_white_british	6.0	PDE3B	791.0	55.0	15.3	14.7	13.8
+INI10030870	Triglycerides	african_non_british_white_others_related_s_asian_white_british	6.0	PLA2G12A	185.0	24.0	13.8	13.3	-0.091
+INI10030870	Triglycerides	african_non_british_white_others_related_s_asian_white_british	6.0	A1CF	366.0	35.0	10	6.52	-0.233
+INI10030870	Triglycerides	african_non_british_white_others_related_s_asian_white_british	6.0	ANGPTL8	204.0	37.0	11.2	13.2	13.1
+INI10030870	Triglycerides	african_non_british_white_others_related_s_asian_white_british	6.0	MLXIPL	750.0	32.0	6.08	-0.238	0.315
+INI10030870	Triglycerides	african_non_british_white_others_related_s_asian_white_british	6.0	LPL	395.0	27.0	8.2	11.9	4.17
+INI10030870	Triglycerides	african_non_british_white_others_related_s_asian_white_british	6.0	ACACB	2207.0	150.0	5.13	-0.684	-0.522
+INI10030870	Triglycerides	african_non_british_white_others_related_s_asian_white_british	6.0	ANGPTL4	412.0	57.0	5.52	8.91	4.48
+INI10030870	Triglycerides	african_non_british_white_others_related_s_asian_white_british	6.0	GCKR	586.0	76.0	4.1	5.43	0.492
+INI10030880	Urate	african_non_british_white_others_related_s_asian_white_british	6.0	WDR1	473.0	18.0	106	51.6	-0.0313
+INI10030880	Urate	african_non_british_white_others_related_s_asian_white_british	6.0	SLC22A12	462.0	27.0	80.5	322	7.77
+INI10030880	Urate	african_non_british_white_others_related_s_asian_white_british	6.0	SLC2A9	542.0	41.0	61.7	82.1	9.06
+INI10030880	Urate	african_non_british_white_others_related_s_asian_white_british	6.0	RASGRP2	483.0	43.0	20.6	1.42	-0.0474
+INI10030880	Urate	african_non_british_white_others_related_s_asian_white_british	6.0	SLC22A11	423.0	28.0	14.5	3.73	4.31
+INI10030880	Urate	african_non_british_white_others_related_s_asian_white_british	6.0	ABCG2	640.0	94.0	12.6	22	8.75
+INI10030880	Urate	african_non_british_white_others_related_s_asian_white_british	6.0	PDZK1	282.0	38.0	13.6	24.6	14.6
+INI10030880	Urate	african_non_british_white_others_related_s_asian_white_british	6.0	PYGM	799.0	51.0	7.63	6.5	6.69
+INI10030880	Urate	african_non_british_white_others_related_s_asian_white_british	6.0	DRD5	433.0	34.0	8.07	2.06	3.04
+INI10030880	Urate	african_non_british_white_others_related_s_asian_white_british	6.0	ZNF518B	885.0	37.0	6.72	0.343	-0.225
+INI10030880	Urate	african_non_british_white_others_related_s_asian_white_british	6.0	ALDH16A1	842.0	79.0	8.22	0.34	-0.507
+INI10030880	Urate	african_non_british_white_others_related_s_asian_white_british	6.0	XDH	1398.0	104.0	7.33	6.35	3.54
+INI10030880	Urate	african_non_british_white_others_related_s_asian_white_british	6.0	PRPSAP1	275.0	42.0	2.77	5.15	4.95
+INI10030890	Vitamin D	african_non_british_white_others_related_s_asian_white_british	6.0	HAL	655.0	89.0	13.9	14.1	1.06
+INI10030890	Vitamin D	african_non_british_white_others_related_s_asian_white_british	6.0	INSC	655.0	69.0	10.7	3.71	7.92
+INI10030890	Vitamin D	african_non_british_white_others_related_s_asian_white_british	6.0	PDE3B	759.0	54.0	12.4	0.122	0.0819
+INI10030890	Vitamin D	african_non_british_white_others_related_s_asian_white_british	6.0	CYP2R1	387.0	59.0	5.9	3.12	4.83
+INI10030890	Vitamin D	african_non_british_white_others_related_s_asian_white_british	6.0	FLG	5254.0	484.0	4.65	5.28	15
+INI10030890	Vitamin D	african_non_british_white_others_related_s_asian_white_british	6.0	CYP27B1	365.0	38.0	2.53	6.57	1.22
+INI10030890	Vitamin D	african_non_british_white_others_related_s_asian_white_british	6.0	APOB	3069.0	134.0	2.72	6.06	13.4
+INI102	Pulse rate (AR)	african_non_british_white_others_related_s_asian_white_british	6.0	TBX5	365.0	10.0	15.6	9.7	0.308
+INI102	Pulse rate (AR)	african_non_british_white_others_related_s_asian_white_british	6.0	MYH6	1498.0	65.0	17.3	5.27	-0.421
+INI102	Pulse rate (AR)	african_non_british_white_others_related_s_asian_white_british	6.0	FHOD3	1425.0	62.0	8.37	0.0816	0.145
+INI102	Pulse rate (AR)	african_non_british_white_others_related_s_asian_white_british	6.0	CACNA1D	1249.0	25.0	6.55	-0.212	0.334
+INI102	Pulse rate (AR)	african_non_british_white_others_related_s_asian_white_british	6.0	TTN	21480.0	859.0	2.4	0.0985	9.57
+INI134	# of self-reported cancers	african_non_british_white_others_related_s_asian_white_british	6.0	BRCA2	2402.0	246.0	8.33	3.16	13.1
+INI134	# of self-reported cancers	african_non_british_white_others_related_s_asian_white_british	6.0	CHEK2	575.0	68.0	7.99	10.8	6.12
+INI134	# of self-reported cancers	african_non_british_white_others_related_s_asian_white_british	6.0	BRCA1	1124.0	96.0	6.86	2.19	11.5
+INI134	# of self-reported cancers	african_non_british_white_others_related_s_asian_white_british	6.0	MSH2	943.0	39.0	6.32	0.294	1.75
+INI134	# of self-reported cancers	african_non_british_white_others_related_s_asian_white_british	6.0	ATM	2162.0	262.0	5.75	6.05	6.59
+INI134	# of self-reported cancers	african_non_british_white_others_related_s_asian_white_british	6.0	ZNF483	383.0	21.0	6	2.19	2.64
+INI134	# of self-reported cancers	african_non_british_white_others_related_s_asian_white_british	6.0	TRIP12	898.0	3.0	6.23	0.869	6.57
+INI134	# of self-reported cancers	african_non_british_white_others_related_s_asian_white_british	6.0	CLCC1	428.0	52.0	5.29	-0.168	1.27
+INI134	# of self-reported cancers	african_non_british_white_others_related_s_asian_white_british	6.0	BMPR1A	290.0	2.0	4.36	0.961	5.27
+INI135	# of self-reported non-cancer illnesses	african_non_british_white_others_related_s_asian_white_british	6.0	TTK	645.0	66.0	9.39	2.32	-0.276
+INI135	# of self-reported non-cancer illnesses	african_non_british_white_others_related_s_asian_white_british	6.0	PRKRA	159.0	29.0	6.37	5.57	6.66
+INI135	# of self-reported non-cancer illnesses	african_non_british_white_others_related_s_asian_white_british	6.0	OMA1	322.0	31.0	8.11	7.61	-0.154
+INI1488	Tea intake	african_non_british_white_others_related_s_asian_white_british	6.0	CYP1A2	451.0	43.0	8.84	13.9	1.49
+INI1498	Coffee intake	african_non_british_white_others_related_s_asian_white_british	6.0	CYP1A2	440.0	42.0	11	23.2	2.47
+INI1528	Water intake	african_non_british_white_others_related_s_asian_white_british	6.0	CYP1A2	452.0	44.0	5.71	9.29	1.44
+INI1737	Childhood sunburn	african_non_british_white_others_related_s_asian_white_british	6.0	ERCC4	755.0	62.0	27.9	12.7	-0.236
+INI1737	Childhood sunburn	african_non_british_white_others_related_s_asian_white_british	6.0	MC1R	442.0	31.0	20.3	18.7	5.78
+INI1737	Childhood sunburn	african_non_british_white_others_related_s_asian_white_british	6.0	OCA2	859.0	58.0	20.3	7.72	0.0285
+INI1737	Childhood sunburn	african_non_british_white_others_related_s_asian_white_british	6.0	FANCA	1768.0	145.0	13.4	5.29	-0.679
+INI1737	Childhood sunburn	african_non_british_white_others_related_s_asian_white_british	6.0	CPNE7	774.0	79.0	10.8	-0.364	-0.941
+INI1737	Childhood sunburn	african_non_british_white_others_related_s_asian_white_british	6.0	TYR	505.0	65.0	9.3	12.8	5.59
+INI1737	Childhood sunburn	african_non_british_white_others_related_s_asian_white_british	6.0	HSPA4L	483.0	37.0	5.41	0.0649	0.324
+INI1737	Childhood sunburn	african_non_british_white_others_related_s_asian_white_british	6.0	CNOT6L	182.0	5.0	5.08	0.884	2.19
+INI1737	Childhood sunburn	african_non_british_white_others_related_s_asian_white_british	6.0	CDK10	433.0	45.0	5.61	2.46	-0.24
+INI1737	Childhood sunburn	african_non_british_white_others_related_s_asian_white_british	6.0	SLC45A2	486.0	37.0	1.72	6.72	3.17
+INI1845	Mother's age	african_non_british_white_others_related_s_asian_white_british	6.0	TTK	390.0	45.0	6.33	-0.0784	0.178
+INI1845	Mother's age	african_non_british_white_others_related_s_asian_white_british	6.0	PRKRA	100.0	21.0	5.15	5.16	6.2
+INI1845	Mother's age	african_non_british_white_others_related_s_asian_white_british	6.0	OMA1	210.0	18.0	3.24	6.05	0.369
+INI20015	Sitting height	african_non_british_white_others_related_s_asian_white_british	6.0	ZFAT	1066.0	47.0	18.2	15.2	2.21
+INI20015	Sitting height	african_non_british_white_others_related_s_asian_white_british	6.0	SCMH1	477.0	26.0	11.4	1.36	1.29
+INI20015	Sitting height	african_non_british_white_others_related_s_asian_white_british	6.0	SPSB3	354.0	9.0	10.8	2	-0.21
+INI20015	Sitting height	african_non_british_white_others_related_s_asian_white_british	6.0	STC2	210.0	11.0	8.52	1.79	-0.665
+INI20015	Sitting height	african_non_british_white_others_related_s_asian_white_british	6.0	SMG7	748.0	38.0	5.34	0.293	-0.558
+INI20015	Sitting height	african_non_british_white_others_related_s_asian_white_british	6.0	HAPLN3	560.0	31.0	6.42	0.0184	-0.0693
+INI20015	Sitting height	african_non_british_white_others_related_s_asian_white_british	6.0	RPL5	159.0	4.0	5.66	5.57	-0.165
+INI20015	Sitting height	african_non_british_white_others_related_s_asian_white_british	6.0	COL1A1	1067.0	11.0	2.17	2.37	5.19
+INI20015	Sitting height	african_non_british_white_others_related_s_asian_white_british	6.0	PDE3B	828.0	56.0	2.72	5.43	3.25
+INI20015	Sitting height	african_non_british_white_others_related_s_asian_white_british	6.0	ACAN	1857.0	24.0	3.86	1.81	15.4
+INI20015	Sitting height	african_non_british_white_others_related_s_asian_white_british	6.0	NPR2	601.0	26.0	0.947	7.51	1.68
+INI20015	Sitting height	african_non_british_white_others_related_s_asian_white_british	6.0	PIEZO1	4248.0	164.0	0.694	2.56	5.97
+INI20016	Fluid intelligence score	african_non_british_white_others_related_s_asian_white_british	6.0	ANKRD12	837.0	37.0	1.81	2.37	6.05
+INI20022	Birth weight	non_british_white_others_related_white_british	4.0	ACVR1C	165.0	8.0	7.03	5.37	0.00863
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	APOB	3108.0	106.0	99.4	44.9	47.6
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	PCSK9	756.0	75.0	80.7	149	91.6
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	NKPD1	600.0	55.0	50.9	10.8	-0.394
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	NECTIN2	568.0	45.0	31.2	0.309	1.31
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	APOE	313.0	9.0	19.1	1.02	0.202
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	LDLR	728.0	56.0	17.7	23.8	2.19
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	CELSR2	2094.0	31.0	14.1	-0.157	-0.355
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	TOMM40	250.0	11.0	12.7	13	0.611
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	PPP1R37	568.0	17.0	11.4	2.18	-0.249
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	KLC3	835.0	104.0	8.91	1.02	-0.399
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	CLASRP	763.0	47.0	10.4	4.91	0.066
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	A1CF	365.0	34.0	8.63	4.02	-0.262
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	ABCG5	633.0	46.0	9.12	15.9	2.6
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	PDE3B	788.0	55.0	7.16	7.99	5
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	SYPL2	228.0	17.0	7.12	7.44	0.0788
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	BCAM	676.0	45.0	8.61	4.99	-0.299
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	PPARA	292.0	12.0	7.39	2.45	-0.148
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	FGB	335.0	21.0	5.84	3.98	-0.113
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	ANGPTL3	335.0	53.0	6.64	6.85	6.93
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	PLG	651.0	30.0	6.52	0.954	-0.193
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	USP24	1325.0	27.0	5.48	-0.252	-0.246
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	SNX8	502.0	26.0	4.34	5.41	0.583
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	DOCK6	2034.0	145.0	6.06	-0.428	0.381
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	FCGRT	246.0	14.0	3.08	6.5	0.74
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	ALB	450.0	39.0	2.91	8.99	9.19
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	NPC1L1	1118.0	83.0	2.93	5.41	2.45
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	HMGCR	390.0	21.0	1.71	5.67	0.834
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	ASGR1	234.0	32.0	2.02	5.87	1.67
+INI20030640	Apolipoprotein B	african_non_british_white_others_related_s_asian_white_british	6.0	RRBP1	1415.0	69.0	1.51	3.35	5.87
+INI20030690	Cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	APOB	3157.0	135.0	99.2	36	83.4
+INI20030690	Cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	PCSK9	760.0	75.0	80.9	144	87.3
+INI20030690	Cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	ANGPTL3	337.0	53.0	34.3	33.9	34.3
+INI20030690	Cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	NKPD1	601.0	55.0	24.7	4.95	-0.359
+INI20030690	Cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	ABCA1	1564.0	95.0	17.9	36.3	6.38
+INI20030690	Cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	LDLR	733.0	56.0	17.1	17.9	0.538
+INI20030690	Cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	ABCG5	636.0	46.0	12.3	20.9	2.64
+INI20030690	Cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	NECTIN2	568.0	45.0	13.6	0.164	0.188
+INI20030690	Cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	FGB	335.0	21.0	8.99	5.29	-0.258
+INI20030690	Cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	CLASRP	765.0	47.0	9.04	5.22	0.287
+INI20030690	Cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	LIPG	459.0	42.0	8.74	6.52	-0.267
+INI20030690	Cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	APOE	314.0	9.0	8.3	0.0128	-0.0665
+INI20030690	Cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	SNX8	504.0	26.0	6.01	4.84	0.0495
+INI20030690	Cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	SYPL2	229.0	18.0	6.76	6.72	-0.0379
+INI20030690	Cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	PLG	652.0	30.0	6.77	1.16	-0.165
+INI20030690	Cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	TOMM40	251.0	11.0	4.92	5.1	0.567
+INI20030690	Cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	PPARA	293.0	12.0	5.35	2.61	-0.106
+INI20030690	Cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	NPC1L1	1121.0	83.0	4.34	9.21	2.71
+INI20030690	Cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	FCGRT	247.0	14.0	3.58	7.27	0.731
+INI20030690	Cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	ALB	453.0	39.0	2.72	7.04	7.37
+INI20030690	Cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	TIMD4	370.0	29.0	2.72	5.18	6.43
+INI20030690	Cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	HMGCR	391.0	21.0	1.6	6.3	1.38
+INI20030690	Cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	GIGYF1	983.0	41.0	1.3	0.401	5.11
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	APOB	3156.0	135.0	131	53.4	108
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	PCSK9	759.0	75.0	99	179	111
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	NKPD1	601.0	55.0	34.7	7.36	-0.365
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	ANGPTL3	337.0	53.0	19.8	19.3	20.3
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	LDLR	733.0	56.0	21.1	26	1.71
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	NECTIN2	568.0	45.0	19.2	0.306	0.62
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	ABCG5	636.0	46.0	13.5	22.4	2.93
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	FGB	335.0	21.0	7.61	5.25	-0.212
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	APOE	312.0	9.0	10	0.14	0.0748
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	CLASRP	762.0	47.0	8.25	4.79	-0.0341
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	TOMM40	251.0	11.0	7.43	7.96	0.615
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	SYPL2	229.0	18.0	6.73	7.22	0.139
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	CELSR2	2100.0	31.0	8.29	-0.421	-0.407
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	KLC3	836.0	104.0	5.36	1.41	-0.218
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	PLG	651.0	30.0	7.16	1.08	-0.185
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	SNX8	504.0	26.0	5.23	4.75	0.0346
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	PPARA	292.0	12.0	5.91	2.34	-0.145
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	USP24	1330.0	27.0	5.11	-0.178	-0.284
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	DOCK6	2036.0	145.0	6.58	-0.328	0.155
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	PPP1R37	566.0	16.0	6.04	0.719	-0.264
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	FDFT1	913.0	85.0	5.7	0.374	1.57
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	NPC1L1	1118.0	83.0	4.63	9.66	3.56
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	ALB	453.0	39.0	2.35	6.69	7.09
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	FCGRT	246.0	14.0	2.13	5.35	0.679
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	ABCA1	1564.0	95.0	2.54	9.81	1.16
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	HMGCR	390.0	21.0	1.88	6.56	1.35
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	ASGR1	235.0	33.0	1.77	5.01	1.58
+INI20030780	LDL cholesterol	african_non_british_white_others_related_s_asian_white_british	6.0	RRBP1	1421.0	69.0	1.58	2.77	5.04
+INI2005254	Intra-ocular pressure, corneal-compensated (median)	african_non_british_white_others_related_s_asian_white_british	6.0	ANGPTL7	209.0	17.0	5.74	3.01	0.47
+INI2005254	Intra-ocular pressure, corneal-compensated (median)	african_non_british_white_others_related_s_asian_white_british	6.0	MYOC	232.0	34.0	5.82	3.95	4.12
+INI2005254	Intra-ocular pressure, corneal-compensated (median)	african_non_british_white_others_related_s_asian_white_british	6.0	EVA1C	240.0	16.0	2.58	5.57	0.364
+INI2005255	Intra-ocular pressure, Goldmann-correlated (median)	african_non_british_white_others_related_s_asian_white_british	6.0	ANGPTL7	209.0	17.0	9.2	7.48	1.25
+INI20150	FEV1, Best measure	non_british_white_others_related_white_british	4.0	GATA5	281.0	12.0	6.61	4.26	0.0521
+INI20150	FEV1, Best measure	non_british_white_others_related_white_british	4.0	ANKRD12	883.0	50.0	3.69	4.68	6.11
+INI20151	FVC, Best measure	non_british_white_others_related_white_british	4.0	GATA5	281.0	12.0	5.33	3.88	-0.0916
+INI20151	FVC, Best measure	non_british_white_others_related_white_british	4.0	DDR2	333.0	11.0	1.25	5.9	1.1
+INI20153	FEV1, pred.	non_british_white_others_related_white_british	4.0	ACAN	752.0	8.0	5.61	0.648	8.11
+INI20153	FEV1, pred.	non_british_white_others_related_white_british	4.0	KDM1A	146.0	15.0	5.02	1.96	0.752
+INI20153	FEV1, pred.	non_british_white_others_related_white_british	4.0	STC2	85.0	6.0	6.1	1.04	-0.536
+INI20153	FEV1, pred.	non_british_white_others_related_white_british	4.0	ZFAT	413.0	20.0	3.77	5	1.5
+INI20153	FEV1, pred.	non_british_white_others_related_white_british	4.0	DTL	163.0	16.0	2.93	5.79	6.14
+INI20405	Ever had known person concerned about, or recommend reduction of, alcohol consumption	non_british_white_others_related_white_british	4.0	CELF5	73.0	2.0	3.77	1.51	5.27
+INI21001	BMI	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	272.0	23.0	0.969	5.62	1.95
+INI21002	Weight	african_non_british_white_others_related_s_asian_white_british	6.0	ZFAT	1066.0	47.0	6.16	5.17	0.00798
+INI21002	Weight	african_non_british_white_others_related_s_asian_white_british	6.0	PDE3B	827.0	56.0	3.07	5.86	2.86
+INI21002	Weight	african_non_british_white_others_related_s_asian_white_british	6.0	BSN	2430.0	20.0	1.35	-0.815	5.23
+INI21002	Weight	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	272.0	23.0	1.85	7.61	2.44
+INI2149	Lifetime # of sexual partners	african_non_british_white_others_related_s_asian_white_british	6.0	SDC3	414.0	9.0	1.77	5.23	1.03
+INI2217	Age started wearing glasses or contact lenses	african_non_british_white_others_related_s_asian_white_british	6.0	OCA2	871.0	61.0	7.9	8.49	0.739
+INI23100	Whole body fat mass	african_non_british_white_others_related_s_asian_white_british	6.0	BSN	2414.0	19.0	2.9	-0.675	5.17
+INI23100	Whole body fat mass	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	271.0	23.0	1.15	5	1.99
+INI23101	Whole body fat-free mass	african_non_british_white_others_related_s_asian_white_british	6.0	ZFAT	1060.0	47.0	13.6	9.14	1.01
+INI23101	Whole body fat-free mass	african_non_british_white_others_related_s_asian_white_british	6.0	SCMH1	470.0	26.0	7.48	0.964	-0.0593
+INI23101	Whole body fat-free mass	african_non_british_white_others_related_s_asian_white_british	6.0	STC2	208.0	10.0	8.57	4.07	-0.208
+INI23101	Whole body fat-free mass	african_non_british_white_others_related_s_asian_white_british	6.0	SPSB3	351.0	9.0	5.9	1.84	0.137
+INI23101	Whole body fat-free mass	african_non_british_white_others_related_s_asian_white_british	6.0	GHRH	98.0	10.0	3.86	4.8	5.13
+INI23101	Whole body fat-free mass	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	271.0	23.0	2.46	6.95	2.52
+INI23101	Whole body fat-free mass	african_non_british_white_others_related_s_asian_white_british	6.0	PAPPA	1200.0	28.0	-0.185	3.09	5.12
+INI23101	Whole body fat-free mass	african_non_british_white_others_related_s_asian_white_british	6.0	ACAN	1846.0	24.0	-0.682	1.73	5.02
+INI23102	Whole body water mass	african_non_british_white_others_related_s_asian_white_british	6.0	ZFAT	1060.0	47.0	13.3	8.54	0.916
+INI23102	Whole body water mass	african_non_british_white_others_related_s_asian_white_british	6.0	STC2	208.0	10.0	8.6	4.05	-0.124
+INI23102	Whole body water mass	african_non_british_white_others_related_s_asian_white_british	6.0	SCMH1	470.0	26.0	7.37	0.917	-0.0481
+INI23102	Whole body water mass	african_non_british_white_others_related_s_asian_white_british	6.0	SPSB3	351.0	9.0	5.95	2.01	0.175
+INI23102	Whole body water mass	african_non_british_white_others_related_s_asian_white_british	6.0	GHRH	98.0	10.0	3.86	4.77	5
+INI23102	Whole body water mass	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	271.0	23.0	2.37	7.21	2.54
+INI23102	Whole body water mass	african_non_british_white_others_related_s_asian_white_british	6.0	ACAN	1846.0	24.0	-0.878	1.69	5.15
+INI23105	Basal metabolic rate	african_non_british_white_others_related_s_asian_white_british	6.0	ZFAT	1060.0	47.0	11.9	8.46	0.801
+INI23105	Basal metabolic rate	african_non_british_white_others_related_s_asian_white_british	6.0	SPSB3	350.0	9.0	5.25	1.9	0.0834
+INI23105	Basal metabolic rate	african_non_british_white_others_related_s_asian_white_british	6.0	SCMH1	470.0	26.0	6.04	0.656	-0.0986
+INI23105	Basal metabolic rate	african_non_british_white_others_related_s_asian_white_british	6.0	STC2	208.0	10.0	6.97	3.2	-0.34
+INI23105	Basal metabolic rate	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	271.0	23.0	2.66	7.74	2.82
+INI23106	Impedance of whole body	african_non_british_white_others_related_s_asian_white_british	6.0	ADAMTS3	924.0	31.0	4.58	9.38	1.36
+INI23106	Impedance of whole body	african_non_british_white_others_related_s_asian_white_british	6.0	ADAMTS17	1412.0	77.0	2.04	9.11	3.8
+INI23106	Impedance of whole body	african_non_british_white_others_related_s_asian_white_british	6.0	COL8A2	508.0	30.0	1.88	5.92	1.91
+INI23107	Impedance of leg (R)	african_non_british_white_others_related_s_asian_white_british	6.0	ADAMTS3	924.0	31.0	5.95	8.27	1.51
+INI23107	Impedance of leg (R)	african_non_british_white_others_related_s_asian_white_british	6.0	AEBP1	963.0	84.0	2.74	5.15	4.77
+INI23107	Impedance of leg (R)	african_non_british_white_others_related_s_asian_white_british	6.0	ADAMTS17	1412.0	77.0	0.927	7.78	4.1
+INI23107	Impedance of leg (R)	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	271.0	23.0	0.727	5.04	2.22
+INI23108	Impedance of leg (L)	african_non_british_white_others_related_s_asian_white_british	6.0	ADAMTS3	924.0	31.0	5.11	8.59	1.79
+INI23108	Impedance of leg (L)	african_non_british_white_others_related_s_asian_white_british	6.0	AEBP1	963.0	84.0	2.94	5.27	4.66
+INI23108	Impedance of leg (L)	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	271.0	23.0	0.75	5.18	2.49
+INI23108	Impedance of leg (L)	african_non_british_white_others_related_s_asian_white_british	6.0	ADAMTS17	1412.0	77.0	0.881	7.46	3.06
+INI23109	Impedance of arm (R)	african_non_british_white_others_related_s_asian_white_british	6.0	ADAMTS3	924.0	31.0	3.79	8.8	1.01
+INI23109	Impedance of arm (R)	african_non_british_white_others_related_s_asian_white_british	6.0	THBS3	708.0	77.0	3.89	5.76	5.04
+INI23109	Impedance of arm (R)	african_non_british_white_others_related_s_asian_white_british	6.0	ADAMTS17	1412.0	77.0	0.513	5.54	2.43
+INI23109	Impedance of arm (R)	african_non_british_white_others_related_s_asian_white_british	6.0	TTN	21730.0	880.0	-16.8	-1.02	5.2
+INI23110	Impedance of arm (L)	african_non_british_white_others_related_s_asian_white_british	6.0	ADAMTS3	924.0	31.0	3.15	7.7	0.88
+INI23110	Impedance of arm (L)	african_non_british_white_others_related_s_asian_white_british	6.0	THBS3	708.0	77.0	2.65	5.06	3.54
+INI23110	Impedance of arm (L)	african_non_british_white_others_related_s_asian_white_british	6.0	ADAMTS17	1412.0	77.0	1.49	7.53	3.23
+INI23112	Leg fat mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	271.0	23.0	1.63	5.75	2.06
+INI23113	Leg fat-free mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	ZFAT	1060.0	47.0	9.57	8.34	0.748
+INI23113	Leg fat-free mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	SPSB3	350.0	9.0	7.24	3.69	0.0645
+INI23113	Leg fat-free mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	SCMH1	470.0	26.0	5.03	0.267	-0.239
+INI23113	Leg fat-free mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	STC2	208.0	10.0	6.33	2.75	-0.471
+INI23113	Leg fat-free mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	PDE3B	820.0	55.0	2.66	5.11	2.91
+INI23113	Leg fat-free mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	271.0	23.0	2.58	7.88	2.9
+INI23113	Leg fat-free mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	PAPPA	1199.0	28.0	-0.122	3.31	6.44
+INI23114	Leg pred. mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	ZFAT	1060.0	47.0	9.75	8.41	0.77
+INI23114	Leg pred. mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	SPSB3	350.0	9.0	7.11	3.67	0.0802
+INI23114	Leg pred. mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	STC2	208.0	10.0	6.5	2.9	-0.416
+INI23114	Leg pred. mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	SCMH1	470.0	26.0	5.15	0.265	-0.243
+INI23114	Leg pred. mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	PDE3B	820.0	55.0	2.68	5.14	2.87
+INI23114	Leg pred. mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	271.0	23.0	2.59	7.7	2.83
+INI23114	Leg pred. mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	PAPPA	1199.0	28.0	-0.0674	3.27	6.6
+INI23115	Leg fat % (L)	african_non_british_white_others_related_s_asian_white_british	6.0	BSN	2417.0	20.0	5.25	-0.467	5.06
+INI23116	Leg fat mass (L)	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	271.0	23.0	1.52	5.61	1.94
+INI23117	Leg fat-free mass (L)	african_non_british_white_others_related_s_asian_white_british	6.0	ZFAT	1060.0	47.0	9.03	7.37	0.633
+INI23117	Leg fat-free mass (L)	african_non_british_white_others_related_s_asian_white_british	6.0	SPSB3	350.0	9.0	6.74	3.38	0.0513
+INI23117	Leg fat-free mass (L)	african_non_british_white_others_related_s_asian_white_british	6.0	STC2	208.0	10.0	6.91	3.25	-0.272
+INI23117	Leg fat-free mass (L)	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	271.0	23.0	2.76	8.1	3.1
+INI23117	Leg fat-free mass (L)	african_non_british_white_others_related_s_asian_white_british	6.0	PDE3B	820.0	55.0	2.35	5.03	2.5
+INI23117	Leg fat-free mass (L)	african_non_british_white_others_related_s_asian_white_british	6.0	PAPPA	1199.0	28.0	-0.404	2.91	5.75
+INI23118	Leg pred. mass (L)	african_non_british_white_others_related_s_asian_white_british	6.0	ZFAT	1060.0	47.0	8.99	7.35	0.658
+INI23118	Leg pred. mass (L)	african_non_british_white_others_related_s_asian_white_british	6.0	SPSB3	350.0	9.0	6.79	3.54	0.0766
+INI23118	Leg pred. mass (L)	african_non_british_white_others_related_s_asian_white_british	6.0	STC2	208.0	10.0	6.89	3.19	-0.322
+INI23118	Leg pred. mass (L)	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	271.0	23.0	2.84	8.23	3.15
+INI23118	Leg pred. mass (L)	african_non_british_white_others_related_s_asian_white_british	6.0	PAPPA	1199.0	28.0	-0.467	2.86	5.73
+INI23120	Arm fat mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	271.0	23.0	1.19	6.05	2.59
+INI23121	Arm fat-free mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	ZFAT	1060.0	47.0	11.2	7.76	0.897
+INI23121	Arm fat-free mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	SCMH1	470.0	26.0	6.81	0.327	-0.0371
+INI23121	Arm fat-free mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	STC2	208.0	10.0	5.89	3.32	-0.306
+INI23121	Arm fat-free mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	ZNF318	1377.0	35.0	5.05	0.834	-0.151
+INI23121	Arm fat-free mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	271.0	23.0	2.03	5.09	1.91
+INI23121	Arm fat-free mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	TTN	21717.0	879.0	-22.1	-1.31	5.61
+INI23122	Arm pred. mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	ZFAT	1060.0	47.0	11.4	7.63	0.634
+INI23122	Arm pred. mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	SCMH1	470.0	26.0	6.94	0.438	-0.101
+INI23122	Arm pred. mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	STC2	208.0	10.0	6.22	3.15	-0.404
+INI23122	Arm pred. mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	IRS1	1018.0	23.0	3.67	0.444	5.07
+INI23122	Arm pred. mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	271.0	23.0	2.08	5.51	2.08
+INI23122	Arm pred. mass (R)	african_non_british_white_others_related_s_asian_white_british	6.0	TTN	21717.0	879.0	-22.8	-1.38	5.66
+INI23123	Arm fat % (L)	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	271.0	23.0	1.42	5.25	2.56
+INI23124	Arm fat mass (L)	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	271.0	23.0	1.28	5.97	2.6
+INI23125	Arm fat-free mass (L)	african_non_british_white_others_related_s_asian_white_british	6.0	ZFAT	1060.0	47.0	10.2	6.57	0.55
+INI23125	Arm fat-free mass (L)	african_non_british_white_others_related_s_asian_white_british	6.0	SCMH1	470.0	26.0	5.86	0.346	-0.0607
+INI23125	Arm fat-free mass (L)	african_non_british_white_others_related_s_asian_white_british	6.0	STC2	208.0	10.0	6.27	3.48	-0.188
+INI23125	Arm fat-free mass (L)	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	271.0	23.0	1.65	5.47	1.75
+INI23126	Arm pred. mass (L)	african_non_british_white_others_related_s_asian_white_british	6.0	ZFAT	1060.0	47.0	9.67	6.77	0.633
+INI23126	Arm pred. mass (L)	african_non_british_white_others_related_s_asian_white_british	6.0	STC2	208.0	10.0	6.56	3.3	-0.333
+INI23126	Arm pred. mass (L)	african_non_british_white_others_related_s_asian_white_british	6.0	SCMH1	470.0	26.0	6.07	0.547	-0.0885
+INI23126	Arm pred. mass (L)	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	271.0	23.0	1.69	5.29	1.77
+INI23129	Trunk fat-free mass	african_non_british_white_others_related_s_asian_white_british	6.0	ZFAT	1060.0	47.0	14.9	8.8	1.32
+INI23129	Trunk fat-free mass	african_non_british_white_others_related_s_asian_white_british	6.0	SCMH1	470.0	26.0	8.22	1.45	0.146
+INI23129	Trunk fat-free mass	african_non_british_white_others_related_s_asian_white_british	6.0	STC2	208.0	10.0	9.11	4.14	-0.168
+INI23129	Trunk fat-free mass	african_non_british_white_others_related_s_asian_white_british	6.0	SPSB3	350.0	9.0	5.13	0.903	0.144
+INI23129	Trunk fat-free mass	african_non_british_white_others_related_s_asian_white_british	6.0	GHRH	98.0	10.0	4.07	4.92	5
+INI23129	Trunk fat-free mass	african_non_british_white_others_related_s_asian_white_british	6.0	IRS1	1018.0	23.0	3.24	0.69	5.14
+INI23129	Trunk fat-free mass	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	271.0	23.0	1.88	5.27	1.95
+INI23129	Trunk fat-free mass	african_non_british_white_others_related_s_asian_white_british	6.0	ACAN	1843.0	24.0	-0.169	1.4	5.22
+INI23130	Trunk pred. mass	african_non_british_white_others_related_s_asian_white_british	6.0	ZFAT	1060.0	47.0	14.9	8.66	1.31
+INI23130	Trunk pred. mass	african_non_british_white_others_related_s_asian_white_british	6.0	SCMH1	470.0	26.0	8.2	1.46	0.162
+INI23130	Trunk pred. mass	african_non_british_white_others_related_s_asian_white_british	6.0	STC2	208.0	10.0	9.04	4.15	-0.179
+INI23130	Trunk pred. mass	african_non_british_white_others_related_s_asian_white_british	6.0	SPSB3	350.0	9.0	5.03	0.886	0.159
+INI23130	Trunk pred. mass	african_non_british_white_others_related_s_asian_white_british	6.0	GHRH	98.0	10.0	4.09	5.07	5.04
+INI23130	Trunk pred. mass	african_non_british_white_others_related_s_asian_white_british	6.0	IRS1	1018.0	23.0	3.08	0.668	5.04
+INI23130	Trunk pred. mass	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	271.0	23.0	1.88	5.29	1.98
+INI23130	Trunk pred. mass	african_non_british_white_others_related_s_asian_white_british	6.0	ACAN	1843.0	24.0	-0.272	1.29	5.15
+INI25028	Median T2star in caudate (L)	others_related_white_british	3.0	STAB1	485.0	39.0	1.79	16.7	8.26
+INI25029	Median T2star in caudate (R)	others_related_white_british	3.0	STAB1	485.0	39.0	0.813	12.7	5.42
+INI25030	Median T2star in putamen (L)	others_related_white_british	3.0	STAB1	485.0	39.0	1.59	21.3	10.4
+INI25031	Median T2star in putamen (R)	others_related_white_british	3.0	STAB1	485.0	39.0	1.99	25.3	11.8
+INI25033	Median T2star in pallidum (R)	others_related_white_british	3.0	STAB1	485.0	39.0	0.22	8.37	2.77
+INI25353	Mean ICVF in medial lemniscus on FA skeleton (L)	others_related_white_british	3.0	PRKRA	36.0	16.0	4.41	5.43	5.36
+INI25464	Mean ISOVF in superior corona radiata on FA skeleton (R)	others_related_white_british	3.0	PRKRA	36.0	16.0	5.27	5.92	5.74
+INI25696	WA OD in tract posterior thalamic radiation (L)	others_related_white_british	3.0	OMA1	85.0	8.0	2.05	5.03	0.00926
+INI25706	WA ISOVF in tract anterior thalamic radiation (L)	others_related_white_british	3.0	OMA1	85.0	8.0	2.45	6.38	0.441
+INI25728	WA ISOVF in tract superior thalamic radiation (R)	others_related_white_british	3.0	PRKRA	36.0	16.0	4.94	5.74	5.4
+INI25781	Total vol. of white matter hyperintensities (from T1 and T2 FLAIR images)	others_related_white_british	3.0	GBE1	136.0	14.0	4.01	5.88	4.13
+INI2714	Age when periods started (menarche)	african_non_british_white_others_related_s_asian_white_british	6.0	TACR3	228.0	19.0	4.91	5.6	6.65
+INI30000	White blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	CXCR2	265.0	5.0	27.6	36.2	0.0132
+INI30000	White blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	S1PR4	518.0	4.0	27.4	18.6	0.252
+INI30000	White blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	IL17RA	863.0	43.0	22.5	8.61	0.992
+INI30000	White blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	CHEK2	566.0	67.0	11.3	13.7	13
+INI30000	White blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	JAML	329.0	34.0	11.4	0.278	0.873
+INI30000	White blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	TNFRSF13B	374.0	47.0	7.98	6.85	0.484
+INI30000	White blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	GPSM3	145.0	22.0	7.36	5.15	-0.24
+INI30000	White blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	SH2B3	697.0	50.0	8.21	1.41	-0.296
+INI30000	White blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	SLC9A3R1	303.0	28.0	5.23	1.14	-0.359
+INI30000	White blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	RASGRP2	501.0	44.0	1.95	3.53	5.15
+INI30000	White blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	SBNO2	1378.0	46.0	-0.572	5.64	1.58
+INI30010	Red blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	HBB	141.0	32.0	34.3	77.9	71.6
+INI30010	Red blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	GNB2	164.0	12.0	20.1	4.36	-0.702
+INI30010	Red blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	TFR2	627.0	42.0	14.3	6.01	-0.528
+INI30010	Red blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	TNFRSF13B	374.0	47.0	6.42	6.55	-0.0671
+INI30010	Red blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	ZCWPW1	388.0	50.0	6.83	0.896	-0.459
+INI30010	Red blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	PKLR	409.0	21.0	6.91	10.4	1.37
+INI30010	Red blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	G6PD	255.0	8.0	9.38	1.05	0.624
+INI30010	Red blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	ACO1	721.0	77.0	5.63	4.47	5.57
+INI30010	Red blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	FCGRT	254.0	16.0	5.11	4.48	1.29
+INI30010	Red blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	E2F8	528.0	26.0	5.58	1.81	3.71
+INI30010	Red blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	HBA2	69.0	13.0	5.08	3.89	2.64
+INI30010	Red blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	HBZ	97.0	13.0	6.3	-0.54	-0.91
+INI30010	Red blood cell count	african_non_british_white_others_related_s_asian_white_british	6.0	GMPR	362.0	30.0	4.25	6.25	4.58
+INI30020	Haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	HBB	141.0	32.0	32	59.1	61.4
+INI30020	Haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	GNB2	164.0	12.0	27.3	8.54	-0.436
+INI30020	Haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	TFR2	627.0	42.0	25.8	25.7	0.411
+INI30020	Haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	ZCWPW1	388.0	50.0	8.08	2.57	-0.498
+INI30020	Haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	PKLR	409.0	21.0	9.09	10.4	1.26
+INI30020	Haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	ACO1	721.0	77.0	9.04	8.64	6.84
+INI30020	Haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	CTU2	946.0	80.0	6.83	0.00982	-0.147
+INI30020	Haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	HLA-DQA1	191.0	12.0	5.91	7.24	5.67
+INI30020	Haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	OMA1	316.0	31.0	3.68	5.88	0.228
+INI30020	Haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	PIEZO1	4174.0	159.0	5.32	-0.714	0.572
+INI30020	Haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	KLF1	225.0	21.0	4.19	1.25	6.15
+INI30020	Haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	FCGRT	254.0	16.0	3.28	5.25	1.4
+INI30020	Haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	TMPRSS6	844.0	59.0	2.75	5.26	5.8
+INI30030	Haematocrit %	african_non_british_white_others_related_s_asian_white_british	6.0	GNB2	164.0	12.0	28.1	8.23	-0.666
+INI30030	Haematocrit %	african_non_british_white_others_related_s_asian_white_british	6.0	TFR2	627.0	42.0	19.6	19.5	0.0437
+INI30030	Haematocrit %	african_non_british_white_others_related_s_asian_white_british	6.0	HBB	141.0	32.0	15.3	25.4	26.6
+INI30030	Haematocrit %	african_non_british_white_others_related_s_asian_white_british	6.0	OMA1	316.0	31.0	13.4	18.7	0.694
+INI30030	Haematocrit %	african_non_british_white_others_related_s_asian_white_british	6.0	TTK	634.0	63.0	11.4	2.8	0.878
+INI30030	Haematocrit %	african_non_british_white_others_related_s_asian_white_british	6.0	ZCWPW1	388.0	50.0	9.24	2.91	-0.493
+INI30030	Haematocrit %	african_non_british_white_others_related_s_asian_white_british	6.0	ACO1	721.0	77.0	9.52	8.4	8.6
+INI30030	Haematocrit %	african_non_british_white_others_related_s_asian_white_british	6.0	PKLR	409.0	21.0	8.54	9.71	1.22
+INI30030	Haematocrit %	african_non_british_white_others_related_s_asian_white_british	6.0	HLA-DQA1	191.0	12.0	7.41	8	6.12
+INI30030	Haematocrit %	african_non_british_white_others_related_s_asian_white_british	6.0	PRKRA	155.0	27.0	5.62	6.53	6.38
+INI30030	Haematocrit %	african_non_british_white_others_related_s_asian_white_british	6.0	FCGRT	254.0	16.0	4.47	6.16	1.48
+INI30030	Haematocrit %	african_non_british_white_others_related_s_asian_white_british	6.0	EPO	112.0	13.0	2.47	5.99	2.63
+INI30030650	AST to ALT ratio	african_non_british_white_others_related_s_asian_white_british	6.0	GPT	534.0	57.0	399	683	168
+INI30030650	AST to ALT ratio	african_non_british_white_others_related_s_asian_white_british	6.0	GOT1	281.0	21.0	48.3	40.2	23.2
+INI30030650	AST to ALT ratio	african_non_british_white_others_related_s_asian_white_british	6.0	ARHGAP39	706.0	16.0	19	4.92	-0.185
+INI30030650	AST to ALT ratio	african_non_british_white_others_related_s_asian_white_british	6.0	RECQL4	1672.0	116.0	9.54	3.89	-0.457
+INI30030650	AST to ALT ratio	african_non_british_white_others_related_s_asian_white_british	6.0	TMEM236	318.0	33.0	8.49	0.152	-0.311
+INI30030700	eGFR	african_non_british_white_others_related_s_asian_white_british	6.0	SLC22A2	484.0	34.0	21.7	28.8	21.9
+INI30030700	eGFR	african_non_british_white_others_related_s_asian_white_british	6.0	LRP2	3231.0	90.0	11.4	16.1	1.46
+INI30030700	eGFR	african_non_british_white_others_related_s_asian_white_british	6.0	SLC22A7	424.0	48.0	8	6.24	0.409
+INI30030700	eGFR	african_non_british_white_others_related_s_asian_white_british	6.0	PKHD1	3235.0	230.0	8.18	6.16	1.58
+INI30030700	eGFR	african_non_british_white_others_related_s_asian_white_british	6.0	CUBN	3199.0	228.0	6.03	2.72	1.36
+INI30030700	eGFR	african_non_british_white_others_related_s_asian_white_british	6.0	SLC34A3	779.0	60.0	5.74	9.28	8.02
+INI30030700	eGFR	african_non_british_white_others_related_s_asian_white_british	6.0	SLC6A19	919.0	96.0	5.26	1.2	-0.551
+INI30030700	eGFR	african_non_british_white_others_related_s_asian_white_british	6.0	SLC47A1	561.0	61.0	2.16	5.23	0.272
+INI30030700	eGFR	african_non_british_white_others_related_s_asian_white_british	6.0	CLDN10	198.0	23.0	0.973	5.19	3.49
+INI30030860	Non-albumin protein	african_non_british_white_others_related_s_asian_white_british	6.0	NFKB1	431.0	11.0	6.3	7.3	6.8
+INI30030860	Non-albumin protein	african_non_british_white_others_related_s_asian_white_british	6.0	ADAMTS4	574.0	28.0	7.4	-0.172	0.616
+INI30030860	Non-albumin protein	african_non_british_white_others_related_s_asian_white_british	6.0	FCGR2B	169.0	8.0	7.89	1.95	1.47
+INI30030860	Non-albumin protein	african_non_british_white_others_related_s_asian_white_british	6.0	FCGRT	211.0	10.0	5.66	4.56	-0.00118
+INI30030860	Non-albumin protein	african_non_british_white_others_related_s_asian_white_british	6.0	ALB	340.0	27.0	4.44	6.98	3.37
+INI30030860	Non-albumin protein	african_non_british_white_others_related_s_asian_white_british	6.0	TNFSF13	50.0	8.0	5.26	5.84	5.25
+INI30030860	Non-albumin protein	african_non_british_white_others_related_s_asian_white_british	6.0	TNFRSF13B	286.0	40.0	64.2	57.2	9.34
+INI30030860	Non-albumin protein	african_non_british_white_others_related_s_asian_white_british	6.0	FCGR3A	173.0	18.0	6.27	3.24	0.168
+INI30040	Mean corpuscular volume	african_non_british_white_others_related_s_asian_white_british	6.0	HBB	141.0	32.0	40.1	113	98.1
+INI30040	Mean corpuscular volume	african_non_british_white_others_related_s_asian_white_british	6.0	HBZ	97.0	13.0	21.5	3.32	3.8
+INI30040	Mean corpuscular volume	african_non_british_white_others_related_s_asian_white_british	6.0	GMPR	362.0	30.0	22	27.6	17.3
+INI30040	Mean corpuscular volume	african_non_british_white_others_related_s_asian_white_british	6.0	KLF1	225.0	21.0	21.7	13.7	24.2
+INI30040	Mean corpuscular volume	african_non_british_white_others_related_s_asian_white_british	6.0	TTK	634.0	63.0	17.6	2.8	-0.351
+INI30040	Mean corpuscular volume	african_non_british_white_others_related_s_asian_white_british	6.0	ALAS2	237.0	5.0	16.2	2.54	-0.99
+INI30040	Mean corpuscular volume	african_non_british_white_others_related_s_asian_white_british	6.0	E2F8	528.0	26.0	14.5	6.94	11.1
+INI30040	Mean corpuscular volume	african_non_british_white_others_related_s_asian_white_british	6.0	TMPRSS6	844.0	59.0	12.8	13	13.1
+INI30040	Mean corpuscular volume	african_non_british_white_others_related_s_asian_white_british	6.0	TF	569.0	41.0	13.1	-0.498	-0.785
+INI30040	Mean corpuscular volume	african_non_british_white_others_related_s_asian_white_british	6.0	ATR	1330.0	105.0	10.5	9.28	-0.355
+INI30040	Mean corpuscular volume	african_non_british_white_others_related_s_asian_white_british	6.0	HBA2	69.0	13.0	12.7	4.59	4.03
+INI30040	Mean corpuscular volume	african_non_british_white_others_related_s_asian_white_british	6.0	CHEK2	566.0	67.0	7.42	7.57	5.91
+INI30040	Mean corpuscular volume	african_non_british_white_others_related_s_asian_white_british	6.0	TFR2	627.0	42.0	9.66	6.29	0.903
+INI30040	Mean corpuscular volume	african_non_british_white_others_related_s_asian_white_british	6.0	TENT5C	201.0	6.0	5.96	9.42	0.114
+INI30040	Mean corpuscular volume	african_non_british_white_others_related_s_asian_white_british	6.0	POLE	1909.0	119.0	5.65	1.7	7.05
+INI30040	Mean corpuscular volume	african_non_british_white_others_related_s_asian_white_british	6.0	PRKRA	155.0	27.0	6.1	5.99	5.44
+INI30040	Mean corpuscular volume	african_non_british_white_others_related_s_asian_white_british	6.0	OMA1	316.0	31.0	6.98	8.16	0.0317
+INI30040	Mean corpuscular volume	african_non_british_white_others_related_s_asian_white_british	6.0	NPRL3	520.0	12.0	5.62	-0.372	-0.229
+INI30040	Mean corpuscular volume	african_non_british_white_others_related_s_asian_white_british	6.0	G6PD	255.0	8.0	8.43	1.07	0.464
+INI30040	Mean corpuscular volume	african_non_british_white_others_related_s_asian_white_british	6.0	BORA	439.0	48.0	7.23	-0.461	-1.12
+INI30040	Mean corpuscular volume	african_non_british_white_others_related_s_asian_white_british	6.0	AXIN1	699.0	26.0	5.85	1.1	-0.153
+INI30040	Mean corpuscular volume	african_non_british_white_others_related_s_asian_white_british	6.0	CAD	1332.0	56.0	2.01	4.54	6.22
+INI30040	Mean corpuscular volume	african_non_british_white_others_related_s_asian_white_british	6.0	TFRC	456.0	20.0	1.94	7.91	11.3
+INI30050	Mean corpuscular haemoglobin	african_non_british_white_others_related_s_asian_white_british	6.0	HBB	141.0	32.0	38.8	108	95
+INI30050	Mean corpuscular haemoglobin	african_non_british_white_others_related_s_asian_white_british	6.0	GMPR	362.0	30.0	32.5	39.9	25
+INI30050	Mean corpuscular haemoglobin	african_non_british_white_others_related_s_asian_white_british	6.0	KLF1	225.0	21.0	25.8	18.3	29.8
+INI30050	Mean corpuscular haemoglobin	african_non_british_white_others_related_s_asian_white_british	6.0	HBZ	97.0	13.0	22.7	2.51	2.64
+INI30050	Mean corpuscular haemoglobin	african_non_british_white_others_related_s_asian_white_british	6.0	ALAS2	237.0	5.0	19.2	3.04	-0.949
+INI30050	Mean corpuscular haemoglobin	african_non_british_white_others_related_s_asian_white_british	6.0	TMPRSS6	844.0	59.0	16.5	17.3	14.1
+INI30050	Mean corpuscular haemoglobin	african_non_british_white_others_related_s_asian_white_british	6.0	TF	569.0	41.0	17.1	-0.0202	-0.18
+INI30050	Mean corpuscular haemoglobin	african_non_british_white_others_related_s_asian_white_british	6.0	TFR2	627.0	42.0	16.9	9.87	1.46
+INI30050	Mean corpuscular haemoglobin	african_non_british_white_others_related_s_asian_white_british	6.0	HBA2	69.0	13.0	13.8	4.23	5
+INI30050	Mean corpuscular haemoglobin	african_non_british_white_others_related_s_asian_white_british	6.0	CHEK2	566.0	67.0	8.66	9.2	7.37
+INI30050	Mean corpuscular haemoglobin	african_non_british_white_others_related_s_asian_white_british	6.0	E2F8	528.0	26.0	10.3	4.59	7.6
+INI30050	Mean corpuscular haemoglobin	african_non_british_white_others_related_s_asian_white_british	6.0	TENT5C	201.0	6.0	7.58	11.6	0.00149
+INI30050	Mean corpuscular haemoglobin	african_non_british_white_others_related_s_asian_white_british	6.0	ATR	1330.0	105.0	7.69	8.24	0.163
+INI30050	Mean corpuscular haemoglobin	african_non_british_white_others_related_s_asian_white_british	6.0	NPRL3	520.0	12.0	7.07	-0.312	-0.226
+INI30050	Mean corpuscular haemoglobin	african_non_british_white_others_related_s_asian_white_british	6.0	RGS11	619.0	74.0	5.44	-0.237	-0.0752
+INI30050	Mean corpuscular haemoglobin	african_non_british_white_others_related_s_asian_white_british	6.0	AXIN1	699.0	26.0	8.56	1.73	-0.00641
+INI30050	Mean corpuscular haemoglobin	african_non_british_white_others_related_s_asian_white_british	6.0	POLE	1909.0	119.0	4.39	1.38	6.85
+INI30050	Mean corpuscular haemoglobin	african_non_british_white_others_related_s_asian_white_british	6.0	G6PD	255.0	8.0	5.84	0.92	0.233
+INI30050	Mean corpuscular haemoglobin	african_non_british_white_others_related_s_asian_white_british	6.0	BORA	439.0	48.0	5.63	-0.721	-1.24
+INI30050	Mean corpuscular haemoglobin	african_non_british_white_others_related_s_asian_white_british	6.0	TFRC	456.0	20.0	2.39	8.83	13.6
+INI30050	Mean corpuscular haemoglobin	african_non_british_white_others_related_s_asian_white_british	6.0	LY75	1275.0	144.0	3.4	7.06	5.04
+INI30060	Mean corpuscular haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	TTK	634.0	63.0	26.6	11.5	-0.428
+INI30060	Mean corpuscular haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	HBB	141.0	32.0	24.8	60.4	60.8
+INI30060	Mean corpuscular haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	PRKRA	155.0	27.0	13.6	14	15.5
+INI30060	Mean corpuscular haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	OMA1	316.0	31.0	17.5	25.1	0.267
+INI30060	Mean corpuscular haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	UBR4	2824.0	61.0	12.5	0.665	-0.551
+INI30060	Mean corpuscular haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	GMPR	362.0	30.0	6.71	8.46	5.25
+INI30060	Mean corpuscular haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	HBZ	97.0	13.0	7.85	-0.267	-1.07
+INI30060	Mean corpuscular haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	KLF1	225.0	21.0	4.61	4.56	6.09
+INI30060	Mean corpuscular haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	KCNQ2	607.0	27.0	5.27	-0.536	-0.434
+INI30060	Mean corpuscular haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	MUC4	8477.0	216.0	8.16	0.116	-0.956
+INI30060	Mean corpuscular haemoglobin concentration	african_non_british_white_others_related_s_asian_white_british	6.0	TFRC	456.0	20.0	0.902	1.91	6.13
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	KLF1	225.0	21.0	27.2	19.3	36.7
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	PLD1	946.0	71.0	26.4	12.5	1.08
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	HSPA9	452.0	36.0	17.2	18.7	17.7
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	HBB	141.0	32.0	19	52.5	52.3
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	SLC12A7	1250.0	70.0	14.3	19.1	1.43
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	RENBP	283.0	17.0	6.69	3.24	-0.396
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	PRC1	482.0	47.0	12.2	7.94	-0.396
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	JAK2	819.0	50.0	12.5	1.08	-0.259
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	SLC6A19	929.0	93.0	8.17	-0.169	-0.527
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	TSC22D4	305.0	12.0	8.25	4.85	-0.164
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	TMPRSS6	844.0	59.0	10.7	14.7	15.7
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	MARCHF8	450.0	43.0	8.57	1.15	1.89
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	GMPR	362.0	30.0	8.5	10.3	6.93
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	G6PD	255.0	8.0	11.2	6.5	-0.225
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	TFR2	627.0	42.0	7.28	3.56	0.0573
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	ATR	1330.0	105.0	4.9	6.23	0.0791
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	TMC8	690.0	51.0	6.6	-0.447	0.103
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	CCT3	426.0	8.0	7.4	3.01	0.0294
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	SEC23B	591.0	75.0	4.32	7.82	12.4
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	ASXL1	1080.0	44.0	4.39	1.05	8.45
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	CAD	1332.0	56.0	1.52	5.07	4.04
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	CD36	908.0	238.0	4.06	11.7	9.06
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	TFRC	456.0	20.0	0.932	3.34	6.97
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	LCAT	317.0	19.0	0.745	5.26	1.24
+INI30070	Red blood cell distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	POLE	1909.0	119.0	0.79	3.02	5.08
+INI30080	Platelet count	african_non_british_white_others_related_s_asian_white_british	6.0	SH2B3	697.0	50.0	53.9	9.49	0.763
+INI30080	Platelet count	african_non_british_white_others_related_s_asian_white_british	6.0	JAK2	819.0	50.0	53.3	42	11
+INI30080	Platelet count	african_non_british_white_others_related_s_asian_white_british	6.0	TUBB1	478.0	44.0	43.9	45.1	32.4
+INI30080	Platelet count	african_non_british_white_others_related_s_asian_white_british	6.0	IQGAP2	1234.0	139.0	20.7	22.2	12.8
+INI30080	Platelet count	african_non_british_white_others_related_s_asian_white_british	6.0	TNFRSF13B	374.0	47.0	17.2	14.7	0.494
+INI30080	Platelet count	african_non_british_white_others_related_s_asian_white_british	6.0	CALR	322.0	14.0	16.9	3.81	6.21
+INI30080	Platelet count	african_non_british_white_others_related_s_asian_white_british	6.0	TTK	634.0	63.0	14.1	4.35	-0.428
+INI30080	Platelet count	african_non_british_white_others_related_s_asian_white_british	6.0	OMA1	316.0	31.0	13	10.2	-0.226
+INI30080	Platelet count	african_non_british_white_others_related_s_asian_white_british	6.0	MPL	469.0	55.0	14	13.3	6.75
+INI30080	Platelet count	african_non_british_white_others_related_s_asian_white_british	6.0	PRKRA	155.0	27.0	9.53	11.5	8.86
+INI30080	Platelet count	african_non_british_white_others_related_s_asian_white_british	6.0	GP9	174.0	6.0	11.1	11.3	0.0398
+INI30080	Platelet count	african_non_british_white_others_related_s_asian_white_british	6.0	GP1BA	421.0	29.0	8.06	9.68	11.2
+INI30080	Platelet count	african_non_british_white_others_related_s_asian_white_british	6.0	PTPRH	1040.0	112.0	9.69	10.7	9.88
+INI30080	Platelet count	african_non_british_white_others_related_s_asian_white_british	6.0	LY75	1275.0	144.0	10.4	14.4	5.3
+INI30080	Platelet count	african_non_british_white_others_related_s_asian_white_british	6.0	GFI1B	397.0	11.0	10.1	8.15	-0.133
+INI30080	Platelet count	african_non_british_white_others_related_s_asian_white_british	6.0	HECTD4	2129.0	60.0	8.25	3.54	-0.91
+INI30080	Platelet count	african_non_british_white_others_related_s_asian_white_british	6.0	ITGA2B	722.0	48.0	7.31	15.9	4.25
+INI30080	Platelet count	african_non_british_white_others_related_s_asian_white_british	6.0	RCL1	450.0	19.0	6.38	0.802	-0.158
+INI30080	Platelet count	african_non_british_white_others_related_s_asian_white_british	6.0	NAA25	427.0	13.0	5.51	1.67	0.00158
+INI30080	Platelet count	african_non_british_white_others_related_s_asian_white_british	6.0	GP1BB	189.0	14.0	5.32	3.86	7.18
+INI30080	Platelet count	african_non_british_white_others_related_s_asian_white_british	6.0	NLRP3	558.0	29.0	3.46	5.06	1.02
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	SH2B3	697.0	50.0	62.3	10.8	0.646
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	JAK2	819.0	50.0	52.3	39.4	9.44
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	TNFRSF13B	374.0	47.0	36.9	29	1.8
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	TTK	634.0	63.0	21.5	5.89	-0.332
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	LY75	1275.0	144.0	20.6	28.1	11.6
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	OMA1	316.0	31.0	16.4	14.9	-0.202
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	CHEK2	566.0	67.0	14.9	15.1	12.8
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	PTPRH	1040.0	112.0	14.4	17.4	15.6
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	PRKRA	155.0	27.0	11.5	12.8	11.9
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	MPL	469.0	55.0	15.5	16.2	6.39
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	CALR	322.0	14.0	14.1	3.6	5.67
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	TUBB1	478.0	44.0	13.3	16.2	11.9
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	RCL1	450.0	19.0	10.1	1.15	-0.19
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	HECTD4	2129.0	60.0	7.86	2.58	-0.898
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	LAPTM5	222.0	2.0	7.56	4.8	-0.0486
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	NAA25	427.0	13.0	6.74	2.07	0.0521
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	MFSD2B	488.0	33.0	5.37	3.7	-0.292
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	BTNL8	456.0	50.0	3.63	5.06	3.95
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	UBR4	2824.0	61.0	6.58	-0.48	-0.635
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	PLA2G12A	187.0	24.0	3.41	5.16	0.657
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	GP9	174.0	6.0	4.24	5.28	-0.0288
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	S1PR4	518.0	4.0	3.01	6.94	0.0368
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	BAK1	207.0	25.0	2.12	5.6	3.17
+INI30090	Platelet crit	african_non_british_white_others_related_s_asian_white_british	6.0	ITGA2B	722.0	48.0	2.51	6.37	1.26
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	IQGAP2	1234.0	139.0	83.1	96	63.3
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	KALRN	1808.0	39.0	52.1	43.1	52
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	TUBB1	478.0	44.0	49.9	40.9	30.6
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	CLIP1	772.0	57.0	23.4	4.69	-0.504
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	CKAP2L	578.0	45.0	24.7	20.1	3.48
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	GP1BA	421.0	29.0	18.9	22.8	25.9
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	EXOC3L4	825.0	61.0	23.6	13.8	9.71
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	DOCK8	2116.0	83.0	16.9	1.8	2.83
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	DENND2C	746.0	60.0	15.4	10.4	0.491
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	GFI1B	397.0	11.0	15.2	15	-0.0477
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	CAVIN2	326.0	23.0	11.8	0.0192	4.53
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	GP9	174.0	6.0	13.1	7.52	0.0579
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	KDM2B	859.0	60.0	13.2	1.54	1.67
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	MLXIP	744.0	50.0	7.49	7.05	6.88
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	MFSD2B	488.0	33.0	6.78	1.29	-0.24
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	GP1BB	189.0	14.0	7.76	4.91	8.15
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	ITGA2B	722.0	48.0	6.23	12.4	4.21
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	ATAD5	912.0	41.0	6.05	-0.541	0.685
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	SETD1B	1398.0	16.0	7.58	2.32	-0.633
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	PVR	330.0	47.0	6.11	4.11	-0.035
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	CHEK2	566.0	67.0	4.89	7.87	3.99
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	SBNO1	670.0	9.0	5.09	-0.319	-0.0816
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	SNX8	515.0	27.0	5.4	4.62	-0.103
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	TUBA1C	284.0	29.0	4.99	4.93	5.51
+INI30100	Mean platelet volume	african_non_british_white_others_related_s_asian_white_british	6.0	PTPRJ	1098.0	73.0	1.25	2.48	9.59
+INI30110	Platelet distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	TUBB1	478.0	44.0	192	207	111
+INI30110	Platelet distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	DENND2C	746.0	60.0	25.7	17.4	4.09
+INI30110	Platelet distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	TUBA1C	284.0	29.0	15.9	15.3	16.3
+INI30110	Platelet distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	DOCK8	2116.0	83.0	12.7	1.28	-0.494
+INI30110	Platelet distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	GP1BA	421.0	29.0	9.71	8.51	13.6
+INI30110	Platelet distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	PRELID3B	116.0	8.0	11	0.1	0.164
+INI30110	Platelet distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	JAK2	819.0	50.0	10.9	0.172	0.174
+INI30110	Platelet distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	MYOC	410.0	61.0	7.79	4.13	0.171
+INI30110	Platelet distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	ASXL1	1080.0	44.0	9.3	3.67	12.9
+INI30110	Platelet distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	GFI1B	397.0	11.0	8.31	3.54	-0.117
+INI30110	Platelet distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	GP9	174.0	6.0	7.05	5.25	-0.0438
+INI30110	Platelet distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	NELFCD	407.0	49.0	9.25	0.908	-0.163
+INI30110	Platelet distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	IQGAP2	1234.0	139.0	5.03	3.47	2.13
+INI30110	Platelet distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	CHEK2	566.0	67.0	3.35	5.81	3.5
+INI30110	Platelet distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	CD36	907.0	238.0	3.95	8.68	4.42
+INI30110	Platelet distribution width	african_non_british_white_others_related_s_asian_white_british	6.0	RIPOR3	1045.0	72.0	3.34	6.45	2.6
+INI30120	Lymphocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	TNFRSF13B	374.0	47.0	14	11.6	0.383
+INI30120	Lymphocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	GPSM3	145.0	22.0	13.3	8.01	-0.214
+INI30120	Lymphocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	ITGB2	799.0	35.0	11.4	6.01	0.239
+INI30120	Lymphocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	SPHK1	369.0	43.0	10.2	11.2	12.1
+INI30120	Lymphocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	CHEK2	566.0	67.0	8.96	11.1	9.67
+INI30120	Lymphocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	NBN	642.0	79.0	5.37	3.79	0.0483
+INI30120	Lymphocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	MUC22	1026.0	65.0	5.68	-0.194	-0.235
+INI30120	Lymphocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	S1PR4	517.0	4.0	3.78	7.16	0.121
+INI30130	Monocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	IL17RA	862.0	43.0	180	48.4	3.03
+INI30130	Monocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	TNFRSF13B	374.0	47.0	30.6	28.4	3.22
+INI30130	Monocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	IRF8	383.0	8.0	21.1	14.5	0.195
+INI30130	Monocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	FLT3	741.0	28.0	10.2	9.62	0.643
+INI30130	Monocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	S1PR4	517.0	4.0	8.5	7.64	0.0486
+INI30130	Monocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	MPO	717.0	67.0	6.85	5.27	7.66
+INI30130	Monocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	ARHGAP25	496.0	22.0	5.72	1.72	-0.235
+INI30130	Monocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	ASXL1	1080.0	44.0	6.48	2.44	9.31
+INI30130	Monocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	CCR2	266.0	23.0	1.9	5.49	0.611
+INI30140	Neutrophill count	african_non_british_white_others_related_s_asian_white_british	6.0	CXCR2	264.0	5.0	35.2	47.2	-0.0102
+INI30140	Neutrophill count	african_non_british_white_others_related_s_asian_white_british	6.0	S1PR4	517.0	4.0	30.7	13.4	0.137
+INI30140	Neutrophill count	african_non_british_white_others_related_s_asian_white_british	6.0	JAML	329.0	34.0	11	0.318	1.79
+INI30140	Neutrophill count	african_non_british_white_others_related_s_asian_white_british	6.0	IL17RA	862.0	43.0	11.7	4.35	0.524
+INI30140	Neutrophill count	african_non_british_white_others_related_s_asian_white_british	6.0	CXCL6	120.0	23.0	7.75	8.21	8.02
+INI30140	Neutrophill count	african_non_british_white_others_related_s_asian_white_british	6.0	JAK2	818.0	50.0	7.94	-0.238	-0.241
+INI30140	Neutrophill count	african_non_british_white_others_related_s_asian_white_british	6.0	SPTA1	2027.0	93.0	5.94	0.363	-0.401
+INI30140	Neutrophill count	african_non_british_white_others_related_s_asian_white_british	6.0	SH2B3	697.0	50.0	7.7	1.43	-0.3
+INI30140	Neutrophill count	african_non_british_white_others_related_s_asian_white_british	6.0	CHEK2	566.0	67.0	4.55	6.36	6.62
+INI30140	Neutrophill count	african_non_british_white_others_related_s_asian_white_british	6.0	SLC9A3R1	303.0	28.0	5.11	1.01	-0.381
+INI30150	Eosinophill count	african_non_british_white_others_related_s_asian_white_british	6.0	IL17RA	862.0	43.0	17.9	6.72	0.595
+INI30150	Eosinophill count	african_non_british_white_others_related_s_asian_white_british	6.0	CSF2RB	721.0	27.0	12.3	3.44	10.8
+INI30150	Eosinophill count	african_non_british_white_others_related_s_asian_white_british	6.0	SH2B3	697.0	50.0	11.3	0.092	-0.285
+INI30150	Eosinophill count	african_non_british_white_others_related_s_asian_white_british	6.0	S1PR4	517.0	4.0	11.7	14	0.0548
+INI30150	Eosinophill count	african_non_british_white_others_related_s_asian_white_british	6.0	JAK2	818.0	50.0	8.02	-0.312	1.46
+INI30150	Eosinophill count	african_non_british_white_others_related_s_asian_white_british	6.0	ALOX15	592.0	64.0	9.39	5.02	0.862
+INI30150	Eosinophill count	african_non_british_white_others_related_s_asian_white_british	6.0	GLDC	1204.0	91.0	7.1	1.99	-0.278
+INI30150	Eosinophill count	african_non_british_white_others_related_s_asian_white_british	6.0	CEBPE	229.0	14.0	4.92	5.25	0.069
+INI30150	Eosinophill count	african_non_british_white_others_related_s_asian_white_british	6.0	TET2	1233.0	139.0	0.241	2.7	6.43
+INI30160	Basophill count	african_non_british_white_others_related_s_asian_white_british	6.0	TTK	633.0	63.0	32.1	11.4	-0.255
+INI30160	Basophill count	african_non_british_white_others_related_s_asian_white_british	6.0	PRKRA	155.0	27.0	24.1	21.5	23.8
+INI30160	Basophill count	african_non_british_white_others_related_s_asian_white_british	6.0	OMA1	316.0	31.0	18.4	23.6	0.272
+INI30160	Basophill count	african_non_british_white_others_related_s_asian_white_british	6.0	MPO	717.0	67.0	10.4	9.91	5.14
+INI30160	Basophill count	african_non_british_white_others_related_s_asian_white_british	6.0	UBR4	2821.0	61.0	8.7	0.391	-0.521
+INI30160	Basophill count	african_non_british_white_others_related_s_asian_white_british	6.0	GGN	500.0	40.0	6.04	3.57	0.323
+INI30160	Basophill count	african_non_british_white_others_related_s_asian_white_british	6.0	MUC4	8472.0	216.0	8.42	-0.805	-0.859
+INI30180	Lymphocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	CXCR2	264.0	5.0	16	22.8	-0.0499
+INI30180	Lymphocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	JAK2	818.0	50.0	13.8	-0.307	-0.271
+INI30180	Lymphocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	S1PR4	517.0	4.0	10.9	0.592	-0.0472
+INI30180	Lymphocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	SPTA1	2027.0	93.0	5.44	-0.115	-0.102
+INI30180	Lymphocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	ITGB2	799.0	35.0	5.69	3.44	-0.219
+INI30180	Lymphocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	IL17RA	862.0	43.0	6.39	0.28	-0.211
+INI30180	Lymphocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	RASA3	715.0	42.0	3.41	1.57	5.23
+INI30180	Lymphocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	ANKRD12	1257.0	68.0	0.986	4.01	6.63
+INI30190	Monocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	IL17RA	862.0	43.0	137	31.5	0.979
+INI30190	Monocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	IRF8	383.0	8.0	23.9	12.7	0.355
+INI30190	Monocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	MPO	717.0	67.0	14.2	14.7	14.1
+INI30190	Monocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	TNFRSF13B	374.0	47.0	15.4	15.2	1.65
+INI30190	Monocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	FLT3	741.0	28.0	7.64	7.96	0.351
+INI30190	Monocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	SPHK1	369.0	43.0	7	5.04	6.81
+INI30190	Monocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	CEBPE	229.0	14.0	7.6	6.15	-0.117
+INI30190	Monocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	CXCR2	264.0	5.0	7.27	9.27	-0.0306
+INI30190	Monocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	ARHGAP25	496.0	22.0	5.31	2.11	-0.342
+INI30190	Monocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	PTPRH	1039.0	111.0	3.86	6.66	3.72
+INI30190	Monocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	CCR2	266.0	23.0	3.53	7.71	2.26
+INI30190	Monocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	TET2	1233.0	139.0	-0.122	1.76	7.88
+INI30200	Neutrophill %	african_non_british_white_others_related_s_asian_white_british	6.0	CXCR2	264.0	5.0	17.8	25.3	-0.0536
+INI30200	Neutrophill %	african_non_british_white_others_related_s_asian_white_british	6.0	S1PR4	517.0	4.0	11.4	0.178	-0.0465
+INI30200	Neutrophill %	african_non_british_white_others_related_s_asian_white_british	6.0	JAK2	818.0	50.0	9.87	-0.451	-0.275
+INI30200	Neutrophill %	african_non_british_white_others_related_s_asian_white_british	6.0	SPTA1	2027.0	93.0	5.83	-0.163	0.00579
+INI30200	Neutrophill %	african_non_british_white_others_related_s_asian_white_british	6.0	TNFRSF13B	374.0	47.0	6.59	5.66	-0.0107
+INI30200	Neutrophill %	african_non_british_white_others_related_s_asian_white_british	6.0	CXCL6	120.0	23.0	5.03	5.22	5.15
+INI30200	Neutrophill %	african_non_british_white_others_related_s_asian_white_british	6.0	CKAP2L	578.0	45.0	2.03	5.37	1.64
+INI30200	Neutrophill %	african_non_british_white_others_related_s_asian_white_british	6.0	ANKRD12	1257.0	68.0	0.911	2.98	5.62
+INI30210	Eosinophill %	african_non_british_white_others_related_s_asian_white_british	6.0	CSF2RB	721.0	27.0	11.9	2.7	10.8
+INI30210	Eosinophill %	african_non_british_white_others_related_s_asian_white_british	6.0	GLDC	1204.0	91.0	11.4	3.59	-0.402
+INI30210	Eosinophill %	african_non_british_white_others_related_s_asian_white_british	6.0	SH2B3	697.0	50.0	8.24	0.31	-0.311
+INI30210	Eosinophill %	african_non_british_white_others_related_s_asian_white_british	6.0	ALOX15	592.0	64.0	9.19	4.43	0.518
+INI30210	Eosinophill %	african_non_british_white_others_related_s_asian_white_british	6.0	IL18RAP	422.0	42.0	5.97	3.11	-0.289
+INI30210	Eosinophill %	african_non_british_white_others_related_s_asian_white_british	6.0	IL17RA	862.0	43.0	6.18	1.82	0.401
+INI30210	Eosinophill %	african_non_british_white_others_related_s_asian_white_british	6.0	JAK2	818.0	50.0	5.82	0.0396	1.22
+INI30210	Eosinophill %	african_non_british_white_others_related_s_asian_white_british	6.0	EPX	808.0	79.0	5.58	0.438	-0.782
+INI30210	Eosinophill %	african_non_british_white_others_related_s_asian_white_british	6.0	S1PR4	517.0	4.0	5.04	6.2	-0.0327
+INI30210	Eosinophill %	african_non_british_white_others_related_s_asian_white_british	6.0	ASXL1	1080.0	44.0	2	0.808	5.85
+INI30220	Basophill %	african_non_british_white_others_related_s_asian_white_british	6.0	S1PR4	517.0	4.0	9.32	5.61	-0.0461
+INI30220	Basophill %	african_non_british_white_others_related_s_asian_white_british	6.0	MPO	717.0	67.0	8.19	8.28	4.67
+INI30220	Basophill %	african_non_british_white_others_related_s_asian_white_british	6.0	PRKRA	155.0	27.0	5	4.37	5.53
+INI30220	Basophill %	african_non_british_white_others_related_s_asian_white_british	6.0	GGN	500.0	40.0	5.55	1.84	0.159
+INI30240	Reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	GMPR	357.0	30.0	21.1	24.3	13.5
+INI30240	Reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	PKLR	402.0	20.0	17.1	13.7	-0.268
+INI30240	Reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	RHAG	325.0	19.0	13.6	8.43	12.8
+INI30240	Reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	RIOK3	384.0	42.0	11.5	6.68	-0.137
+INI30240	Reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	IFRD2	516.0	29.0	12.9	8.38	-0.0602
+INI30240	Reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	SPHK1	368.0	43.0	9.3	8.37	10.2
+INI30240	Reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	SPTA1	2009.0	92.0	11.1	1.1	12.5
+INI30240	Reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	AMPD3	741.0	56.0	6.81	3.36	-0.401
+INI30240	Reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	MFSD2B	483.0	33.0	6.94	0.354	0.195
+INI30240	Reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	G6PD	249.0	8.0	8.81	3.55	-0.248
+INI30240	Reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	TMC8	681.0	51.0	5.95	-0.351	0.27
+INI30240	Reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	ANK1	1561.0	31.0	5.15	3.29	2.17
+INI30240	Reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	TENT5C	195.0	5.0	4.03	8.43	-0.0381
+INI30250	Reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	GMPR	357.0	30.0	16.1	18	9.44
+INI30250	Reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	RHAG	325.0	19.0	13.1	8.03	12.2
+INI30250	Reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	PKLR	402.0	20.0	13	8.67	-0.313
+INI30250	Reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	RIOK3	384.0	42.0	10.6	6.04	-0.156
+INI30250	Reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	IFRD2	516.0	29.0	12.3	8.12	-0.0367
+INI30250	Reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	AMPD3	741.0	56.0	8.86	4.07	-0.403
+INI30250	Reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	SPHK1	368.0	43.0	8.52	7.35	9.02
+INI30250	Reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	SPTA1	2009.0	92.0	10.9	0.721	10.7
+INI30250	Reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	CTU2	941.0	80.0	5.99	0.791	-0.35
+INI30250	Reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	G6PD	249.0	8.0	5.07	2.33	-0.253
+INI30250	Reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	BLVRB	326.0	49.0	5.43	-0.06	-0.861
+INI30250	Reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	TENT5C	195.0	5.0	2.81	5.93	-0.0391
+INI30250	Reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	HBB	140.0	32.0	2.89	7.4	9.26
+INI30260	Mean reticulocyte volume	african_non_british_white_others_related_s_asian_white_british	6.0	TTK	628.0	62.0	30.7	7.02	-0.272
+INI30260	Mean reticulocyte volume	african_non_british_white_others_related_s_asian_white_british	6.0	MUC4	8401.0	213.0	19	0.761	-1.03
+INI30260	Mean reticulocyte volume	african_non_british_white_others_related_s_asian_white_british	6.0	OMA1	311.0	30.0	21.7	29.3	0.00412
+INI30260	Mean reticulocyte volume	african_non_british_white_others_related_s_asian_white_british	6.0	PRKRA	154.0	26.0	14	12.6	13.8
+INI30260	Mean reticulocyte volume	african_non_british_white_others_related_s_asian_white_british	6.0	UBR4	2780.0	59.0	13.8	0.352	-0.32
+INI30260	Mean reticulocyte volume	african_non_british_white_others_related_s_asian_white_british	6.0	HBB	140.0	32.0	11	28.2	28.4
+INI30260	Mean reticulocyte volume	african_non_british_white_others_related_s_asian_white_british	6.0	ATR	1316.0	104.0	8.28	7.42	-0.148
+INI30260	Mean reticulocyte volume	african_non_british_white_others_related_s_asian_white_british	6.0	TRIM10	387.0	43.0	8.68	9.07	1.08
+INI30260	Mean reticulocyte volume	african_non_british_white_others_related_s_asian_white_british	6.0	SPHK1	368.0	43.0	7.02	7.07	6.17
+INI30260	Mean reticulocyte volume	african_non_british_white_others_related_s_asian_white_british	6.0	E2F8	524.0	26.0	6.89	3.41	4.24
+INI30260	Mean reticulocyte volume	african_non_british_white_others_related_s_asian_white_british	6.0	OR10R2	231.0	18.0	7.77	7.51	2.65
+INI30260	Mean reticulocyte volume	african_non_british_white_others_related_s_asian_white_british	6.0	ZNF419	437.0	46.0	7.2	4.09	-0.447
+INI30260	Mean reticulocyte volume	african_non_british_white_others_related_s_asian_white_british	6.0	SPTA1	2009.0	92.0	9.79	0.36	13.4
+INI30260	Mean reticulocyte volume	african_non_british_white_others_related_s_asian_white_british	6.0	CAD	1318.0	55.0	5.68	14.6	15.2
+INI30260	Mean reticulocyte volume	african_non_british_white_others_related_s_asian_white_british	6.0	RTTN	1843.0	149.0	5.37	4.89	0.737
+INI30260	Mean reticulocyte volume	african_non_british_white_others_related_s_asian_white_british	6.0	ANK1	1561.0	31.0	6.52	3.24	0.551
+INI30260	Mean reticulocyte volume	african_non_british_white_others_related_s_asian_white_british	6.0	RHAG	325.0	19.0	6.16	5.02	6.18
+INI30260	Mean reticulocyte volume	african_non_british_white_others_related_s_asian_white_british	6.0	SPTB	2071.0	43.0	5.56	3.78	2.25
+INI30260	Mean reticulocyte volume	african_non_british_white_others_related_s_asian_white_british	6.0	POLE	1893.0	118.0	3.57	3.43	9.23
+INI30260	Mean reticulocyte volume	african_non_british_white_others_related_s_asian_white_british	6.0	MRGPRF	327.0	20.0	5.21	0.447	0.546
+INI30280	Immature reticulocyte fraction	african_non_british_white_others_related_s_asian_white_british	6.0	DOCK6	2066.0	145.0	12.1	0.685	0.725
+INI30280	Immature reticulocyte fraction	african_non_british_white_others_related_s_asian_white_british	6.0	SPHK1	368.0	43.0	12.7	11.5	12.8
+INI30280	Immature reticulocyte fraction	african_non_british_white_others_related_s_asian_white_british	6.0	IFRD2	516.0	29.0	10.8	11.4	2.91
+INI30280	Immature reticulocyte fraction	african_non_british_white_others_related_s_asian_white_british	6.0	TRIM10	387.0	43.0	5.64	-0.166	0.873
+INI30280	Immature reticulocyte fraction	african_non_british_white_others_related_s_asian_white_british	6.0	RIOK3	384.0	42.0	7	4.25	-0.163
+INI30280	Immature reticulocyte fraction	african_non_british_white_others_related_s_asian_white_british	6.0	MUTYH	626.0	63.0	5.29	2.08	-0.391
+INI30280	Immature reticulocyte fraction	african_non_british_white_others_related_s_asian_white_british	6.0	HBB	140.0	32.0	2.9	6.3	3.22
+INI30290	High light scatter reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	GMPR	357.0	30.0	19.9	21.1	11.9
+INI30290	High light scatter reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	SPHK1	368.0	43.0	15.2	13.6	16
+INI30290	High light scatter reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	PKLR	402.0	20.0	14.3	13.4	-0.235
+INI30290	High light scatter reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	IFRD2	516.0	29.0	16.5	12.5	0.895
+INI30290	High light scatter reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	DOCK6	2066.0	145.0	10.2	0.373	0.61
+INI30290	High light scatter reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	RIOK3	384.0	42.0	13.6	8.3	-0.0267
+INI30290	High light scatter reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	RHAG	324.0	18.0	7.94	4.21	6.87
+INI30290	High light scatter reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	AMPD3	741.0	56.0	6.67	2.6	-0.391
+INI30290	High light scatter reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	MFSD2B	483.0	33.0	7.84	1.67	0.183
+INI30290	High light scatter reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	SPTA1	2008.0	92.0	8.1	0.513	5.91
+INI30290	High light scatter reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	TULP2	390.0	41.0	5.43	1.9	-0.559
+INI30290	High light scatter reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	BSN	2356.0	21.0	6.13	0.0609	1.1
+INI30290	High light scatter reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	BLVRB	326.0	49.0	6.1	-0.285	-0.137
+INI30290	High light scatter reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	IQGAP2	1220.0	138.0	4.2	5.44	4.35
+INI30290	High light scatter reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	G6PD	249.0	8.0	5.41	2.47	-0.245
+INI30290	High light scatter reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	TENT5C	195.0	5.0	2.8	6.49	-0.0374
+INI30290	High light scatter reticulocyte %	african_non_british_white_others_related_s_asian_white_british	6.0	EIF2AK1	475.0	53.0	0.701	5.86	3.78
+INI30300	High light scatter reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	GMPR	357.0	30.0	16.6	17.1	9.28
+INI30300	High light scatter reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	SPHK1	368.0	43.0	14	12.4	14.6
+INI30300	High light scatter reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	DOCK6	2066.0	145.0	10.7	0.499	0.702
+INI30300	High light scatter reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	IFRD2	516.0	29.0	16	12.2	0.967
+INI30300	High light scatter reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	RIOK3	384.0	42.0	13.1	7.86	-0.0607
+INI30300	High light scatter reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	PKLR	402.0	20.0	11.5	9.6	-0.305
+INI30300	High light scatter reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	AMPD3	741.0	56.0	8.3	3.2	-0.398
+INI30300	High light scatter reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	RHAG	324.0	18.0	7.92	4.17	6.74
+INI30300	High light scatter reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	SPTA1	2008.0	92.0	7.88	0.25	5.12
+INI30300	High light scatter reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	TULP2	390.0	41.0	5.46	1.81	-0.55
+INI30300	High light scatter reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	BSN	2356.0	21.0	6.11	-0.0334	1.53
+INI30300	High light scatter reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	MFSD2B	483.0	33.0	6.01	1.13	0.072
+INI30300	High light scatter reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	BLVRB	326.0	49.0	6.63	-0.223	-0.128
+INI30300	High light scatter reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	IQGAP2	1220.0	138.0	4.6	6.13	4.9
+INI30300	High light scatter reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	HBB	140.0	32.0	3.34	9.99	9.71
+INI30300	High light scatter reticulocyte count	african_non_british_white_others_related_s_asian_white_british	6.0	EIF2AK1	475.0	53.0	0.84	5.65	3.65
+INI3062	FVC	african_non_british_white_others_related_s_asian_white_british	6.0	SCMH1	451.0	26.0	5.26	-0.238	1.31
+INI3063	FEV1	african_non_british_white_others_related_s_asian_white_british	6.0	GATA5	373.0	13.0	5.04	3.36	0.121
+INI3144	Heel Broadband ultrasound attenuation, direct entry	non_british_white_others_related_white_british	4.0	LRP5	837.0	27.0	6.84	10	0.818
+INI3144	Heel Broadband ultrasound attenuation, direct entry	non_british_white_others_related_white_british	4.0	MEPE	245.0	39.0	5.83	6.59	7.09
+INI3146	Speed of sound through heel	non_british_white_others_related_white_british	4.0	MEPE	245.0	39.0	8.54	8.46	9.89
+INI3146	Speed of sound through heel	non_british_white_others_related_white_british	4.0	LRP5	837.0	27.0	8.43	13.9	0.867
+INI3146	Speed of sound through heel	non_british_white_others_related_white_british	4.0	GREM2	52.0	1.0	3.91	5.64	0.000737
+INI3147	Heel quantitative ultrasound index (QUI), direct entry	non_british_white_others_related_white_british	4.0	MEPE	245.0	39.0	8.17	8.39	9.55
+INI3147	Heel quantitative ultrasound index (QUI), direct entry	non_british_white_others_related_white_british	4.0	LRP5	837.0	27.0	8.59	13.5	0.954
+INI3148	Heel bone mineral density (BMD)	non_british_white_others_related_white_british	4.0	MEPE	245.0	39.0	8.28	8.47	9.69
+INI3148	Heel bone mineral density (BMD)	non_british_white_others_related_white_british	4.0	LRP5	837.0	27.0	8.76	13.8	0.972
+INI3526	Mother's age at death	african_non_british_white_others_related_s_asian_white_british	6.0	BRCA2	1744.0	193.0	0.0238	2.64	10.8
+INI3581	Age at menopause	non_british_white_others_related_white_british	4.0	CHEK2	292.0	37.0	10.2	15.1	13.7
+INI3761	Age hay fever, rhinitis or eczema diagnosed	non_british_white_others_related_white_british	4.0	FLG	2224.0	222.0	10.5	8.78	15.9
+INI3829	# of stillbirths	non_british_white_others_related_white_british	4.0	ALKBH3	112.0	22.0	5.09	2.06	2.48
+INI4079	Diastolic BP (AR)	african_non_british_white_others_related_s_asian_white_british	6.0	DBH	721.0	40.0	5.02	1.83	-0.298
+INI4100	Ankle spacing width (L)	african_non_british_white_others_related_s_asian_white_british	6.0	SMAD6	521.0	69.0	1.36	0.0945	5.34
+INI4101	Heel broadband ultrasound attenuation (L)	african_non_british_white_others_related_s_asian_white_british	6.0	MEPE	283.0	46.0	6.76	8.21	9.84
+INI4103	Speed of sound through heel (L)	african_non_british_white_others_related_s_asian_white_british	6.0	MEPE	283.0	46.0	8.02	9.72	10.6
+INI4103	Speed of sound through heel (L)	african_non_british_white_others_related_s_asian_white_british	6.0	LRP5	966.0	16.0	5.07	6.25	1.77
+INI4103	Speed of sound through heel (L)	african_non_british_white_others_related_s_asian_white_british	6.0	SMAD6	521.0	69.0	-0.15	1.82	6.46
+INI4104	Heel quantitative ultrasound index (QUI), direct entry (L)	african_non_british_white_others_related_s_asian_white_british	6.0	MEPE	283.0	46.0	8.15	9.85	11.1
+INI4104	Heel quantitative ultrasound index (QUI), direct entry (L)	african_non_british_white_others_related_s_asian_white_british	6.0	LRP5	966.0	16.0	4.95	6.25	1.76
+INI4104	Heel quantitative ultrasound index (QUI), direct entry (L)	african_non_british_white_others_related_s_asian_white_british	6.0	SMAD6	521.0	69.0	-0.356	1.59	5.27
+INI4105	Heel bone mineral density (BMD) (L)	african_non_british_white_others_related_s_asian_white_british	6.0	MEPE	282.0	45.0	7.77	8.99	10.2
+INI4105	Heel bone mineral density (BMD) (L)	african_non_british_white_others_related_s_asian_white_british	6.0	LRP5	965.0	16.0	5.02	6.36	1.8
+INI4106	Heel bone mineral density (BMD) T-score, automated (L)	african_non_british_white_others_related_s_asian_white_british	6.0	MEPE	283.0	46.0	8.15	9.85	11.1
+INI4106	Heel bone mineral density (BMD) T-score, automated (L)	african_non_british_white_others_related_s_asian_white_british	6.0	LRP5	966.0	16.0	4.95	6.25	1.76
+INI4106	Heel bone mineral density (BMD) T-score, automated (L)	african_non_british_white_others_related_s_asian_white_british	6.0	SMAD6	521.0	69.0	-0.355	1.59	5.27
+INI4119	Ankle spacing width (R)	african_non_british_white_others_related_s_asian_white_british	6.0	SMAD6	521.0	70.0	0.686	0.323	6.29
+INI4120	Heel broadband ultrasound attenuation (R)	african_non_british_white_others_related_s_asian_white_british	6.0	MEPE	285.0	45.0	5.22	6.39	7.27
+INI4122	Speed of sound through heel (R)	african_non_british_white_others_related_s_asian_white_british	6.0	MEPE	285.0	45.0	6.09	6.63	7.39
+INI4122	Speed of sound through heel (R)	african_non_british_white_others_related_s_asian_white_british	6.0	LRP5	966.0	16.0	4.37	5.64	1.6
+INI4123	Heel quantitative ultrasound index (QUI), direct entry (R)	african_non_british_white_others_related_s_asian_white_british	6.0	MEPE	285.0	45.0	6.23	6.96	7.85
+INI4123	Heel quantitative ultrasound index (QUI), direct entry (R)	african_non_british_white_others_related_s_asian_white_british	6.0	LRP5	966.0	16.0	4.15	5.35	1.69
+INI4124	Heel bone mineral density (BMD) (R)	african_non_british_white_others_related_s_asian_white_british	6.0	MEPE	285.0	45.0	6.21	6.67	7.53
+INI4124	Heel bone mineral density (BMD) (R)	african_non_british_white_others_related_s_asian_white_british	6.0	LRP5	964.0	16.0	4.33	5.36	1.73
+INI4125	Heel bone mineral density (BMD) T-score, automated (R)	african_non_british_white_others_related_s_asian_white_british	6.0	MEPE	285.0	45.0	6.23	6.96	7.85
+INI4125	Heel bone mineral density (BMD) T-score, automated (R)	african_non_british_white_others_related_s_asian_white_british	6.0	LRP5	966.0	16.0	4.15	5.35	1.69
+INI4194	Pulse rate	african_non_british_white_others_related_s_asian_white_british	6.0	TBX5	252.0	5.0	5.85	3.86	-0.111
+INI4194	Pulse rate	african_non_british_white_others_related_s_asian_white_british	6.0	MYH6	1097.0	45.0	5.82	1.69	-0.32
+INI4199	Position of pulse wave notch	african_non_british_white_others_related_s_asian_white_british	6.0	TBX5	252.0	5.0	5.28	3.8	-0.113
+INI4199	Position of pulse wave notch	african_non_british_white_others_related_s_asian_white_british	6.0	TTN	15143.0	510.0	-3.37	-1.01	5.41
+INI4451	Ave. monthly fortified wine intake	non_british_white_others_related_white_british	4.0	RASGRP1	144.0	7.0	5.2	2.41	2.88
+INI4451	Ave. monthly fortified wine intake	non_british_white_others_related_white_british	4.0	AMBRA1	176.0	4.0	5.31	2.93	3.96
+INI4462	Ave. monthly intake of other alcoholic drinks	non_british_white_others_related_white_british	4.0	STXBP5	165.0	3.0	9.53	1.71	10
+INI4462	Ave. monthly intake of other alcoholic drinks	non_british_white_others_related_white_british	4.0	CALM3	9.0	4.0	7.59	5.55	5.98
+INI4462	Ave. monthly intake of other alcoholic drinks	non_british_white_others_related_white_british	4.0	ZNF780A	131.0	12.0	7.68	0.638	0.296
+INI4462	Ave. monthly intake of other alcoholic drinks	non_british_white_others_related_white_british	4.0	ATRNL1	217.0	22.0	8.78	0.0834	0.626
+INI4462	Ave. monthly intake of other alcoholic drinks	non_british_white_others_related_white_british	4.0	GLS2	93.0	10.0	5.83	0.894	1.69
+INI4462	Ave. monthly intake of other alcoholic drinks	non_british_white_others_related_white_british	4.0	ANAPC1	251.0	5.0	5.44	0.819	2.22
+INI4462	Ave. monthly intake of other alcoholic drinks	non_british_white_others_related_white_british	4.0	ZEB2	165.0	9.0	5.72	1.59	2.21
+INI4462	Ave. monthly intake of other alcoholic drinks	non_british_white_others_related_white_british	4.0	ZNF326	76.0	9.0	5.69	1.75	1.64
+INI4462	Ave. monthly intake of other alcoholic drinks	non_british_white_others_related_white_british	4.0	SCAF4	202.0	2.0	4.06	0.916	6.73
+INI4462	Ave. monthly intake of other alcoholic drinks	non_british_white_others_related_white_british	4.0	PAK1	65.0	3.0	4.5	6.81	0.907
+INI4462	Ave. monthly intake of other alcoholic drinks	non_british_white_others_related_white_british	4.0	MAP3K3	121.0	2.0	3.97	1.44	5.89
+INI46	Hand grip strength (L)	african_non_british_white_others_related_s_asian_white_british	6.0	OMA1	322.0	31.0	2.98	5	-0.0748
+INI47	Hand grip strength (R)	african_non_british_white_others_related_s_asian_white_british	6.0	PAM	792.0	64.0	5.82	2.21	-0.545
+INI47	Hand grip strength (R)	african_non_british_white_others_related_s_asian_white_british	6.0	KDM5B	1065.0	91.0	1.11	5.12	3.86
+INI48	Waist circumference	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	272.0	23.0	1.34	6.93	2.38
+INI49	Hip circumference	african_non_british_white_others_related_s_asian_white_british	6.0	PDE3B	829.0	56.0	5.76	6.71	3.5
+INI49	Hip circumference	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	272.0	23.0	1.08	6.15	2.7
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	ZFAT	1066.0	47.0	27.2	18.3	2.66
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	SCMH1	477.0	26.0	13.6	1.99	3.77
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	HAPLN3	560.0	31.0	12.1	0.454	-0.166
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	STC2	210.0	11.0	12.7	2.69	-0.601
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	ACAN	1857.0	24.0	12.3	7.65	21.7
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	LCORL	1607.0	78.0	11	0.652	9.64
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	NPR3	427.0	17.0	11.6	15.5	0.12
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	FGFR3	1010.0	49.0	8.48	6.24	-0.534
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	PACC1	349.0	51.0	7.1	5.55	5.07
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	PTCH1	1337.0	36.0	7.09	0.107	1.07
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	FBN2	2209.0	37.0	7.87	2.97	0.0728
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	RPL5	159.0	4.0	5.39	5.8	-0.204
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	CRISPLD2	618.0	21.0	6.82	6.06	1.14
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	ADAMTS6	617.0	13.0	5.8	7.51	3.89
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	HTRA1	375.0	23.0	5.01	4.2	-0.31
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	NPR2	601.0	26.0	4.74	11.5	6.79
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	NRK	715.0	37.0	5.55	-0.291	0.169
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	PTH1R	373.0	12.0	5.26	3.01	0.659
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	ADAMTS17	1422.0	77.0	5.5	14.8	8.32
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	PDE3B	828.0	56.0	5.37	6.14	2.05
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	ANGPTL2	361.0	23.0	3.16	7.31	0.716
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	DTL	436.0	41.0	3.74	8.49	11.2
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	DDR2	479.0	13.0	2.62	8.24	2.06
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	PAPPA	1209.0	28.0	0.589	2.59	6.65
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	CRISPLD1	441.0	45.0	1.31	9.11	2.23
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	PIEZO1	4248.0	164.0	1.14	2.62	7.32
+INI50	Standing height	african_non_british_white_others_related_s_asian_white_british	6.0	LOXL2	873.0	58.0	0.509	5.27	1.63
+INI5084	Spherical power (R)	african_non_british_white_others_related_s_asian_white_british	6.0	SIX6	87.0	6.0	10.9	7.97	0.219
+INI5084	Spherical power (R)	african_non_british_white_others_related_s_asian_white_british	6.0	PRSS56	321.0	33.0	2.78	5.19	2.46
+INI5085	Spherical power (L)	african_non_british_white_others_related_s_asian_white_british	6.0	SIX6	86.0	6.0	11	7.73	0.246
+INI5085	Spherical power (L)	african_non_british_white_others_related_s_asian_white_british	6.0	PRSS56	319.0	33.0	3.23	5.86	2.4
+INI5096	3mm weak meridian (L)	african_non_british_white_others_related_s_asian_white_british	6.0	PRSS56	314.0	33.0	4.73	8.01	3.24
+INI5097	6mm weak meridian (L)	african_non_british_white_others_related_s_asian_white_british	6.0	ANGPTL7	187.0	15.0	6.5	4.42	2.54
+INI5097	6mm weak meridian (L)	african_non_british_white_others_related_s_asian_white_british	6.0	PRSS56	292.0	30.0	3.25	6.62	3.02
+INI5098	6mm weak meridian (R)	african_non_british_white_others_related_s_asian_white_british	6.0	ANGPTL7	191.0	15.0	5.72	4.21	3.17
+INI5098	6mm weak meridian (R)	african_non_british_white_others_related_s_asian_white_british	6.0	PRSS56	291.0	29.0	4.54	8.66	3.99
+INI5099	3mm weak meridian (R)	african_non_british_white_others_related_s_asian_white_british	6.0	PRSS56	316.0	33.0	4.87	8.2	2.57
+INI5099	3mm weak meridian (R)	african_non_british_white_others_related_s_asian_white_british	6.0	SMAD6	409.0	53.0	-0.109	0.885	5.08
+INI5132	3mm strong meridian (R)	african_non_british_white_others_related_s_asian_white_british	6.0	PRSS56	316.0	33.0	4.37	6.69	2.1
+INI5133	6mm strong meridian (R)	african_non_british_white_others_related_s_asian_white_british	6.0	ANGPTL7	191.0	15.0	5.69	4.38	3.57
+INI5133	6mm strong meridian (R)	african_non_british_white_others_related_s_asian_white_british	6.0	PRSS56	291.0	29.0	3.95	7.24	3.05
+INI5134	6mm strong meridian (L)	african_non_british_white_others_related_s_asian_white_british	6.0	ANGPTL7	187.0	15.0	6	3.35	2.4
+INI5134	6mm strong meridian (L)	african_non_british_white_others_related_s_asian_white_british	6.0	PRSS56	292.0	30.0	3.21	5.39	2.05
+INI5135	3mm strong meridian (L)	african_non_british_white_others_related_s_asian_white_british	6.0	PRSS56	314.0	33.0	4.42	6.04	2.41
+INI5254	Intra-ocular pressure, corneal-compensated (R)	african_non_british_white_others_related_s_asian_white_british	6.0	ANGPTL7	208.0	17.0	5.09	1.05	-0.0887
+INI5255	Intra-ocular pressure, Goldmann-correlated (R)	african_non_british_white_others_related_s_asian_white_british	6.0	ANGPTL7	208.0	17.0	8.29	4.74	0.599
+INI5256	Corneal hysteresis (R)	african_non_british_white_others_related_s_asian_white_british	6.0	MAMDC2	263.0	22.0	11.1	4.85	0.449
+INI5256	Corneal hysteresis (R)	african_non_british_white_others_related_s_asian_white_british	6.0	COL6A1	723.0	20.0	4.89	1.73	8.13
+INI5257	Corneal resistance factor (R)	african_non_british_white_others_related_s_asian_white_british	6.0	MAMDC2	263.0	22.0	12.4	5.43	0.277
+INI5257	Corneal resistance factor (R)	african_non_british_white_others_related_s_asian_white_british	6.0	COL6A1	723.0	20.0	5.58	3.57	9.46
+INI5257	Corneal resistance factor (R)	african_non_british_white_others_related_s_asian_white_british	6.0	COL6A3	1643.0	36.0	2.25	-0.121	5.2
+INI5263	Intra-ocular pressure, Goldmann-correlated (L)	african_non_british_white_others_related_s_asian_white_british	6.0	ANGPTL7	207.0	17.0	8.01	7.82	1.05
+INI5264	Corneal hysteresis (L)	african_non_british_white_others_related_s_asian_white_british	6.0	MAMDC2	261.0	23.0	9.74	4.98	0.00801
+INI5264	Corneal hysteresis (L)	african_non_british_white_others_related_s_asian_white_british	6.0	COL6A1	719.0	20.0	4.8	1.64	10.8
+INI5265	Corneal resistance factor (L)	african_non_british_white_others_related_s_asian_white_british	6.0	MAMDC2	261.0	23.0	11.2	5.8	-0.0166
+INI5265	Corneal resistance factor (L)	african_non_british_white_others_related_s_asian_white_british	6.0	COL6A1	719.0	20.0	4.54	2.56	10.3
+INI5265	Corneal resistance factor (L)	african_non_british_white_others_related_s_asian_white_british	6.0	COL6A3	1641.0	37.0	3.81	-0.0464	5.73
+INI78	Heel bone mineral density (BMD) T-score, automated	non_british_white_others_related_white_british	4.0	MEPE	245.0	39.0	8.17	8.39	9.55
+INI78	Heel bone mineral density (BMD) T-score, automated	non_british_white_others_related_white_british	4.0	LRP5	837.0	27.0	8.59	13.5	0.954
+QT_FC1001180	Morning/evening person (chronotype)	african_non_british_white_others_related_s_asian_white_british	6.0	PER3	1125.0	102.0	7.89	2.36	0.396
+QT_FC1001558	Alcohol intake frequency.	african_non_british_white_others_related_s_asian_white_british	6.0	ADH1C	231.0	25.0	8.57	7.97	8.62
+QT_FC1001687	Comparative body size at age 10	african_non_british_white_others_related_s_asian_white_british	6.0	POMC	234.0	12.0	6.92	0.00967	0.483
+QT_FC1001687	Comparative body size at age 10	african_non_british_white_others_related_s_asian_white_british	6.0	MC4R	209.0	18.0	3.59	6.84	5.81
+QT_FC1001697	Comparative height size at age 10	african_non_british_white_others_related_s_asian_white_british	6.0	NPR2	514.0	18.0	1.31	5.94	1.89
+QT_FC1001697	Comparative height size at age 10	african_non_british_white_others_related_s_asian_white_british	6.0	SCMH1	381.0	21.0	9.57	0.0116	0.3
+QT_FC1001697	Comparative height size at age 10	african_non_british_white_others_related_s_asian_white_british	6.0	GHSR	244.0	24.0	1.2	5.06	2.23
+QT_FC1001697	Comparative height size at age 10	african_non_british_white_others_related_s_asian_white_british	6.0	ZFAT	870.0	36.0	6.12	5.86	0.546
+QT_FC1001697	Comparative height size at age 10	african_non_british_white_others_related_s_asian_white_british	6.0	NRK	583.0	33.0	5.43	-0.258	0.888
+QT_FC1001697	Comparative height size at age 10	african_non_british_white_others_related_s_asian_white_british	6.0	STC2	161.0	4.0	5.89	1.66	-0.0716
+QT_FC1001697	Comparative height size at age 10	african_non_british_white_others_related_s_asian_white_british	6.0	PDE3B	624.0	49.0	5.65	6.92	4.5
+QT_FC1001697	Comparative height size at age 10	african_non_british_white_others_related_s_asian_white_british	6.0	ACAN	1552.0	21.0	11.6	6.07	5.3
+QT_FC1001697	Comparative height size at age 10	african_non_british_white_others_related_s_asian_white_british	6.0	ADAMTS17	1217.0	65.0	4.91	11.2	5.28
+QT_FC1001697	Comparative height size at age 10	african_non_british_white_others_related_s_asian_white_british	6.0	NPR3	332.0	17.0	8.88	14.2	0.471
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	OCA2	952.0	68.0	142	99	13.1
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	MC1R	486.0	32.0	107	118	44.9
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	SLC24A5	331.0	46.0	64.3	32.6	-0.606
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	FANCA	2013.0	161.0	41.9	13.5	-0.385
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	HERC2	3153.0	50.0	44.5	2.63	-0.652
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	CPNE7	873.0	89.0	39.7	2.32	-0.608
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	TCF25	794.0	60.0	35.9	30.2	-0.495
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	CDK10	495.0	53.0	27.2	12.2	-0.37
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	TYR	557.0	70.0	32.8	46.1	15.6
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	ACSF3	702.0	56.0	23.5	1.28	-0.11
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	GAS8	593.0	50.0	26.2	0.371	-0.271
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	ZNF778	752.0	67.0	20.8	23.4	0.347
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	SLC45A2	548.0	41.0	18.8	37.8	13.8
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	ADAMTS12	1219.0	81.0	15.7	6.6	-0.304
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	TPCN2	868.0	66.0	14.6	-0.196	-0.149
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	ANKRD11	2053.0	23.0	16.7	10.4	-0.348
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	VPS9D1	691.0	42.0	8.49	0.394	-0.348
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	PIEZO1	4218.0	162.0	14	1.08	-0.365
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	SPG7	1147.0	123.0	9.85	-0.49	-0.426
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	GOLGA8M	853.0	46.0	11	2.64	1.51
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	SPIRE2	771.0	49.0	8.55	3.53	1.2
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	ZNF276	767.0	58.0	5.54	3.29	-0.415
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	TYRP1	625.0	77.0	12.1	17.3	8.06
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	PABPN1L	409.0	57.0	7.03	2.86	-0.423
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	SPATA33	318.0	51.0	7.35	7.57	7.18
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	SPATA2L	372.0	11.0	5.91	5.49	-0.106
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	CENPBD1	155.0	20.0	8.03	0.848	-0.11
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	ZNF469	3529.0	59.0	5.31	-0.641	0.212
+QT_FC1001717	Skin colour	african_non_british_white_others_related_s_asian_white_british	6.0	RAB32	166.0	23.0	2.16	5.3	1.99
+QT_FC1002060	Freq. of unenthusiasm / disinterest in last 2 weeks	african_non_british_white_others_related_s_asian_white_british	6.0	JADE1	312.0	10.0	2.86	3.21	5.34
+QT_FC1002395	Male pattern baldness severity quantitative	african_non_british_white_others_related_s_asian_white_british	6.0	HEPH	271.0	18.0	13.6	3.28	3.31
+QT_FC1002395	Male pattern baldness severity quantitative	african_non_british_white_others_related_s_asian_white_british	6.0	EDA2R	84.0	6.0	8.16	4.08	-0.17
