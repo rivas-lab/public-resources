@@ -23,9 +23,11 @@ When you find it useful to use this resource, please consider citing our digital
 
 Similary, we prepared a manually curated mapping table between the self-reported cancer ([UK Biobank Data Coding 3](http://biobank.ctsu.ox.ac.uk/crystal/coding.cgi?id=3) available in [UK Biobank Data Field 21001](https://biobank.ctsu.ox.ac.uk/crystal/field.cgi?id=20001)) and ICD-10 code. Here, we have the mapping file ([`self_report_ICD10_mapping_treeRespect.tsv`](self_report_ICD10_mapping_treeRespect.tsv)) that contains the following 3 columns:
 
-- meaning: types of cancer
-- self-reported coding: disease codes (self-reported cancer) in [UK Biobank Data Coding 3](http://biobank.ctsu.ox.ac.uk/crystal/coding.cgi?id=3)
-- ICD-10 Codes: disease codes (ICD10 codes) in [UK Biobank Data Coding 19](http://biobank.ctsu.ox.ac.uk/crystal/coding.cgi?id=19)
+- `GBE_ID`: our phenotype code used in [Globel Biobank Engine](http://gbe.stanford.edu/)
+- `UKB_coding3`: cancer (self-reported) in [UK Biobank Data Coding 3](http://biobank.ctsu.ox.ac.uk/crystal/coding.cgi?id=6)
+- `UKB_coding19`: disease codes (ICD10 codes) in [UK Biobank Data Coding 19](http://biobank.ctsu.ox.ac.uk/crystal/coding.cgi?id=19)
+- `GBE_short_name`: the phenotype name
+- `GBE_NAME`: the full phenotype name without abbreviation
 
 When you find it useful to use this resource, please consider citing our digital phenotyping paper[1].
 
